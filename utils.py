@@ -21,10 +21,10 @@ def count_prots_per_pfam(
 
     # NOTE: we will probably pass client directly to this func, for now we hardcode it for simplicity
     client = MongoClient(
-        host=db_host,
+        host=str(db_host),
         port=int(db_port),
-        username=user_name,
-        password=user_pd,
+        username=str(user_name),
+        password=str(user_pd),
         authSource="admin",
     )
     collection = client["CRC_YangY_2021"]["protein_pfam_domain"]
