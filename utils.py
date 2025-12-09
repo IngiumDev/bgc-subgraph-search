@@ -1,5 +1,6 @@
 from pymongo import MongoClient
 import re
+from collections import defaultdict
 
 import numpy as np
 import os
