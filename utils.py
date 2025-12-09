@@ -41,7 +41,8 @@ def count_prots_per_pfam(
         print(results)
 
         for doc in results:
-            pfam_dict[p_id].add(doc.protein_id)
+            print(doc)
+            pfam_dict[p_id].add(doc["protein_id"])
             # "PF05658" → {prot1, prot2}
 
     res = {k: len(v) for k, v in pfam_dict.items()}  # convert to pfam: count
