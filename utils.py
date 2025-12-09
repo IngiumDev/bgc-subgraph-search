@@ -38,14 +38,12 @@ def count_prots_per_pfam(
 
     for p_id in pfam_domains:
         results = collection.find({"Pfam_id": p_id})
-        print(results)
 
         for doc in results:
-            print(doc)
             pfam_dict[p_id].add(doc["protein_id"])
-            # "PF05658" → {prot1, prot2}
 
     res = {k: len(v) for k, v in pfam_dict.items()}  # convert to pfam: count
+    print(res)
     return res
 
 
