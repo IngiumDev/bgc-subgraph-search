@@ -1,3 +1,4 @@
+import warnings
 from pymongo import MongoClient
 import re
 from collections import defaultdict
@@ -97,6 +98,10 @@ def get_mandatory_domains(FG_query: str) -> list[str]:
         
     unique_mandatory_domains = list(set(mandatory_domains))
 
+    if not unique_mandatory_domains:
+        warnings.warn(
+            "No unambiguously mandatory Pfam domains were found in the FG query."
+        )
     return unique_mandatory_domains
 
 
