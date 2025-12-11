@@ -5,7 +5,9 @@ from pymongo import MongoClient
 from pymongo.collection import Collection as pymongoCollection
 from typing import List, Tuple, Dict, Optional
 import warnings
+import re
 
+from utils import count_prots_per_pfam, matches_fg_query
 
 MAX_BUFFER_SIZE = 5000  # split the input search list to avoid
 
@@ -18,7 +20,6 @@ return {search_value:[target_val]}
 """
 
 
-## TODO:
 def search_protein_by_FG(
     queryFG: str,
     DB_name: str,
@@ -26,6 +27,83 @@ def search_protein_by_FG(
     col_name: str = "protein_pfam_domain",
     max_buffer_size: int = MAX_BUFFER_SIZE,
 ):
+    """
+
+    :param queryFG:
+        FG query string in the new regular-expression-like format, describing
+        a Pfam domain architecture.
+        Example: "*, (PF05658 | PF05662){1,20}, *, PF03895"
+
+    :param DB_name:
+        Name of the MongoDB database containing the Pfam and FG collections
+        for the project to be searched.
+
+    :param client:
+        An active `MongoClient` instance connected to the MongoDB server.
+
+    :param col_name:
+        Name of the collection that stores per-domain Pfam annotations
+        (`protein_pfam_domain`-style schema: one document per Pfam hit).
+
+    :param max_buffer_size:
+        Maximum number of entries to process in a single batch when
+        splitting large queries or result sets (not strictly enforced in
+        the first draft implementation, but reserved for future scaling).
+
+    :return:
+        A list of `protein_id` strings whose FG matches `queryFG`.
+    """
+    # Check if query is valid
+
+    # extract mandatory domains
+    mandatory_domains = get_mandatory_domains(queryFG)
+
+    # TODO: Tests
+
+    # Query Database for mandatory domains
+    prots_per_pfam = count_prots_per_pfam(mandatory_domains) # Finalize parameters
+
+    # Get mandatory domain with least proteins
+    min_pfam = min(prots_per_pfam, key=prots_per_pfam.get)
+
+
+
+    # Query all the proteins that contain this PFAM domain
+    collection = client[DB_name][col_name]
+
+    # Extract all protein IDs that have this PFAM domain
+    protein_ids = collection.distinct("protein_id", {"Pfam_id": min_pfam})
+
+
+    matching_protein_ids = []
+    compact_protein_collection = client["CRC_YangY_2021"]["FG_interproscan_Pfam"]
+
+    # TODO: Refactor to only parse and compile the query once
+    for protein_id in protein_ids:
+        # Query the compact protein collection to get the PFAM domain string for this protein_id, It's in the FG field and they are separeted by :::
+        document = compact_protein_collection.find_one({
+            "protein_id": protein_id,
+            "FG": 1,
+            "_id": 0
+        }) # Only want the FG, what if there is none?
+        if document is None:
+            raise ValueError(f"No document found for protein_id: {protein_id}")
+
+        protein_Pfam_domains = document["FG"]
+        protein_Pfam_domains_string = protein_Pfam_domains.split(':::')
+
+        if matches_fg_query(queryFG, protein_Pfam_domains_string):
+            matching_protein_ids.append(protein_id)
+
+
+    return matching_protein_ids
+
+        # print(protein_id)
+
+
+    # Init matching result list i.e. matchingProteinIDs
+
+    # Iterate through each protein ID and create PFAM string from this and then use regular regex to match
 
     # return a list of protein_id
     pass
@@ -81,3 +159,4 @@ if __name__ == "__main__":
     user_pd = str(sys.argv[4])
 
     # search_protein_by_FG(TODO)
+
