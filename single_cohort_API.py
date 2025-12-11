@@ -56,14 +56,18 @@ def search_protein_by_FG(
     # Check if query is valid
 
     # extract mandatory domains
+    # TODO: Replace with actual name
     mandatory_domains = get_mandatory_domains(queryFG)
-
+    if len(mandatory_domains) == 0:
+        raise ValueError("No mandatory domains found in the FG query.")
     # TODO: Tests
 
     # Query Database for mandatory domains
+
     prots_per_pfam = count_prots_per_pfam(mandatory_domains) # Finalize parameters
 
     # Get mandatory domain with least proteins
+
     min_pfam = min(prots_per_pfam, key=prots_per_pfam.get)
 
 
@@ -76,10 +80,11 @@ def search_protein_by_FG(
 
 
     matching_protein_ids = []
-    compact_protein_collection = client["CRC_YangY_2021"]["FG_interproscan_Pfam"]
+    compact_protein_collection = client[DB_name]["FG_interproscan_Pfam"]
 
     # TODO: Refactor to only parse and compile the query once
     for protein_id in protein_ids:
+        # TODO: Optimize this by only querying once for all proteins
         # Query the compact protein collection to get the PFAM domain string for this protein_id, It's in the FG field and they are separeted by :::
         document = compact_protein_collection.find_one({
             "protein_id": protein_id,
@@ -90,7 +95,7 @@ def search_protein_by_FG(
             raise ValueError(f"No document found for protein_id: {protein_id}")
 
         protein_Pfam_domains = document["FG"]
-        protein_Pfam_domains_string = protein_Pfam_domains.split(':::')
+        protein_Pfam_domains_string = protein_Pfam_domains.replace(":::", "")
 
         if matches_fg_query(queryFG, protein_Pfam_domains_string):
             matching_protein_ids.append(protein_id)
