@@ -123,6 +123,27 @@ def search_protein_by_FG(
 
     logger.info(f"Total matching proteins found: {len(matching_protein_ids)}")
 
+    # NOTE: Here I added what still has to be done
+    # right now we have query -> prot_ids (in theory we could have this for several queries) 
+    # in the rest of get_FG2gc_id this is what happenes (we need to implement this):
+    # FG2prot_id_dic = get_FG2prot_id(FG_lst,DB_name,client,col_name,max_buffer_size=MAX_BUFFER_SIZE) # old func which we replace (both return p_ids)
+    #
+    # ret = {}
+    # for FG in FG2prot_id_dic:
+    # 	cur_prot_id_lst = FG2prot_id_dic[FG] # all prots matching query
+    #     # log: 
+    #     # FG2prot_id_dic (first entry)
+    #     # PF02606: ['Germany__4249__k119_38096::141::143966::145006::-', 'Germany__4249__k119_11459::3::3403::4437::+', ... ]
+    # 	ret[FG] = []
+    # 	cur_prot_id2gc_id_dic = _prot_id2gc_id(cur_prot_id_lst,DB_name,client,max_buffer_size=MAX_BUFFER_SIZE) # {prot_id:[gc_id_lst]}
+    #     # log: 
+    #     # cur_prot_id2gc_id_dic
+    #     # Germany__4249__k119_38096::141::143966::145006::- ['Germany__4249__k119_38096::141::143966::145006::-', 'US__11562__k141_79879::2::843::1766::+', 'Israel__10088__k141_85188::6::4068::4940::+']
+    # 	for cur_prot_id in cur_prot_id2gc_id_dic:
+    # 		ret[FG] = ret[FG] + cur_prot_id2gc_id_dic[cur_prot_id]
+    # 	
+    # return ret
+
     return matching_protein_ids
 
     # print(protein_id)
