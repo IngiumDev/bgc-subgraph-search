@@ -95,7 +95,10 @@ def search_protein_by_FG(
     matching_protein_ids = []
     compact_protein_collection = client[DB_name]["FG_interproscan_Pfam"]
 
-    FG_query = queryFG.replace(", ", "").replace(" ", "").replace("*", ".*")
+    FG_query = queryFG.replace(" *", ".*").replace(", ", "").replace(" ", "").replace(",", "")
+    if FG_query.startswith("*"):
+      FG_query = f".{FG_query}" # handle edge case
+      
     logger.info(f"Compiled FG query regex: {FG_query}")
     pattern = re.compile(FG_query)
     logger.info("Searching for matching proteins based on FG query using batched $in queries.")
