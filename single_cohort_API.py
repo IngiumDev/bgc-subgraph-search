@@ -98,28 +98,44 @@ def search_protein_by_FG(
     FG_query = queryFG.replace(", ", "").replace(" ", "").replace("*", ".*")
     logger.info(f"Compiled FG query regex: {FG_query}")
     pattern = re.compile(FG_query)
-    logger.info("Searching for matching proteins based on FG query.")
-    for idx, protein_id in enumerate(protein_ids):
-        # TODO: Optimize this by only querying once for all proteins
-        # Query the compact protein collection to get the PFAM domain string for this protein_id, It's in the FG field and they are separeted by :::
-        if idx % 100 == 0:
-            logger.info(f"Processing protein_id {idx + 1}/{len(protein_ids)}: {protein_id}")
-        document = compact_protein_collection.find_one({
-            "protein_id": protein_id},
-            {"FG": 1,
-             "_id": 0
-             })  # Only want the FG, what if there is none?
-        if document is None:
-            raise ValueError(f"No document found for protein_id: {protein_id}")
+    logger.info("Searching for matching proteins based on FG query using batched $in queries.")
 
-        protein_Pfam_domains = document["FG"]
+    # Process protein_ids in batches to reduce the number of queries.
+    batch_size = 100
+    total = len(protein_ids)
+    for start in range(0, total, batch_size):
+        end = min(start + batch_size, total)
+        batch = protein_ids[start:end]
+        logger.info(f"Processing proteins {start + 1}-{end}/{total} (batch size {len(batch)})")
 
-        protein_Pfam_domains_string = protein_Pfam_domains.replace(":::", "")
+        # Fetch all documents for this batch with a single $in query
+        cursor = compact_protein_collection.find(
+            {"protein_id": {"$in": batch}}, {"protein_id": 1, "FG": 1, "_id": 0}
+        )
 
-        logger.debug(f"Protein PFAM domain string: {protein_Pfam_domains_string}")
-        if matches_fg_query(pattern, protein_Pfam_domains_string):
-            logger.debug(f"Protein {protein_id} matches the FG query.")
-            matching_protein_ids.append(protein_id)
+        # Map returned documents by protein_id for quick lookup
+        found_docs = {}
+        for doc in cursor:
+            pid = doc.get("protein_id")
+            if pid is None:
+                raise ValueError("Document missing protein_id field during batch fetch")
+            found_docs[pid] = doc
+
+        # If any protein_id in the batch is missing from the returned docs, raise same error as before
+        missing = [pid for pid in batch if pid not in found_docs]
+        if missing:
+            raise ValueError(f"No document found for protein_id(s): {', '.join(missing)}")
+
+        # Iterate in original order to preserve ordering and logging
+        for idx_in_batch, protein_id in enumerate(batch, start=start):
+            document = found_docs[protein_id]
+            protein_Pfam_domains = document.get("FG")
+            protein_Pfam_domains_string = protein_Pfam_domains.replace(":::", "")
+
+            logger.debug(f"Protein PFAM domain string: {protein_Pfam_domains_string}")
+            if matches_fg_query(pattern, protein_Pfam_domains_string):
+                logger.debug(f"Protein {protein_id} matches the FG query.")
+                matching_protein_ids.append(protein_id)
 
     logger.info(f"Total matching proteins found: {len(matching_protein_ids)}")
 
