@@ -284,9 +284,8 @@ def search_protein_by_FG_old(
     matching_protein_ids = []
     compact_protein_collection = client[DB_name]["FG_interproscan_Pfam"]
 
-    FG_query = queryFG.replace(", ", "").replace(" ", "").replace("*", ".*")
-    logger.info(f"Compiled FG query regex: {FG_query}")
-    pattern = re.compile(FG_query)
+    pattern = compile_fg_query_pattern(queryFG)
+    
     logger.info("Searching for matching proteins based on FG query.")
     for idx, protein_id in enumerate(protein_ids):
         # TODO: Optimize this by only querying once for all proteins
@@ -335,6 +334,30 @@ def search_protein_by_FG_old(
 
     return matching_protein_ids
 #
+
+def compile_fg_query_pattern(queryFG: str) -> re.Pattern[str]:
+	"""Convert an FG query string into a compiled regex pattern."""
+	cleaned_query = (queryFG or "").strip()
+	if not cleaned_query:
+		raise ValueError("FG query cannot be empty.")
+
+	fg_regex = (
+		cleaned_query.replace(" *", ".*")
+		.replace(", ", "")
+		.replace(" ", "")
+		.replace(",", "")
+	)
+
+	if fg_regex.startswith("*"):
+		fg_regex = f".{fg_regex}"
+
+	try:
+		return re.compile(fg_regex)
+	except re.error as exc:
+		raise ValueError(
+			f"Failed to compile FG regex from query '{queryFG}': {exc}"
+		) from exc
+
 
 if __name__ == "__main__":
     # testing
