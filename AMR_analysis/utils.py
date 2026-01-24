@@ -74,3 +74,15 @@ def graph_taxonomy_summary(
 
     percent = (top_count / total) * 100.0
     return (percent, top_val)
+
+
+def load_functional_groups_file(functional_groups_path):
+    protein_id_to_element = {}
+    with open(functional_groups_path, 'r') as f:
+        next(f)  # skip header
+        for line in f:
+            parts = line.strip().split('\t')
+            if len(parts) == 2:
+                protein_id, element_symbol = parts
+                protein_id_to_element[protein_id] = element_symbol
+    return protein_id_to_element
