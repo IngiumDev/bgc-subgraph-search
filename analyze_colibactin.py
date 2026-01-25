@@ -533,7 +533,97 @@ def plot_abundance_boxplots_per_d_group(
         )
         plt.close()
 
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+import numpy as np
+from matplotlib.patches import Rectangle, FancyBboxPatch
+from matplotlib.collections import PatchCollection
 
+def analyze_contig_break():
+# Read the BLAST data
+
+    
+    columns = ['gene', 'contig', 'pident', 'length', 'mismatch', 'gapopen', 
+               'qstart', 'qend', 'sstart', 'send', 'evalue', 'bitscore']
+    df = pd.read_csv("./data/clbGenes/hits.tsv", sep='\t', names=columns)
+
+    gene_order = ['clbB', 'clbC', 'clbD', 'clbE', 'clbF', 'clbG', 'clbH', 'clbI', 
+                  'clbJ', 'clbK', 'clbL', 'clbM', 'clbN', 'clbO', 'clbP', 'clbQ', 'clbS']
+
+    contig_order = ['k141_0', 'k141_1', 'k141_2', 'k141_3']
+
+    plt.figure(figsize=(16, 6))
+
+    hit_matrix = df.groupby(['gene', 'contig']).size().unstack(fill_value=0)
+    hit_matrix = hit_matrix.reindex(index=gene_order, columns=contig_order, fill_value=0)
+
+    presence_matrix = (hit_matrix > 0).astype(int)
+
+    ax = sns.heatmap(hit_matrix, annot=True, fmt='d', cmap='YlOrRd', 
+                cbar_kws={'label': 'Number of BLAST hits'})
+    ax.set_title('Number of BLAST Hits per Gene-Contig Pair', fontsize=14, fontweight='bold')
+    ax.set_xlabel('Contig', fontsize=12)
+    ax.set_ylabel('Gene (operon order)', fontsize=12)
+
+    plt.tight_layout()
+    plt.savefig('./plots/contig_break/gene_contig_heatmap.png', dpi=300, bbox_inches='tight')
+    plt.show()
+
+# ==============================================================================
+# 2. COVERAGE MAP - GENE TILING ACROSS CONTIGS
+# ==============================================================================
+    fig, axes = plt.subplots(len(contig_order), 1, figsize=(20, 12), sharex=False)
+
+    colors = plt.cm.tab20(np.linspace(0, 1, len(gene_order)))
+    gene_colors = dict(zip(gene_order, colors))
+
+    for idx, contig in enumerate(contig_order):
+        ax = axes[idx]
+        contig_data = df[df['contig'] == contig].copy()
+        
+        if len(contig_data) == 0:
+            ax.text(0.5, 0.5, 'No alignments', ha='center', va='center', 
+                    fontsize=12, transform=ax.transAxes)
+            ax.set_xlim(0, 1)
+        else:
+            # Get contig length
+            contig_length = max(contig_data['send'].max(), contig_data['sstart'].max())
+            
+            for _, row in contig_data.iterrows():
+                start = min(row['sstart'], row['send'])
+                end = max(row['sstart'], row['send'])
+                gene = row['gene']
+                pident = row['pident']
+                
+                # Color intensity based on identity
+                alpha = 0.4 + 0.6 * (pident / 100.0)
+                
+                rect = Rectangle((start, gene_order.index(gene)), 
+                               end - start, 0.8,
+                               facecolor=gene_colors[gene], 
+                               edgecolor='black', 
+                               linewidth=1.5,
+                               alpha=alpha)
+                ax.add_patch(rect)
+                
+                # Add gene label
+                ax.text((start + end) / 2, gene_order.index(gene) + 0.4, 
+                       gene, ha='center', va='center', fontsize=8, fontweight='bold')
+        
+            ax.set_xlim(0, contig_length)
+        
+        ax.set_ylim(-0.5, len(gene_order) - 0.5)
+        ax.set_yticks(range(len(gene_order)))
+        ax.set_yticklabels(gene_order)
+        ax.set_ylabel('Genes', fontsize=10)
+        ax.set_title(f'{contig} (length: {contig_length:,} bp)', fontsize=12, fontweight='bold')
+        ax.grid(axis='x', alpha=0.3)
+        ax.set_xlabel('Contig position (bp)', fontsize=10)
+
+    plt.tight_layout()
+    plt.savefig('./plots/contig_break/gene_coverage_tiling.png', dpi=300, bbox_inches='tight')
+    plt.show()
 
 if __name__ == "__main__":
     # compare_fg_to_gc()
@@ -543,3 +633,7 @@ if __name__ == "__main__":
     # plot_prevalence_boxplots(base_dir="./data/comparisons/graphs/")
 
     plot_abundance_boxplots_per_d_group(base_dir="./data/comparisons/graphs/")
+    analyze_contig_break()
+
+
+
