@@ -447,10 +447,17 @@ def plot_abundance_boxplots_per_d_group(
             graph_name = json_file.stem
             graph_id = int(graph_name.split("_", 1)[0])
 
+            data = ""
             with open(json_file) as f:
-                node_info = json.load(f)["node_info"]
+                data = json.load(f)
+
+            node_info = data["node_info"]
+            node_labels = data["label_info"]
 
             for node_id, node_data in node_info.items():
+                # if node_id not in node_labels.keys():
+                #     continue
+
                 abundance_annot = node_data.get("abundance_annotation", {})
 
                 # group abundances by disease group
@@ -573,7 +580,7 @@ def analyze_contig_break():
 # ==============================================================================
 # 2. COVERAGE MAP - GENE TILING ACROSS CONTIGS
 # ==============================================================================
-    fig, axes = plt.subplots(len(contig_order), 1, figsize=(20, 12), sharex=False)
+    fig, axes = plt.subplots(len(contig_order), 1, figsize=(20, 18), sharex=False)
 
     colors = plt.cm.tab20(np.linspace(0, 1, len(gene_order)))
     gene_colors = dict(zip(gene_order, colors))
@@ -633,7 +640,5 @@ if __name__ == "__main__":
     # plot_prevalence_boxplots(base_dir="./data/comparisons/graphs/")
 
     plot_abundance_boxplots_per_d_group(base_dir="./data/comparisons/graphs/")
-    analyze_contig_break()
-
-
+    # analyze_contig_break()
 
