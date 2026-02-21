@@ -1,0 +1,1740 @@
+[
+    {
+        "Germany__2081__k119_4298::126::114372::115379::+": [
+            "msp_0003",
+            "accessory",
+            "Escherichia_coli",
+            "Unclassified Bacteria"
+        ],
+        "Germany__8712__k141_44478::10::9277::9690::+": [
+            "msp_0003",
+            "accessory",
+            "Escherichia_coli",
+            "Unclassified Bacteria"
+        ],
+        "Germany__2081__k119_4298::120::105501::105719::+": [
+            "msp_0003",
+            "core",
+            "Escherichia_coli",
+            "Unclassified Bacteria"
+        ],
+        "Germany__2081__k119_4298::125::113583::114260::+": [
+            "msp_0003",
+            "accessory",
+            "Escherichia_coli",
+            "Unclassified Bacteria"
+        ],
+        "Germany__2081__k119_4298::121::105814::107205::+": [
+            "msp_0003",
+            "accessory",
+            "Escherichia_coli",
+            "Unclassified Bacteria"
+        ],
+        "Germany__2081__k119_4298::124::112873::113583::+": [
+            "msp_0003",
+            "core",
+            "Escherichia_coli",
+            "Unclassified Bacteria"
+        ],
+        "Israel__10137__k141_263310::2::245::718::-": [
+            "msp_0003",
+            "shared_core",
+            "Escherichia_coli",
+            "Unclassified Bacteria"
+        ],
+        "Germany__8712__k141_44478::11::10099::10461::+": [
+            "msp_0003",
+            "accessory",
+            "Escherichia_coli",
+            "Unclassified Bacteria"
+        ],
+        "Germany__2081__k119_4298::122::107598::111341::+": [
+            "msp_0003",
+            "core",
+            "Escherichia_coli",
+            "Unclassified Bacteria"
+        ],
+        "Germany__2081__k119_4298::133::121810::122652::-": [
+            "msp_0003",
+            "core",
+            "Escherichia_coli",
+            "Unclassified Bacteria"
+        ],
+        "Germany__8455__k141_79705::35::32684::32863::-": [
+            "msp_0003",
+            "accessory",
+            "Escherichia_coli",
+            "Unclassified Bacteria"
+        ],
+        "Germany__8089__k141_75877::29::29074::29538::-": [
+            "msp_0003",
+            "shared_core",
+            "Escherichia_coli",
+            "Unclassified Bacteria"
+        ]
+    },
+    {
+        "Germany__2081__k119_116001::10::7619::8299::-": [
+            "msp_0003",
+            "accessory",
+            "Escherichia_coli",
+            "Unclassified Bacteria"
+        ],
+        "Germany__2081__k119_116001::8::5705::6550::+": [
+            "msp_0003",
+            "accessory",
+            "Escherichia_coli",
+            "Unclassified Bacteria"
+        ],
+        "Germany__2081__k119_116001::13::10532::14272::-": [
+            "msp_0003",
+            "accessory",
+            "Escherichia_coli",
+            "Unclassified Bacteria"
+        ],
+        "Germany__8653__k119_52015::2::546::1877::+": [
+            "msp_0003",
+            "accessory",
+            "Escherichia_coli",
+            "Unclassified Bacteria"
+        ],
+        "France__9845__k141_31491::2::218::1099::+": [
+            "msp_0003",
+            "accessory",
+            "Escherichia_coli",
+            "Unclassified Bacteria"
+        ],
+        "Germany__8092__k141_3547::4::2508::2843::+": [
+            "msp_0003",
+            "accessory",
+            "Escherichia_coli",
+            "Unclassified Bacteria"
+        ],
+        "Israel__10109__k141_113018::2::1125::2279::-": [
+            "msp_0003",
+            "accessory",
+            "Escherichia_coli",
+            "Unclassified Bacteria"
+        ],
+        "Germany__2081__k119_116001::12::8991::10535::-": [
+            "msp_0003",
+            "accessory",
+            "Escherichia_coli",
+            "Unclassified Bacteria"
+        ],
+        "US__11556__k141_904::24::25342::25908::+": [
+            "msp_0003",
+            "accessory",
+            "Escherichia_coli",
+            "Unclassified Bacteria"
+        ],
+        "Germany__8092__k141_3547::3::1513::2469::+": [
+            "msp_0003",
+            "accessory",
+            "Escherichia_coli",
+            "Unclassified Bacteria"
+        ],
+        "Germany__8455__k141_6059::5::3186::3866::-": [
+            "msp_0003",
+            "accessory",
+            "Escherichia_coli",
+            "Unclassified Bacteria"
+        ],
+        "Germany__8455__k141_6059::4::2214::3107::-": [
+            "msp_0003",
+            "accessory",
+            "Escherichia_coli",
+            "Unclassified Bacteria"
+        ]
+    },
+    {
+        "Germany__8542__k119_163451::5::2427::3089::-": [
+            "msp_0074",
+            "core",
+            "Bilophila_wadsworthia",
+            "Bilophila"
+        ],
+        "Israel__10162__k141_447017::1::1::1191::-": [
+            "msp_0074",
+            "accessory",
+            "Bilophila_wadsworthia",
+            "Bilophila"
+        ],
+        "Germany__8542__k119_163451::6::3362::3919::-": [
+            "msp_0074",
+            "accessory",
+            "Bilophila_wadsworthia",
+            "Bilophila"
+        ],
+        "Germany__2145__k141_155355::2::3882::4322::-": [
+            "msp_0074",
+            "accessory",
+            "Bilophila_wadsworthia",
+            "Bilophila"
+        ],
+        "Germany__9485__k141_17645::2::459::1928::-": [
+            "msp_0074",
+            "shared_core",
+            "Bilophila_wadsworthia",
+            "Bilophila"
+        ],
+        "Israel__10131__k141_427137::1::20::3772::-": [
+            "msp_0074",
+            "core",
+            "Bilophila_wadsworthia",
+            "Bilophila"
+        ],
+        "US__11552__k141_115708::2::1396::2208::+": [
+            "msp_0074",
+            "accessory",
+            "Bilophila_wadsworthia",
+            "Bilophila"
+        ],
+        "Germany__6243__k119_118714::2::962::2041::+": [
+            "msp_0074",
+            "accessory",
+            "Bilophila_wadsworthia",
+            "Bilophila"
+        ],
+        "US__11537__k141_40478::9::10088::11221::-": [
+            "msp_0074",
+            "core",
+            "Bilophila_wadsworthia",
+            "Bilophila"
+        ]
+    },
+    {
+        "US__11537__k141_141281::13::15838::16614::+": [
+            "msp_1358",
+            "accessory",
+            "Actinomyces_odontolyticus",
+            "Pauljensenia"
+        ],
+        "Germany__9711_Germ__k141_348195::1::62::751::-": [
+            "msp_1358",
+            "accessory",
+            "Actinomyces_odontolyticus",
+            "Pauljensenia"
+        ],
+        "Israel__10128__k141_19803::3::1645::2421::+": [
+            "msp_0582",
+            "shared_core",
+            "Actinomyces_odontolyticus",
+            "Pauljensenia"
+        ],
+        "US__11538__k141_83955::2::139::558::-": [
+            "msp_1056",
+            "shared_core",
+            "Actinomyces_odontolyticus",
+            "Pauljensenia"
+        ],
+        "France__9907__k141_296269::6::3664::4437::-": [
+            "msp_0931",
+            "accessory",
+            "Actinomyces_odontolyticus",
+            "Pauljensenia"
+        ],
+        "US__11583__k141_80207::4::2088::3080::-": [
+            "msp_0557",
+            "accessory",
+            "Actinomyces_odontolyticus",
+            "Pauljensenia"
+        ],
+        "France__9907__k141_296269::7::4443::5132::-": [
+            "msp_0931",
+            "core",
+            "Actinomyces_odontolyticus",
+            "Pauljensenia"
+        ],
+        "US__11583__k141_64238::3::1794::2213::+": [
+            "msp_0582",
+            "accessory",
+            "Actinomyces_odontolyticus",
+            "Pauljensenia"
+        ],
+        "US__11537__k141_141281::15::18034::18453::+": [
+            "msp_1114",
+            "shared_core",
+            "Actinomyces_odontolyticus",
+            "Pauljensenia"
+        ],
+        "France__9907__k141_296269::5::2383::3378::-": [
+            "msp_0931",
+            "core",
+            "Actinomyces_odontolyticus",
+            "Pauljensenia"
+        ],
+        "US__11537__k141_141281::14::16937::17932::+": [
+            "msp_1114",
+            "shared_core",
+            "Actinomyces_odontolyticus",
+            "Pauljensenia"
+        ],
+        "US__11593__k141_168442::1::353::1345::+": [
+            "msp_0582",
+            "accessory",
+            "Actinomyces_odontolyticus",
+            "Pauljensenia"
+        ],
+        "US__11537__k141_141281::10::9826::13596::+": [
+            "msp_1358",
+            "core",
+            "Actinomyces_odontolyticus",
+            "Pauljensenia"
+        ],
+        "France__9907__k141_296269::4::1862::2281::-": [
+            "msp_0931",
+            "core",
+            "Actinomyces_odontolyticus",
+            "Pauljensenia"
+        ],
+        "Germany__9711_Germ__k141_599316::2::579::2129::-": [
+            "msp_1358",
+            "shared_core",
+            "Actinomyces_odontolyticus",
+            "Pauljensenia"
+        ],
+        "US__11583__k141_80207::5::3371::4147::-": [
+            "msp_0557",
+            "accessory",
+            "Actinomyces_odontolyticus",
+            "Pauljensenia"
+        ],
+        "US__11585__k141_55729::8::6685::7104::+": [
+            "msp_0557",
+            "accessory",
+            "Actinomyces_odontolyticus",
+            "Pauljensenia"
+        ],
+        "France__9853__k141_114979::4::2031::3032::+": [
+            "msp_1056",
+            "shared_accessory",
+            "Actinomyces_odontolyticus",
+            "Pauljensenia"
+        ]
+    },
+    {
+        "Israel__10109__k141_137144::1::42::656::-": [
+            "msp_0176",
+            "core",
+            "Veillonella_atypica",
+            "Veillonella"
+        ],
+        "US__11569__k141_11165::3::1465::1992::-": [
+            "msp_0176",
+            "shared_accessory",
+            "Veillonella_atypica",
+            "Veillonella"
+        ],
+        "Germany__8483__k141_80540::1::62::763::+": [
+            "msp_0135",
+            "shared_accessory",
+            "Veillonella_atypica",
+            "Veillonella"
+        ],
+        "Germany__7927__k141_43214::1::2::1339::-": [
+            "msp_0176",
+            "accessory",
+            "Veillonella_atypica",
+            "Veillonella"
+        ],
+        "Germany__7927__k141_55901::8::7837::9030::-": [
+            "msp_0135",
+            "shared_accessory",
+            "Veillonella_atypica",
+            "Veillonella"
+        ],
+        "Israel__10087__k141_284090::1::126::812::-": [
+            "msp_0374",
+            "shared_core",
+            "Veillonella_atypica",
+            "Veillonella"
+        ],
+        "Germany__5176__k119_34665::2::1370::2797::+": [
+            "msp_1081",
+            "shared_core",
+            "Veillonella_atypica",
+            "Veillonella"
+        ],
+        "Germany__5176__k119_34665::4::3318::3989::+": [
+            "msp_1081",
+            "shared_core",
+            "Veillonella_atypica",
+            "Veillonella"
+        ],
+        "France__9883__k141_172786::4::2597::3247::-": [
+            "msp_0374",
+            "accessory",
+            "Veillonella_atypica",
+            "Veillonella"
+        ],
+        "Germany__4759__k141_73543::4::2550::6224::-": [
+            "msp_0176",
+            "shared_core",
+            "Veillonella_atypica",
+            "Veillonella"
+        ],
+        "Germany__5028__k141_24917::6::7515::8240::-": [
+            "msp_0374",
+            "shared_core",
+            "Veillonella_atypica",
+            "Veillonella"
+        ],
+        "Germany__8483__k141_94435::2::75::1502::-": [
+            "msp_0176",
+            "shared_core",
+            "Veillonella_atypica",
+            "Veillonella"
+        ],
+        "Germany__4759__k141_11224::3::2266::3537::-": [
+            "msp_0374",
+            "shared_accessory",
+            "Veillonella_atypica",
+            "Veillonella"
+        ]
+    },
+    {
+        "Germany__9711_Germ__k141_126899::2::134::922::+": [
+            "msp_0746",
+            "accessory",
+            "Actinomyces_oris",
+            "Actinomyces oris"
+        ],
+        "US__11547__k141_133121::2::100::867::+": [
+            "msp_0746",
+            "core",
+            "Actinomyces_oris",
+            "Actinomyces oris"
+        ],
+        "Israel__10044__k141_149334::14::17130::18140::-": [
+            "msp_0746",
+            "accessory",
+            "Actinomyces_oris",
+            "Actinomyces oris"
+        ],
+        "US__11547__k141_287553::2::751::2448::+": [
+            "msp_0746",
+            "accessory",
+            "Actinomyces_oris",
+            "Actinomyces oris"
+        ]
+    },
+    {
+        "Germany__4833__k141_24364::4::2303::3574::-": [
+            "msp_0220",
+            "accessory",
+            "Veillonella_parvula",
+            "Veillonella"
+        ],
+        "Germany__7049__k141_188::7::8380::9651::+": [
+            "msp_0220",
+            "accessory",
+            "Veillonella_parvula",
+            "Veillonella"
+        ],
+        "France__9832__k141_185790::2::329::901::+": [
+            "msp_0220",
+            "accessory",
+            "Veillonella_parvula",
+            "Veillonella"
+        ],
+        "Germany__2809__k119_5608::5::4393::5730::-": [
+            "msp_0374",
+            "shared_core",
+            "Veillonella_parvula",
+            "Veillonella"
+        ],
+        "Germany__4833__k141_24364::8::5938::7371::-": [
+            "msp_0220",
+            "core",
+            "Veillonella_parvula",
+            "Veillonella"
+        ],
+        "France__9828__k141_199030::2::1248::2681::+": [
+            "msp_0220",
+            "shared_accessory",
+            "Veillonella_parvula",
+            "Veillonella"
+        ],
+        "Germany__4833__k141_24364::5::3826::4428::-": [
+            "msp_0220",
+            "accessory",
+            "Veillonella_parvula",
+            "Veillonella"
+        ],
+        "Germany__4833__k141_24364::9::7361::11038::-": [
+            "msp_0220",
+            "core",
+            "Veillonella_parvula",
+            "Veillonella"
+        ],
+        "Germany__2970__k119_46414::5::6686::7357::+": [
+            "msp_0220",
+            "accessory",
+            "Veillonella_parvula",
+            "Veillonella"
+        ],
+        "Germany__4833__k141_24364::10::11110::11835::-": [
+            "msp_0220",
+            "core",
+            "Veillonella_parvula",
+            "Veillonella"
+        ]
+    },
+    {
+        "Germany__8542__k119_139727::17::17876::19468::-": [
+            "msp_0157",
+            "shared_accessory",
+            "Parasutterella_excrementihominis",
+            "Parasutterella"
+        ],
+        "Germany__8542__k119_139727::21::25981::27585::+": [
+            "msp_0157",
+            "shared_accessory",
+            "Parasutterella_excrementihominis",
+            "Parasutterella"
+        ],
+        "Germany__8542__k119_139727::23::28582::29022::-": [
+            "msp_0157",
+            "accessory",
+            "Parasutterella_excrementihominis",
+            "Parasutterella"
+        ],
+        "US__11498__k141_93622::15::14301::18065::-": [
+            "msp_0157",
+            "shared_accessory",
+            "Parasutterella_excrementihominis",
+            "Parasutterella"
+        ],
+        "France__9835__k141_90617::1::62::1474::+": [
+            "msp_0157",
+            "shared_accessory",
+            "Parasutterella_excrementihominis",
+            "Parasutterella"
+        ],
+        "Germany__8542__k119_139727::18::20084::20710::-": [
+            "msp_0157",
+            "shared_accessory",
+            "Parasutterella_excrementihominis",
+            "Parasutterella"
+        ],
+        "Germany__8542__k119_139727::30::37859::38764::+": [
+            "msp_0157",
+            "shared_accessory",
+            "Parasutterella_excrementihominis",
+            "Parasutterella"
+        ],
+        "Germany__8542__k119_139727::24::29201::30175::-": [
+            "msp_0157",
+            "accessory",
+            "Parasutterella_excrementihominis",
+            "Parasutterella"
+        ],
+        "Germany__8542__k119_139727::16::16013::17614::+": [
+            "msp_0157",
+            "shared_accessory",
+            "Parasutterella_excrementihominis",
+            "Parasutterella"
+        ],
+        "Germany__8542__k119_139727::19::20882::22177::+": [
+            "msp_0157",
+            "shared_accessory",
+            "Parasutterella_excrementihominis",
+            "Parasutterella"
+        ]
+    },
+    {
+        "US__11587__k141_37455::4::6676::7899::-": [
+            "msp_1096",
+            "shared_accessory",
+            "Rothia_mucilaginosa",
+            "Rothia mucilaginosa"
+        ],
+        "US__11585__k141_36707::23::31040::33880::-": [
+            "msp_1096",
+            "shared_core",
+            "Rothia_mucilaginosa",
+            "Rothia mucilaginosa"
+        ],
+        "US__11585__k141_36707::28::38658::42377::-": [
+            "msp_1096",
+            "shared_core",
+            "Rothia_mucilaginosa",
+            "Rothia mucilaginosa"
+        ],
+        "US__11593__k141_176512::2::121::954::-": [
+            "msp_1096",
+            "accessory",
+            "Rothia_mucilaginosa",
+            "Rothia mucilaginosa"
+        ],
+        "US__11550__k141_153625::2::1110::2303::-": [
+            "msp_1096",
+            "accessory",
+            "Rothia_mucilaginosa",
+            "Rothia mucilaginosa"
+        ],
+        "US__11586__k141_51175::3::1292::2032::-": [
+            "msp_1096",
+            "core",
+            "Rothia_mucilaginosa",
+            "Rothia mucilaginosa"
+        ],
+        "US__11550__k141_104442::2::1311::2924::+": [
+            "msp_1096",
+            "core",
+            "Rothia_mucilaginosa",
+            "Rothia mucilaginosa"
+        ]
+    },
+    {
+        "Germany__2145__k141_217451::38::42293::43072::+": [
+            "msp_0512",
+            "accessory",
+            "NA",
+            "CAG-1427"
+        ],
+        "Germany__2145__k141_217451::32::33353::33724::-": [
+            "msp_0512",
+            "accessory",
+            "NA",
+            "CAG-1427"
+        ],
+        "Germany__2145__k141_217451::40::46371::47300::+": [
+            "msp_0512",
+            "accessory",
+            "NA",
+            "CAG-1427"
+        ],
+        "Germany__2145__k141_217451::39::43174::46368::+": [
+            "msp_0512",
+            "accessory",
+            "NA",
+            "CAG-1427"
+        ],
+        "Germany__6700__k141_93757::1::73::612::-": [
+            "msp_0512",
+            "accessory",
+            "NA",
+            "CAG-1427"
+        ],
+        "Germany__2557__k141_82903::2::137::628::+": [
+            "msp_0512",
+            "accessory",
+            "NA",
+            "CAG-1427"
+        ],
+        "Germany__2145__k141_217451::37::40698::42296::+": [
+            "msp_0512",
+            "accessory",
+            "NA",
+            "CAG-1427"
+        ],
+        "Germany__2145__k141_217451::36::36881::40669::+": [
+            "msp_0512",
+            "accessory",
+            "NA",
+            "CAG-1427"
+        ],
+        "Germany__2145__k141_217451::35::35428::36786::+": [
+            "msp_0512",
+            "accessory",
+            "NA",
+            "CAG-1427"
+        ],
+        "US__11494__k141_150668::28::32176::33468::-": [
+            "msp_0512",
+            "accessory",
+            "NA",
+            "CAG-1427"
+        ],
+        "Israel__10054__k141_143852::15::15660::16316::-": [
+            "msp_0512",
+            "accessory",
+            "NA",
+            "CAG-1427"
+        ]
+    },
+    {
+        "Germany__6219__k141_5213::81::84786::86441::-": [
+            "msp_0040",
+            "core",
+            "Klebsiella_pneumoniae",
+            "Klebsiella"
+        ],
+        "Germany__6219__k141_5213::79::82986::83666::+": [
+            "msp_0040",
+            "shared_core",
+            "Klebsiella_pneumoniae",
+            "Klebsiella"
+        ],
+        "Germany__6219__k141_5213::75::75516::76898::+": [
+            "msp_0040",
+            "core",
+            "Klebsiella_pneumoniae",
+            "Klebsiella"
+        ],
+        "Israel__10098__k141_164136::12::9730::11286::-": [
+            "msp_0040",
+            "shared_core",
+            "Klebsiella_pneumoniae",
+            "Klebsiella"
+        ],
+        "Germany__6219__k141_5213::80::83864::84709::-": [
+            "msp_0040",
+            "accessory",
+            "Klebsiella_pneumoniae",
+            "Klebsiella"
+        ],
+        "Germany__6219__k141_5213::78::82294::82989::+": [
+            "msp_0040",
+            "core",
+            "Klebsiella_pneumoniae",
+            "Klebsiella"
+        ],
+        "Germany__6219__k141_5213::76::77013::80753::+": [
+            "msp_0040",
+            "core",
+            "Klebsiella_pneumoniae",
+            "Klebsiella"
+        ],
+        "Germany__6219__k141_5213::74::74805::75341::+": [
+            "msp_0040",
+            "accessory",
+            "Klebsiella_pneumoniae",
+            "Klebsiella"
+        ]
+    },
+    {
+        "Germany__6219__k141_3556::138::146138::146581::-": [
+            "msp_0040",
+            "core",
+            "Klebsiella_pneumoniae",
+            "Klebsiella"
+        ],
+        "Germany__6219__k141_3556::142::148966::150501::-": [
+            "msp_0040",
+            "core",
+            "Klebsiella_pneumoniae",
+            "Klebsiella"
+        ],
+        "Germany__6219__k141_3556::141::148259::148969::-": [
+            "msp_0040",
+            "shared_core",
+            "Klebsiella_pneumoniae",
+            "Klebsiella"
+        ],
+        "Germany__6219__k141_3556::144::154647::156035::-": [
+            "msp_0040",
+            "core",
+            "Klebsiella_pneumoniae",
+            "Klebsiella"
+        ],
+        "Germany__6219__k141_3556::140::147582::148259::-": [
+            "msp_0040",
+            "core",
+            "Klebsiella_pneumoniae",
+            "Klebsiella"
+        ],
+        "Germany__6219__k141_3556::145::156347::158125::+": [
+            "msp_0040",
+            "accessory",
+            "Klebsiella_pneumoniae",
+            "Klebsiella"
+        ],
+        "Germany__6219__k141_3556::139::146689::147585::+": [
+            "msp_0040",
+            "core",
+            "Klebsiella_pneumoniae",
+            "Klebsiella"
+        ],
+        "Germany__6219__k141_3556::143::150498::154241::-": [
+            "msp_0040",
+            "shared_core",
+            "Klebsiella_pneumoniae",
+            "Klebsiella"
+        ]
+    },
+    {
+        "France__9820__k141_35455::31::35985::39731::-": [
+            "msp_0801",
+            "accessory",
+            "Actinomyces_graevenitzii",
+            "Actinomyces"
+        ],
+        "US__11585__k141_55505::3::2250::3047::+": [
+            "msp_0801",
+            "accessory",
+            "Actinomyces_graevenitzii",
+            "Actinomyces"
+        ],
+        "France__9828__k141_218474::9::6966::8588::-": [
+            "msp_0801",
+            "accessory",
+            "Actinomyces_graevenitzii",
+            "Actinomyces"
+        ]
+    },
+    {
+        "Germany__8863__k119_40526::19::18314::19609::-": [
+            "msp_0294",
+            "accessory",
+            "Proteobacteria_bacterium_CAG_139",
+            "Parasutterella gallistercoris"
+        ],
+        "Germany__8863__k119_40526::18::14509::18270::-": [
+            "msp_0294",
+            "shared_accessory",
+            "Proteobacteria_bacterium_CAG_139",
+            "Parasutterella gallistercoris"
+        ],
+        "Germany__8863__k119_40526::20::19782::20408::+": [
+            "msp_0294",
+            "accessory",
+            "Proteobacteria_bacterium_CAG_139",
+            "Parasutterella gallistercoris"
+        ],
+        "Germany__8863__k119_40526::17::12908::14512::-": [
+            "msp_0294",
+            "accessory",
+            "Proteobacteria_bacterium_CAG_139",
+            "Parasutterella gallistercoris"
+        ],
+        "Germany__8863__k119_40526::15::11470::12105::+": [
+            "msp_0294",
+            "accessory",
+            "Proteobacteria_bacterium_CAG_139",
+            "Parasutterella gallistercoris"
+        ],
+        "Germany__8863__k119_40526::14::10193::11290::+": [
+            "msp_0294",
+            "shared_accessory",
+            "Proteobacteria_bacterium_CAG_139",
+            "Parasutterella gallistercoris"
+        ],
+        "Germany__9493__k141_15817::1::705::1562::+": [
+            "msp_0294",
+            "shared_accessory",
+            "Proteobacteria_bacterium_CAG_139",
+            "Parasutterella gallistercoris"
+        ],
+        "Germany__8863__k119_40526::21::21009::22028::+": [
+            "msp_0294",
+            "shared_accessory",
+            "Proteobacteria_bacterium_CAG_139",
+            "Parasutterella gallistercoris"
+        ],
+        "Germany__8483__k141_15557::3::852::1637::-": [
+            "msp_0294",
+            "accessory",
+            "Proteobacteria_bacterium_CAG_139",
+            "Parasutterella gallistercoris"
+        ],
+        "Germany__8863__k119_40526::16::12192::12908::-": [
+            "msp_0294",
+            "shared_accessory",
+            "Proteobacteria_bacterium_CAG_139",
+            "Parasutterella gallistercoris"
+        ]
+    },
+    {
+        "Germany__1485__k119_65416::9::6779::7405::-": [
+            "msp_0424",
+            "core",
+            "NA",
+            "Mesosutterella multiformis"
+        ],
+        "Germany__1485__k119_32027::4::4659::5942::-": [
+            "msp_0424",
+            "shared_core",
+            "NA",
+            "Mesosutterella multiformis"
+        ],
+        "Germany__8277__k141_54306::2::497::1537::+": [
+            "msp_1204",
+            "core",
+            "NA",
+            "Mesosutterella multiformis"
+        ],
+        "Israel__10141__k141_191941::1::221::3466::+": [
+            "msp_0424",
+            "shared_core",
+            "NA",
+            "Mesosutterella multiformis"
+        ],
+        "Germany__8277__k141_53204::2::1077::1640::-": [
+            "msp_0424",
+            "shared_core",
+            "NA",
+            "Mesosutterella multiformis"
+        ],
+        "US__11554__k141_235488::21::19491::23183::-": [
+            "msp_0424",
+            "shared_core",
+            "NA",
+            "Mesosutterella multiformis"
+        ],
+        "Germany__8277__k141_53204::1::371::1075::-": [
+            "msp_0424",
+            "shared_core",
+            "NA",
+            "Mesosutterella multiformis"
+        ],
+        "Germany__8277__k141_29657::2::403::1155::-": [
+            "msp_1204",
+            "accessory",
+            "NA",
+            "Mesosutterella multiformis"
+        ],
+        "Germany__8277__k141_53204::3::1653::3107::-": [
+            "msp_0424",
+            "shared_core",
+            "NA",
+            "Mesosutterella multiformis"
+        ],
+        "Germany__1485__k119_65416::10::7569::8609::+": [
+            "msp_0424",
+            "accessory",
+            "NA",
+            "Mesosutterella multiformis"
+        ],
+        "Germany__4114__k119_142432::2::1226::1759::+": [
+            "msp_1204",
+            "shared_core",
+            "NA",
+            "Mesosutterella multiformis"
+        ]
+    },
+    {
+        "Germany__3208__k119_95218::3::3987::4694::-": [
+            "msp_0303",
+            "core",
+            "NA",
+            "Mitsuokella"
+        ],
+        "Germany__3208__k119_95218::2::169::3852::-": [
+            "msp_0303",
+            "shared_accessory",
+            "NA",
+            "Mitsuokella"
+        ],
+        "Germany__3208__k119_95266::5::3899::4765::+": [
+            "msp_0303",
+            "core",
+            "NA",
+            "Mitsuokella"
+        ],
+        "Germany__3319__k141_34865::4::5815::7215::+": [
+            "msp_0303",
+            "shared_accessory",
+            "NA",
+            "Mitsuokella"
+        ],
+        "Germany__3208__k119_78931::4::2639::3988::+": [
+            "msp_0303",
+            "core",
+            "NA",
+            "Mitsuokella"
+        ],
+        "US__11565__k141_172600::6::4632::4850::+": [
+            "msp_0303",
+            "accessory",
+            "NA",
+            "Mitsuokella"
+        ],
+        "Germany__2965__k119_122970::2::401::940::-": [
+            "msp_0303",
+            "accessory",
+            "NA",
+            "Mitsuokella"
+        ],
+        "US__11565__k141_172600::5::4165::4497::+": [
+            "msp_0303",
+            "core",
+            "NA",
+            "Mitsuokella"
+        ],
+        "US__11575__k141_394892::2::590::847::-": [
+            "msp_0303",
+            "accessory",
+            "NA",
+            "Mitsuokella"
+        ],
+        "Germany__3208__k119_95218::4::4937::6277::+": [
+            "msp_0303",
+            "shared_core",
+            "NA",
+            "Mitsuokella"
+        ],
+        "US__11565__k141_172600::8::8329::9717::+": [
+            "msp_0303",
+            "shared_core",
+            "NA",
+            "Mitsuokella"
+        ],
+        "US__11565__k141_172600::10::10232::10762::+": [
+            "msp_0303",
+            "core",
+            "NA",
+            "Mitsuokella"
+        ],
+        "Germany__3208__k119_78931::3::1849::2514::+": [
+            "msp_0303",
+            "shared_core",
+            "NA",
+            "Mitsuokella"
+        ]
+    },
+    {
+        "US__11505__k141_45483::5::4594::5148::+": [
+            "msp_0157",
+            "accessory",
+            "Parasutterella_excrementihominis",
+            "Parasutterella"
+        ],
+        "Germany__6974__k141_79297::10::12454::14046::+": [
+            "msp_0157",
+            "shared_accessory",
+            "Parasutterella_excrementihominis",
+            "Parasutterella"
+        ],
+        "Germany__7470__k141_48827::2::775::1491::+": [
+            "msp_0157",
+            "accessory",
+            "Parasutterella_excrementihominis",
+            "Parasutterella"
+        ],
+        "Germany__7470__k141_116295::3::1624::2391::+": [
+            "msp_0157",
+            "accessory",
+            "Parasutterella_excrementihominis",
+            "Parasutterella"
+        ],
+        "Germany__7470__k141_58950::2::555::1850::+": [
+            "msp_0157",
+            "shared_accessory",
+            "Parasutterella_excrementihominis",
+            "Parasutterella"
+        ],
+        "Germany__6974__k141_79297::6::4349::5953::-": [
+            "msp_0157",
+            "shared_accessory",
+            "Parasutterella_excrementihominis",
+            "Parasutterella"
+        ],
+        "US__11557__k141_64070::8::7220::8824::-": [
+            "msp_0157",
+            "shared_accessory",
+            "Parasutterella_excrementihominis",
+            "Parasutterella"
+        ],
+        "Germany__7470__k141_74922::2::971::1723::+": [
+            "msp_0157",
+            "shared_accessory",
+            "Parasutterella_excrementihominis",
+            "Parasutterella"
+        ],
+        "US__11505__k141_176694::2::683::1309::+": [
+            "msp_0157",
+            "accessory",
+            "Parasutterella_excrementihominis",
+            "Parasutterella"
+        ]
+    },
+    {
+        "Germany__8626__k141_47680::24::26295::27683::+": [
+            "msp_0161",
+            "shared_core",
+            "Klebsiella_oxytoca",
+            "Klebsiella"
+        ],
+        "Germany__8626__k141_47680::26::31819::33354::+": [
+            "msp_0098",
+            "shared_accessory",
+            "Klebsiella_oxytoca",
+            "Klebsiella"
+        ],
+        "Germany__8626__k141_47680::27::33351::34061::+": [
+            "msp_0161",
+            "shared_core",
+            "Klebsiella_oxytoca",
+            "Klebsiella"
+        ],
+        "Germany__8626__k141_47680::28::34061::34738::+": [
+            "msp_0161",
+            "shared_core",
+            "Klebsiella_oxytoca",
+            "Klebsiella"
+        ],
+        "Germany__8626__k141_47680::23::24205::25983::-": [
+            "msp_0161",
+            "core",
+            "Klebsiella_oxytoca",
+            "Klebsiella"
+        ],
+        "Germany__8626__k141_47680::25::28079::31822::+": [
+            "msp_0161",
+            "shared_core",
+            "Klebsiella_oxytoca",
+            "Klebsiella"
+        ]
+    },
+    {
+        "Germany__2809__k119_51084::33::46960::47526::+": [
+            "msp_0256",
+            "shared_core",
+            "NA",
+            "Veillonella_A"
+        ],
+        "Germany__2809__k119_51084::26::36406::37086::+": [
+            "msp_0256",
+            "core",
+            "NA",
+            "Veillonella_A"
+        ],
+        "US__11521__k141_13222::2::197::1612::-": [
+            "msp_1259",
+            "core",
+            "NA",
+            "Veillonella_A"
+        ],
+        "Germany__2809__k119_51084::32::46096::46938::+": [
+            "msp_0256",
+            "shared_core",
+            "NA",
+            "Veillonella_A"
+        ],
+        "Germany__2809__k119_51084::31::44745::45407::+": [
+            "msp_0256",
+            "core",
+            "NA",
+            "Veillonella_A"
+        ],
+        "US__11521__k141_13222::6::7672::8334::+": [
+            "msp_1259",
+            "core",
+            "NA",
+            "Veillonella_A"
+        ],
+        "Germany__2809__k119_51084::29::42705::44186::+": [
+            "msp_0161",
+            "shared_accessory",
+            "NA",
+            "Veillonella_A"
+        ],
+        "Germany__2809__k119_51084::30::44179::44748::+": [
+            "msp_0256",
+            "core",
+            "NA",
+            "Veillonella_A"
+        ],
+        "Germany__2809__k119_51084::27::37178::38629::-": [
+            "msp_0223",
+            "shared_accessory",
+            "NA",
+            "Veillonella_A"
+        ],
+        "Germany__2809__k119_51084::28::38975::42715::+": [
+            "msp_0161",
+            "shared_accessory",
+            "NA",
+            "Veillonella_A"
+        ],
+        "US__11521__k141_13222::5::7064::7675::+": [
+            "msp_1259",
+            "core",
+            "NA",
+            "Veillonella_A"
+        ],
+        "US__11521__k141_13222::4::5590::7071::+": [
+            "msp_1259",
+            "core",
+            "NA",
+            "Veillonella_A"
+        ]
+    },
+    {},
+    {
+        "Germany__8626__k141_61469::51::50840::51685::+": [
+            "msp_0161",
+            "shared_core",
+            "Klebsiella_oxytoca",
+            "Klebsiella"
+        ],
+        "Germany__8626__k141_61469::52::51926::52273::-": [
+            "msp_0161",
+            "core",
+            "Klebsiella_oxytoca",
+            "Klebsiella"
+        ],
+        "Germany__8626__k141_61469::58::60969::61544::-": [
+            "msp_0161",
+            "core",
+            "Klebsiella_oxytoca",
+            "Klebsiella"
+        ],
+        "Germany__8626__k141_61469::54::53319::54014::-": [
+            "msp_0161",
+            "core",
+            "Klebsiella_oxytoca",
+            "Klebsiella"
+        ],
+        "Germany__8626__k141_61469::53::52642::53322::-": [
+            "msp_0161",
+            "shared_core",
+            "Klebsiella_oxytoca",
+            "Klebsiella"
+        ],
+        "Germany__8626__k141_61469::56::55555::59295::-": [
+            "msp_0161",
+            "shared_core",
+            "Klebsiella_oxytoca",
+            "Klebsiella"
+        ],
+        "Germany__8626__k141_61469::55::54014::55558::-": [
+            "msp_0161",
+            "shared_core",
+            "Klebsiella_oxytoca",
+            "Klebsiella"
+        ],
+        "Germany__8626__k141_61469::57::59390::60778::-": [
+            "msp_0161",
+            "accessory",
+            "Klebsiella_oxytoca",
+            "Klebsiella"
+        ]
+    },
+    {
+        "US__11536__k141_3598::10::19530::23291::+": [
+            "msp_0223",
+            "core",
+            "Morganella_morganii",
+            "Morganella"
+        ],
+        "Germany__8626__k141_8752::37::51001::51912::-": [
+            "msp_0223",
+            "core",
+            "Morganella_morganii",
+            "Morganella"
+        ],
+        "Germany__8626__k141_8752::36::48849::49526::+": [
+            "msp_0223",
+            "core",
+            "Morganella_morganii",
+            "Morganella"
+        ],
+        "Germany__8626__k141_8752::34::46565::48121::+": [
+            "msp_0223",
+            "core",
+            "Morganella_morganii",
+            "Morganella"
+        ],
+        "US__11536__k141_3598::9::18086::19468::+": [
+            "msp_0223",
+            "accessory",
+            "Morganella_morganii",
+            "Morganella"
+        ],
+        "Germany__8626__k141_8752::35::48118::48852::+": [
+            "msp_0223",
+            "core",
+            "Morganella_morganii",
+            "Morganella"
+        ],
+        "Germany__8626__k141_8752::29::39328::41070::-": [
+            "msp_0211",
+            "shared_accessory",
+            "Morganella_morganii",
+            "Morganella"
+        ],
+        "Germany__8626__k141_8752::38::52013::52645::+": [
+            "msp_0223",
+            "core",
+            "Morganella_morganii",
+            "Morganella"
+        ]
+    },
+    {
+        "US__11551__k141_14590::20::20673::21611::+": [
+            "msp_0592",
+            "accessory",
+            "Lactobacillus_fermentum",
+            "Limosilactobacillus fermentum"
+        ],
+        "US__11551__k141_14590::19::16788::20453::-": [
+            "msp_0592",
+            "accessory",
+            "Lactobacillus_fermentum",
+            "Limosilactobacillus fermentum"
+        ],
+        "US__11551__k141_14590::17::14668::15297::-": [
+            "msp_0592",
+            "accessory",
+            "Lactobacillus_fermentum",
+            "Limosilactobacillus fermentum"
+        ],
+        "US__11551__k141_14590::16::13986::14675::-": [
+            "msp_0592",
+            "accessory",
+            "Lactobacillus_fermentum",
+            "Limosilactobacillus fermentum"
+        ],
+        "US__11551__k141_14590::14::12417::12845::-": [
+            "msp_0592",
+            "accessory",
+            "Lactobacillus_fermentum",
+            "Limosilactobacillus fermentum"
+        ],
+        "US__11593__k141_63919::2::259::756::-": [
+            "msp_0592",
+            "accessory",
+            "Lactobacillus_fermentum",
+            "Limosilactobacillus fermentum"
+        ],
+        "US__11551__k141_14590::15::12855::13820::-": [
+            "msp_0592",
+            "accessory",
+            "Lactobacillus_fermentum",
+            "Limosilactobacillus fermentum"
+        ],
+        "US__11551__k141_14590::18::15239::16798::-": [
+            "msp_0592",
+            "accessory",
+            "Lactobacillus_fermentum",
+            "Limosilactobacillus fermentum"
+        ]
+    },
+    {
+        "Germany__5266__k119_123818::34::31718::32428::-": [
+            "msp_0308",
+            "core",
+            "Enterobacter_cloacae_complex",
+            "Enterobacter hormaechei_A"
+        ],
+        "Germany__5266__k119_123818::35::32425::33960::-": [
+            "msp_0308",
+            "shared_core",
+            "Enterobacter_cloacae_complex",
+            "Enterobacter hormaechei_A"
+        ],
+        "Germany__5266__k119_123818::33::31041::31718::-": [
+            "msp_0308",
+            "core",
+            "Enterobacter_cloacae_complex",
+            "Enterobacter hormaechei_A"
+        ]
+    },
+    {
+        "US__11465__k141_107051::2::1639::2238::+": [
+            "msp_0392",
+            "core",
+            "NA",
+            "Bilophila sp900550745"
+        ],
+        "US__11590__k141_12183::1::389::1270::+": [
+            "msp_0392",
+            "shared_core",
+            "NA",
+            "Bilophila sp900550745"
+        ],
+        "US__11590__k141_10634::3::6310::7779::+": [
+            "msp_0392",
+            "shared_core",
+            "NA",
+            "Bilophila sp900550745"
+        ],
+        "Israel__10058__k141_574788::1::190::3960::-": [
+            "msp_0392",
+            "shared_core",
+            "NA",
+            "Bilophila sp900550745"
+        ],
+        "Germany__7795__k119_91184::2::264::926::-": [
+            "msp_0392",
+            "core",
+            "NA",
+            "Bilophila sp900550745"
+        ],
+        "US__11590__k141_10634::6::9245::10315::+": [
+            "msp_0392",
+            "shared_core",
+            "NA",
+            "Bilophila sp900550745"
+        ]
+    },
+    {
+        "Germany__6663__k119_117292::17::18043::19581::+": [
+            "msp_0437",
+            "shared_core",
+            "Citrobacter_braakii",
+            "Citrobacter braakii"
+        ],
+        "Germany__6663__k119_117292::16::14303::18046::+": [
+            "msp_0437",
+            "shared_core",
+            "Citrobacter_braakii",
+            "Citrobacter braakii"
+        ],
+        "Germany__6663__k119_117292::19::20288::20965::+": [
+            "msp_0437",
+            "core",
+            "Citrobacter_braakii",
+            "Citrobacter braakii"
+        ]
+    },
+    {
+        "US__11515__k141_322279::68::79749::80801::+": [
+            "msp_0570",
+            "core",
+            "NA",
+            "Desulfovibrio fairfieldensis"
+        ],
+        "US__11497__k141_72231::2::3307::4104::+": [
+            "msp_0570",
+            "core",
+            "NA",
+            "Desulfovibrio fairfieldensis"
+        ],
+        "US__11515__k141_322279::67::79066::79749::+": [
+            "msp_0570",
+            "shared_core",
+            "NA",
+            "Desulfovibrio fairfieldensis"
+        ],
+        "US__11515__k141_322279::64::73334::77038::+": [
+            "msp_0570",
+            "core",
+            "NA",
+            "Desulfovibrio fairfieldensis"
+        ],
+        "US__11515__k141_322279::69::80966::83899::-": [
+            "msp_0570",
+            "core",
+            "NA",
+            "Desulfovibrio fairfieldensis"
+        ],
+        "US__11497__k141_72231::3::4224::5081::+": [
+            "msp_0570",
+            "shared_core",
+            "NA",
+            "Desulfovibrio fairfieldensis"
+        ],
+        "US__11515__k141_322279::65::77028::78488::+": [
+            "msp_0570",
+            "core",
+            "NA",
+            "Desulfovibrio fairfieldensis"
+        ],
+        "US__11548__k141_914::3::1822::2415::-": [
+            "msp_0570",
+            "accessory",
+            "NA",
+            "Desulfovibrio fairfieldensis"
+        ]
+    },
+    {
+        "US__11551__k141_135259::5::3859::5199::-": [
+            "msp_0901",
+            "accessory",
+            "NA",
+            "Limosilactobacillus oris"
+        ],
+        "US__11551__k141_135259::12::14355::14852::+": [
+            "msp_0901",
+            "accessory",
+            "NA",
+            "Limosilactobacillus oris"
+        ],
+        "US__11551__k141_135259::8::7387::7995::-": [
+            "msp_0901",
+            "accessory",
+            "NA",
+            "Limosilactobacillus oris"
+        ],
+        "US__11551__k141_135259::6::5532::6425::+": [
+            "msp_0901",
+            "accessory",
+            "NA",
+            "Limosilactobacillus oris"
+        ],
+        "US__11551__k141_135259::11::13321::14358::+": [
+            "msp_0901",
+            "accessory",
+            "NA",
+            "Limosilactobacillus oris"
+        ],
+        "US__11551__k141_135259::7::6702::7394::-": [
+            "msp_0901",
+            "accessory",
+            "NA",
+            "Limosilactobacillus oris"
+        ]
+    },
+    {
+        "Germany__9431__k141_14629::15::18566::19243::+": [
+            "msp_0494",
+            "core",
+            "NA",
+            "Proteus mirabilis"
+        ],
+        "Germany__9431__k141_14629::14::17841::18569::+": [
+            "msp_0494",
+            "core",
+            "NA",
+            "Proteus mirabilis"
+        ],
+        "Germany__9431__k141_14629::13::16291::17844::+": [
+            "msp_0494",
+            "shared_core",
+            "NA",
+            "Proteus mirabilis"
+        ],
+        "Germany__9431__k141_14629::11::11083::12474::+": [
+            "msp_0494",
+            "core",
+            "NA",
+            "Proteus mirabilis"
+        ],
+        "Germany__9431__k141_14629::10::8959::10788::-": [
+            "msp_0494",
+            "core",
+            "NA",
+            "Proteus mirabilis"
+        ],
+        "Germany__9431__k141_14629::12::12530::16291::+": [
+            "msp_0494",
+            "shared_core",
+            "NA",
+            "Proteus mirabilis"
+        ]
+    },
+    {
+        "France__9887__k141_260679::8::5803::7362::-": [
+            "msp_0265",
+            "accessory",
+            "Lactobacillus_reuteri",
+            "Limosilactobacillus"
+        ],
+        "US__11551__k141_164426::2::349::927::-": [
+            "msp_0265",
+            "accessory",
+            "Lactobacillus_reuteri",
+            "Limosilactobacillus"
+        ],
+        "France__9887__k141_260679::6::4550::5239::-": [
+            "msp_0265",
+            "accessory",
+            "Lactobacillus_reuteri",
+            "Limosilactobacillus"
+        ]
+    },
+    {
+        "US__11502__k141_28963::1::68::841::-": [
+            "msp_1076",
+            "core",
+            "NA",
+            "Turicimonas muris"
+        ],
+        "France__9867__k141_178650::59::71682::72977::+": [
+            "msp_1076",
+            "core",
+            "NA",
+            "Turicimonas muris"
+        ],
+        "US__11502__k141_93108::2::534::1250::-": [
+            "msp_1076",
+            "core",
+            "NA",
+            "Turicimonas muris"
+        ],
+        "France__9867__k141_178650::56::66868::69123::-": [
+            "msp_1076",
+            "accessory",
+            "NA",
+            "Turicimonas muris"
+        ],
+        "US__11502__k141_201948::2::663::1298::+": [
+            "msp_1076",
+            "core",
+            "NA",
+            "Turicimonas muris"
+        ],
+        "France__9867__k141_178650::57::69417::70649::+": [
+            "msp_1076",
+            "core",
+            "NA",
+            "Turicimonas muris"
+        ],
+        "US__11502__k141_93108::3::1250::2848::-": [
+            "msp_1076",
+            "core",
+            "NA",
+            "Turicimonas muris"
+        ],
+        "France__9867__k141_178650::63::79235::80425::+": [
+            "msp_1076",
+            "accessory",
+            "NA",
+            "Turicimonas muris"
+        ],
+        "France__9867__k141_178650::60::73014::76772::+": [
+            "msp_1076",
+            "core",
+            "NA",
+            "Turicimonas muris"
+        ]
+    },
+    {
+        "France__9836__k141_203786::33::32562::32957::-": [
+            "msp_0958",
+            "accessory",
+            "NA",
+            "CACZQA01 sp902783175"
+        ],
+        "France__9836__k141_203786::35::34483::35232::-": [
+            "msp_0958",
+            "accessory",
+            "NA",
+            "CACZQA01 sp902783175"
+        ],
+        "France__9836__k141_203786::34::33743::34078::-": [
+            "msp_0958",
+            "accessory",
+            "NA",
+            "CACZQA01 sp902783175"
+        ],
+        "France__9836__k141_203786::40::42509::47224::-": [
+            "msp_0045",
+            "shared_core",
+            "NA",
+            "CACZQA01 sp902783175"
+        ],
+        "France__9836__k141_203786::36::35232::35786::-": [
+            "msp_0958",
+            "accessory",
+            "NA",
+            "CACZQA01 sp902783175"
+        ],
+        "France__9836__k141_203786::39::41052::42377::-": [
+            "msp_0958",
+            "accessory",
+            "NA",
+            "CACZQA01 sp902783175"
+        ],
+        "France__9836__k141_203786::38::37209::40901::-": [
+            "msp_0958",
+            "accessory",
+            "NA",
+            "CACZQA01 sp902783175"
+        ],
+        "France__9836__k141_203786::37::35783::37219::-": [
+            "msp_0958",
+            "accessory",
+            "NA",
+            "CACZQA01 sp902783175"
+        ]
+    },
+    {
+        "Germany__2561__k141_21951::21::21074::21751::+": [
+            "msp_0324",
+            "accessory",
+            "NA",
+            "Hafnia paralvei"
+        ],
+        "Germany__8626__k141_32968::91::112733::113455::-": [
+            "msp_0324",
+            "core",
+            "NA",
+            "Hafnia paralvei"
+        ],
+        "Germany__2561__k141_21951::22::21977::22933::+": [
+            "msp_0324",
+            "accessory",
+            "NA",
+            "Hafnia paralvei"
+        ],
+        "Germany__8626__k141_32968::92::113452::115011::-": [
+            "msp_0324",
+            "accessory",
+            "NA",
+            "Hafnia paralvei"
+        ],
+        "Germany__2561__k141_21951::23::22970::23671::-": [
+            "msp_0324",
+            "accessory",
+            "NA",
+            "Hafnia paralvei"
+        ]
+    },
+    {
+        "Germany__3208__k119_124326::45::47247::48587::-": [
+            "msp_1249",
+            "shared_core",
+            "NA",
+            "Mitsuokella multacida"
+        ],
+        "Germany__3208__k119_124326::47::49679::53362::+": [
+            "msp_1249",
+            "core",
+            "NA",
+            "Mitsuokella multacida"
+        ],
+        "Germany__4516__k141_112974::67::76946::78346::-": [
+            "msp_1249",
+            "shared_core",
+            "NA",
+            "Mitsuokella multacida"
+        ],
+        "Germany__3208__k119_124326::46::48825::49532::+": [
+            "msp_1249",
+            "core",
+            "NA",
+            "Mitsuokella multacida"
+        ],
+        "Germany__3208__k119_96157::2::1313::1852::+": [
+            "msp_1249",
+            "core",
+            "NA",
+            "Mitsuokella multacida"
+        ],
+        "Germany__3208__k119_96157::3::1849::2514::+": [
+            "msp_1249",
+            "core",
+            "NA",
+            "Mitsuokella multacida"
+        ],
+        "Germany__3208__k119_96157::4::2642::3985::+": [
+            "msp_1249",
+            "shared_core",
+            "NA",
+            "Mitsuokella multacida"
+        ],
+        "France__9871__k141_11006::3::1587::2468::-": [
+            "msp_1249",
+            "core",
+            "NA",
+            "Mitsuokella multacida"
+        ]
+    },
+    {
+        "US__11547__k141_226033::7::9426::10445::-": [
+            "msp_1726",
+            "core",
+            "NA",
+            "QAMH01 sp003149935"
+        ],
+        "US__11547__k141_226033::10::12343::13635::+": [
+            "msp_1726",
+            "accessory",
+            "NA",
+            "QAMH01 sp003149935"
+        ],
+        "US__11511__k141_402634::13::18491::19357::-": [
+            "msp_1726",
+            "accessory",
+            "NA",
+            "QAMH01 sp003149935"
+        ]
+    },
+    {}
+]

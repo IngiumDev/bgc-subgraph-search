@@ -495,10 +495,10 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,python,pycharm,pycharm+iml,pycharm+all,linux,macos,windows
-/data/CRC_YachidaS_2019.metadata.csv
-/data/differential_analysis_config.CRC_YachidaS_2019.json
-/data/IBD_Elinav_2022.metadata.csv
-/data/MAGraph_overview.png
-/data/pfam_id__to__function_name__long.json
-/data/pfam_id__to__function_name__short.json
-data/runs
+#/data/CRC_YachidaS_2019.metadata.csv
+#/data/differential_analysis_config.CRC_YachidaS_2019.json
+#/data/IBD_Elinav_2022.metadata.csv
+#/data/MAGraph_overview.png
+#/data/pfam_id__to__function_name__long.json
+#/data/pfam_id__to__function_name__short.json
+#data/runs

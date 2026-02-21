@@ -1,0 +1,106 @@
+[
+    {
+        "cohort_merged__DRR127478__k141_45212::15::18460::20151::-": [
+            "msp_005",
+            "accessory",
+            "Bacteroides_caccae",
+            "Bacteroides caccae"
+        ],
+        "cohort_merged__DRR127532__k141_107658::35::35614::35907::+": [
+            "msp_034",
+            "shared_accessory",
+            "Bacteroides_caccae",
+            "Bacteroides caccae"
+        ],
+        "cohort_merged__DRR127521__k141_47866::41::34172::34573::-": [
+            "msp_005",
+            "shared_accessory",
+            "Bacteroides_caccae",
+            "Bacteroides caccae"
+        ],
+        "cohort_merged__DRR127521__k141_47866::38::31041::33131::-": [
+            "msp_005",
+            "shared_accessory",
+            "Bacteroides_caccae",
+            "Bacteroides caccae"
+        ],
+        "cohort_merged__DRR127521__k141_47866::40::33841::34020::-": [
+            "msp_005",
+            "accessory",
+            "Bacteroides_caccae",
+            "Bacteroides caccae"
+        ],
+        "cohort_merged__DRR171526__k141_11235::18::18870::20102::+": [
+            "msp_005",
+            "accessory",
+            "Bacteroides_caccae",
+            "Bacteroides caccae"
+        ],
+        "cohort_merged__DRR127478__k141_45212::12::10999::13707::+": [
+            "msp_005",
+            "accessory",
+            "Bacteroides_caccae",
+            "Bacteroides caccae"
+        ],
+        "cohort_merged__DRR127521__k141_47866::39::33296::33709::+": [
+            "msp_005",
+            "shared_accessory",
+            "Bacteroides_caccae",
+            "Bacteroides caccae"
+        ],
+        "cohort_merged__DRR127521__k141_74086::3::1072::1539::-": [
+            "msp_005",
+            "accessory",
+            "Bacteroides_caccae",
+            "Bacteroides caccae"
+        ],
+        "cohort_merged__DRR127478__k141_45212::8::6760::7917::+": [
+            "msp_005",
+            "shared_accessory",
+            "Bacteroides_caccae",
+            "Bacteroides caccae"
+        ],
+        "cohort_merged__DRR127521__k141_47866::42::34604::34834::-": [
+            "msp_005",
+            "accessory",
+            "Bacteroides_caccae",
+            "Bacteroides caccae"
+        ],
+        "cohort_merged__DRR127521__k141_74086::2::161::1075::+": [
+            "msp_005",
+            "shared_accessory",
+            "Bacteroides_caccae",
+            "Bacteroides caccae"
+        ],
+        "cohort_merged__DRR127478__k141_45212::14::14939::18244::-": [
+            "msp_005",
+            "shared_accessory",
+            "Bacteroides_caccae",
+            "Bacteroides caccae"
+        ],
+        "cohort_merged__DRR127478__k141_45212::13::13729::14829::+": [
+            "msp_005",
+            "accessory",
+            "Bacteroides_caccae",
+            "Bacteroides caccae"
+        ],
+        "cohort_merged__DRR127478__k141_45212::9::7920::8777::+": [
+            "msp_005",
+            "shared_accessory",
+            "Bacteroides_caccae",
+            "Bacteroides caccae"
+        ],
+        "cohort_merged__DRR127521__k141_47866::43::34954::35469::+": [
+            "msp_005",
+            "shared_accessory",
+            "Bacteroides_caccae",
+            "Bacteroides caccae"
+        ],
+        "cohort_merged__DRR127478__k141_45212::10::8791::9570::+": [
+            "msp_005",
+            "shared_accessory",
+            "Bacteroides_caccae",
+            "Bacteroides caccae"
+        ]
+    }
+]

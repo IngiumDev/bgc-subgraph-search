@@ -1,0 +1,7 @@
+protein_id	ElementSymbol
+cohort_merged__DRR127476__k141_20520::8::10873::11856::+	Phage integrase family
+cohort_merged__DRR127476__k141_20520::9::11837::12850::+	Phage integrase family
+cohort_merged__DRR127478__k141_59712::2::2576::2821::+	Putative transposon-transfer assisting
+cohort_merged__DRR127588__k141_38098::1::102::446::-	Phage integrase family
+cohort_merged__DRR171706__k141_104924::2::927::2168::-	DNA binding domain of tn916 int;Phage integrase family
+cohort_merged__DRR171804__k141_87859::15::15284::16525::+	Phage integrase family

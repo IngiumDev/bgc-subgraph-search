@@ -1,0 +1,2 @@
+protein_id	ElementSymbol
+cohort_merged__DRR171472__k141_4106::2::2600::3595::-	Phage integrase family

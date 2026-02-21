@@ -1,0 +1,136 @@
+[
+    {
+        "cohort_merged__DRR127514__k141_78340::13::8180::8410::-": [
+            "msp_075",
+            "core",
+            "Megamonas_hypermegale",
+            "Megamonas funiformis"
+        ],
+        "cohort_merged__DRR171682__k141_47397::5::2413::3570::+": [
+            "msp_075",
+            "shared_accessory",
+            "Megamonas_hypermegale",
+            "Megamonas funiformis"
+        ],
+        "cohort_merged__DRR127514__k141_75276::2::612::1943::+": [
+            "msp_075",
+            "accessory",
+            "Megamonas_hypermegale",
+            "Megamonas funiformis"
+        ],
+        "cohort_merged__DRR127514__k141_104293::3::938::1525::+": [
+            "msp_075",
+            "accessory",
+            "Megamonas_hypermegale",
+            "Megamonas funiformis"
+        ],
+        "cohort_merged__DRR127752__k141_27081::65::60845::61111::+": [
+            "msp_075",
+            "accessory",
+            "Megamonas_hypermegale",
+            "Megamonas funiformis"
+        ],
+        "cohort_merged__DRR127514__k141_78340::2::605::757::+": [
+            "msp_075",
+            "accessory",
+            "Megamonas_hypermegale",
+            "Megamonas funiformis"
+        ],
+        "cohort_merged__DRR171613__k141_145551::14::6971::7216::+": [
+            "msp_075",
+            "accessory",
+            "Megamonas_hypermegale",
+            "Megamonas funiformis"
+        ],
+        "cohort_merged__DRR171686__k141_133143::8::4110::4517::-": [
+            "msp_075",
+            "accessory",
+            "Megamonas_hypermegale",
+            "Megamonas funiformis"
+        ],
+        "cohort_merged__DRR171686__k141_1745::2::442::792::-": [
+            "msp_075",
+            "accessory",
+            "Megamonas_hypermegale",
+            "Megamonas funiformis"
+        ],
+        "cohort_merged__DRR127514__k141_78340::7::3108::3419::-": [
+            "msp_075",
+            "core",
+            "Megamonas_hypermegale",
+            "Megamonas funiformis"
+        ],
+        "cohort_merged__DRR127754__k141_14410::6::2777::3664::-": [
+            "msp_075",
+            "accessory",
+            "Megamonas_hypermegale",
+            "Megamonas funiformis"
+        ],
+        "cohort_merged__DRR127514__k141_78340::5::2503::2781::-": [
+            "msp_075",
+            "shared_core",
+            "Megamonas_hypermegale",
+            "Megamonas funiformis"
+        ],
+        "cohort_merged__DRR171701__k141_18306::6::3474::4439::-": [
+            "msp_075",
+            "accessory",
+            "Megamonas_hypermegale",
+            "Megamonas funiformis"
+        ],
+        "cohort_merged__DRR127666__k141_82974::21::19313::19648::+": [
+            "msp_075",
+            "accessory",
+            "Megamonas_hypermegale",
+            "Megamonas funiformis"
+        ],
+        "cohort_merged__DRR127514__k141_78340::11::5890::7131::-": [
+            "msp_075",
+            "shared_core",
+            "Megamonas_hypermegale",
+            "Megamonas funiformis"
+        ],
+        "cohort_merged__DRR127752__k141_27081::64::60101::60736::-": [
+            "msp_075",
+            "accessory",
+            "Megamonas_hypermegale",
+            "Megamonas funiformis"
+        ],
+        "cohort_merged__DRR127514__k141_78340::10::5165::5875::-": [
+            "msp_075",
+            "core",
+            "Megamonas_hypermegale",
+            "Megamonas funiformis"
+        ],
+        "cohort_merged__DRR127514__k141_104293::6::2069::2272::+": [
+            "msp_075",
+            "accessory",
+            "Megamonas_hypermegale",
+            "Megamonas funiformis"
+        ],
+        "cohort_merged__DRR127514__k141_78340::4::1291::2412::+": [
+            "msp_075",
+            "accessory",
+            "Megamonas_hypermegale",
+            "Megamonas funiformis"
+        ],
+        "cohort_merged__DRR127514__k141_78340::12::7148::8092::-": [
+            "msp_075",
+            "shared_core",
+            "Megamonas_hypermegale",
+            "Megamonas funiformis"
+        ],
+        "cohort_merged__DRR127514__k141_78340::6::2788::3108::-": [
+            "msp_075",
+            "accessory",
+            "Megamonas_hypermegale",
+            "Megamonas funiformis"
+        ],
+        "cohort_merged__DRR162775__k141_4148::69::63218::64129::+": [
+            "msp_075",
+            "accessory",
+            "Megamonas_hypermegale",
+            "Megamonas funiformis"
+        ]
+    }
+]

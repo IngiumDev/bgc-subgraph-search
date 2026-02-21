@@ -1,0 +1,2 @@
+protein_id	ElementSymbol
+cohort_merged__DRR127634__k141_19441::17::21336::22037::+	Phage int SAM-like domain;Phage integrase family

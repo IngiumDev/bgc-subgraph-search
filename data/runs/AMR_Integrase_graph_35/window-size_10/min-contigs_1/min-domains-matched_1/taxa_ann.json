@@ -1,0 +1,562 @@
+[
+    {
+        "cohort_merged__DRR171508__k141_112050::2::62::586::+": [
+            "msp_098",
+            "accessory",
+            "NA",
+            "CAG-177"
+        ],
+        "cohort_merged__DRR127588__k141_13806::1::49::1059::-": [
+            "msp_076",
+            "shared_accessory",
+            "NA",
+            "CAG-177"
+        ],
+        "cohort_merged__DRR127478__k141_35269::127::126219::126590::+": [
+            "msp_043",
+            "shared_accessory",
+            "NA",
+            "CAG-177"
+        ],
+        "cohort_merged__DRR127588__k141_13806::2::1507::2358::-": [
+            "msp_076",
+            "accessory",
+            "NA",
+            "CAG-177"
+        ],
+        "cohort_merged__DRR127481__k141_52302::3::1054::1428::-": [
+            "msp_056",
+            "accessory",
+            "NA",
+            "CAG-177"
+        ],
+        "cohort_merged__DRR127580__k141_35855::1::125::727::+": [
+            "msp_113",
+            "shared_accessory",
+            "NA",
+            "CAG-177"
+        ],
+        "cohort_merged__DRR171577__k141_14855::16::13641::14426::+": [
+            "msp_080",
+            "shared_accessory",
+            "NA",
+            "CAG-177"
+        ],
+        "cohort_merged__DRR127485__k141_92944::280::296629::296835::+": [
+            "msp_142",
+            "accessory",
+            "NA",
+            "CAG-177"
+        ],
+        "cohort_merged__DRR127625__k141_91391::5::3017::3949::+": [
+            "msp_197",
+            "shared_accessory",
+            "NA",
+            "CAG-177"
+        ],
+        "cohort_merged__DRR127485__k141_198976::2::188::580::-": [
+            "msp_011",
+            "accessory",
+            "NA",
+            "CAG-177"
+        ],
+        "cohort_merged__DRR127485__k141_46699::2::453::773::-": [
+            "msp_208",
+            "shared_accessory",
+            "NA",
+            "CAG-177"
+        ],
+        "cohort_merged__DRR127488__k141_131776::2::112::444::+": [
+            "msp_105",
+            "shared_accessory",
+            "NA",
+            "CAG-177"
+        ],
+        "cohort_merged__DRR127517__k141_176074::4::1253::2149::-": [
+            "msp_044",
+            "accessory",
+            "NA",
+            "CAG-177"
+        ],
+        "cohort_merged__DRR127646__k141_59088::6::6172::7617::-": [
+            "msp_288",
+            "shared_core",
+            "NA",
+            "CAG-177"
+        ],
+        "cohort_merged__DRR127517__k141_176074::2::416::763::-": [
+            "msp_044",
+            "accessory",
+            "NA",
+            "CAG-177"
+        ],
+        "cohort_merged__DRR171719__k141_113206::5::3301::4815::+": [
+            "msp_076",
+            "shared_accessory",
+            "NA",
+            "CAG-177"
+        ],
+        "cohort_merged__DRR127692__k141_20694::3::2005::3039::+": [
+            "msp_054",
+            "shared_accessory",
+            "NA",
+            "CAG-177"
+        ],
+        "cohort_merged__DRR127580__k141_58542::1::189::437::-": [
+            "msp_173",
+            "core",
+            "NA",
+            "CAG-177"
+        ],
+        "cohort_merged__DRR171860__k141_16815::2::663::1763::-": [
+            "msp_080",
+            "shared_core",
+            "NA",
+            "CAG-177"
+        ],
+        "cohort_merged__DRR171547__k141_34149::2::112::813::+": [
+            "msp_021",
+            "shared_accessory",
+            "NA",
+            "CAG-177"
+        ],
+        "cohort_merged__DRR127580__k141_149969::3::1845::2177::-": [
+            "msp_080",
+            "shared_accessory",
+            "NA",
+            "CAG-177"
+        ],
+        "cohort_merged__DRR127485__k141_620::2::1613::1927::+": [
+            "msp_056",
+            "accessory",
+            "NA",
+            "CAG-177"
+        ],
+        "cohort_merged__DRR171521__k141_5017::9::6594::7421::+": [
+            "msp_071",
+            "accessory",
+            "NA",
+            "CAG-177"
+        ],
+        "cohort_merged__DRR127646__k141_152262::7::5043::5534::+": [
+            "msp_142",
+            "shared_accessory",
+            "NA",
+            "CAG-177"
+        ],
+        "cohort_merged__DRR127485__k141_14871::3::1211::2047::-": [
+            "msp_056",
+            "accessory",
+            "NA",
+            "CAG-177"
+        ],
+        "cohort_merged__DRR127476__k141_82307::6::3089::4474::+": [
+            "msp_109",
+            "accessory",
+            "NA",
+            "CAG-177"
+        ],
+        "cohort_merged__DRR127517__k141_176074::1::113::403::-": [
+            "msp_044",
+            "accessory",
+            "NA",
+            "CAG-177"
+        ],
+        "cohort_merged__DRR127767__k141_170418::7::4907::5125::-": [
+            "msp_435",
+            "shared_core",
+            "NA",
+            "CAG-177"
+        ],
+        "cohort_merged__DRR127509__k141_36963::11::9403::10740::+": [
+            "msp_098",
+            "shared_accessory",
+            "NA",
+            "CAG-177"
+        ],
+        "cohort_merged__DRR127485__k141_92944::286::301775::303448::+": [
+            "msp_142",
+            "shared_core",
+            "NA",
+            "CAG-177"
+        ],
+        "cohort_merged__DRR171585__k141_181761::25::23284::24033::-": [
+            "msp_098",
+            "accessory",
+            "NA",
+            "CAG-177"
+        ],
+        "cohort_merged__DRR171640__k141_151865::1::87::971::+": [
+            "msp_605",
+            "core",
+            "NA",
+            "CAG-177"
+        ],
+        "cohort_merged__DRR127517__k141_43849::2::254::2188::-": [
+            "msp_141",
+            "shared_accessory",
+            "NA",
+            "CAG-177"
+        ],
+        "cohort_merged__DRR127485__k141_269044::1::46::477::-": [
+            "msp_080",
+            "shared_accessory",
+            "NA",
+            "CAG-177"
+        ],
+        "cohort_merged__DRR171756__k141_48688::7::3862::4779::-": [
+            "msp_438",
+            "shared_core",
+            "NA",
+            "CAG-177"
+        ],
+        "cohort_merged__DRR127485__k141_39283::3::3011::3523::-": [
+            "msp_011",
+            "shared_accessory",
+            "NA",
+            "CAG-177"
+        ],
+        "cohort_merged__DRR127485__k141_101557::5::3421::3834::+": [
+            "msp_113",
+            "shared_accessory",
+            "NA",
+            "CAG-177"
+        ],
+        "cohort_merged__DRR127509__k141_112539::3::1756::1923::+": [
+            "msp_038",
+            "accessory",
+            "NA",
+            "CAG-177"
+        ],
+        "cohort_merged__DRR127488__k141_163140::2::1085::1501::-": [
+            "msp_288",
+            "accessory",
+            "NA",
+            "CAG-177"
+        ],
+        "cohort_merged__DRR127481__k141_52302::5::1784::2065::-": [
+            "msp_056",
+            "shared_accessory",
+            "NA",
+            "CAG-177"
+        ],
+        "cohort_merged__DRR171651__k141_29932::3::1860::3380::+": [
+            "msp_173",
+            "accessory",
+            "NA",
+            "CAG-177"
+        ],
+        "cohort_merged__DRR127509__k141_120106::3::1142::3193::+": [
+            "msp_038",
+            "shared_accessory",
+            "NA",
+            "CAG-177"
+        ],
+        "cohort_merged__DRR127481__k141_52302::4::1498::1794::-": [
+            "msp_056",
+            "shared_accessory",
+            "NA",
+            "CAG-177"
+        ],
+        "cohort_merged__DRR127488__k141_120114::4::1992::2894::-": [
+            "msp_038",
+            "shared_accessory",
+            "NA",
+            "CAG-177"
+        ],
+        "cohort_merged__DRR127700__k141_63769::2::178::1179::+": [
+            "msp_173",
+            "accessory",
+            "NA",
+            "CAG-177"
+        ],
+        "cohort_merged__DRR127485__k141_162612::7::9096::11306::+": [
+            "msp_029",
+            "shared_core",
+            "NA",
+            "CAG-177"
+        ],
+        "cohort_merged__DRR127485__k141_115570::73::82012::82350::-": [
+            "msp_142",
+            "shared_accessory",
+            "NA",
+            "CAG-177"
+        ],
+        "cohort_merged__DRR127485__k141_162612::6::7716::8993::+": [
+            "msp_029",
+            "core",
+            "NA",
+            "CAG-177"
+        ],
+        "cohort_merged__DRR127649__k141_102954::10::5506::6525::-": [
+            "msp_076",
+            "shared_accessory",
+            "NA",
+            "CAG-177"
+        ],
+        "cohort_merged__DRR127617__k141_161938::10::4011::6269::-": [
+            "msp_021",
+            "shared_accessory",
+            "NA",
+            "CAG-177"
+        ],
+        "cohort_merged__DRR127517__k141_52664::10::7034::7609::+": [
+            "msp_197",
+            "shared_accessory",
+            "NA",
+            "CAG-177"
+        ],
+        "cohort_merged__DRR127485__k141_92944::284::300434::301309::+": [
+            "msp_142",
+            "accessory",
+            "NA",
+            "CAG-177"
+        ],
+        "cohort_merged__DRR127509__k141_112539::10::8918::9850::-": [
+            "msp_038",
+            "core",
+            "NA",
+            "CAG-177"
+        ],
+        "cohort_merged__DRR127594__k141_14897::2::815::1222::-": [
+            "msp_288",
+            "accessory",
+            "NA",
+            "CAG-177"
+        ],
+        "cohort_merged__DRR127509__k141_112539::9::8185::8832::-": [
+            "msp_038",
+            "shared_accessory",
+            "NA",
+            "CAG-177"
+        ],
+        "cohort_merged__DRR127485__k141_92944::283::299616::300431::+": [
+            "msp_142",
+            "accessory",
+            "NA",
+            "CAG-177"
+        ],
+        "cohort_merged__DRR162775__k141_4265::2::172::609::+": [
+            "msp_056",
+            "accessory",
+            "NA",
+            "CAG-177"
+        ],
+        "cohort_merged__DRR127754__k141_53331::5::2472::5630::+": [
+            "msp_056",
+            "shared_accessory",
+            "NA",
+            "CAG-177"
+        ],
+        "cohort_merged__DRR127616__k141_96599::4::1458::2732::+": [
+            "msp_021",
+            "accessory",
+            "NA",
+            "CAG-177"
+        ],
+        "cohort_merged__DRR127485__k141_92944::287::303472::303975::+": [
+            "msp_142",
+            "accessory",
+            "NA",
+            "CAG-177"
+        ],
+        "cohort_merged__DRR127509__k141_3939::7::3550::6897::+": [
+            "msp_038",
+            "accessory",
+            "NA",
+            "CAG-177"
+        ],
+        "cohort_merged__DRR171536__k141_118384::6::3423::4832::-": [
+            "msp_038",
+            "accessory",
+            "NA",
+            "CAG-177"
+        ],
+        "cohort_merged__DRR127646__k141_22036::2::171::1109::+": [
+            "msp_142",
+            "shared_accessory",
+            "NA",
+            "CAG-177"
+        ],
+        "cohort_merged__DRR127485__k141_115570::70::78964::79851::-": [
+            "msp_142",
+            "shared_accessory",
+            "NA",
+            "CAG-177"
+        ],
+        "cohort_merged__DRR127509__k141_9222::11::6333::7196::+": [
+            "msp_043",
+            "shared_accessory",
+            "NA",
+            "CAG-177"
+        ],
+        "cohort_merged__DRR171640__k141_75863::1::398::1138::-": [
+            "msp_043",
+            "accessory",
+            "NA",
+            "CAG-177"
+        ],
+        "cohort_merged__DRR127594__k141_27142::1::87::638::+": [
+            "msp_288",
+            "core",
+            "NA",
+            "CAG-177"
+        ],
+        "cohort_merged__DRR171604__k141_125894::2::888::1511::+": [
+            "msp_438",
+            "core",
+            "NA",
+            "CAG-177"
+        ],
+        "cohort_merged__DRR127515__k141_78420::14::15781::17205::+": [
+            "msp_208",
+            "shared_accessory",
+            "NA",
+            "CAG-177"
+        ],
+        "cohort_merged__DRR127488__k141_59179::9::7097::7459::+": [
+            "msp_098",
+            "accessory",
+            "NA",
+            "CAG-177"
+        ],
+        "cohort_merged__DRR171756__k141_48688::8::4776::5513::-": [
+            "msp_438",
+            "core",
+            "NA",
+            "CAG-177"
+        ],
+        "cohort_merged__DRR171468__k141_104428::1::28::762::-": [
+            "msp_021",
+            "shared_accessory",
+            "NA",
+            "CAG-177"
+        ],
+        "cohort_merged__DRR127649__k141_162606::33::39215::40282::+": [
+            "msp_071",
+            "accessory",
+            "NA",
+            "CAG-177"
+        ],
+        "cohort_merged__DRR127616__k141_96599::3::1158::1382::+": [
+            "msp_021",
+            "accessory",
+            "NA",
+            "CAG-177"
+        ],
+        "cohort_merged__DRR171825__k141_46794::3::5892::7823::+": [
+            "msp_141",
+            "shared_accessory",
+            "NA",
+            "CAG-177"
+        ],
+        "cohort_merged__DRR127485__k141_115570::71::79858::80655::-": [
+            "msp_142",
+            "shared_accessory",
+            "NA",
+            "CAG-177"
+        ],
+        "cohort_merged__DRR127580__k141_127427::2::425::1975::-": [
+            "msp_080",
+            "shared_accessory",
+            "NA",
+            "CAG-177"
+        ],
+        "cohort_merged__DRR127509__k141_112539::8::5781::8192::-": [
+            "msp_038",
+            "accessory",
+            "NA",
+            "CAG-177"
+        ],
+        "cohort_merged__DRR127478__k141_47786::1::94::1389::-": [
+            "msp_043",
+            "shared_accessory",
+            "NA",
+            "CAG-177"
+        ],
+        "cohort_merged__DRR127476__k141_35803::2::432::1124::+": [
+            "msp_023",
+            "shared_accessory",
+            "NA",
+            "CAG-177"
+        ],
+        "cohort_merged__DRR171893__k141_4768::2::1063::1653::+": [
+            "msp_043",
+            "shared_accessory",
+            "NA",
+            "CAG-177"
+        ],
+        "cohort_merged__DRR127559__k141_117133::2::248::421::+": [
+            "msp_071",
+            "accessory",
+            "NA",
+            "CAG-177"
+        ],
+        "cohort_merged__DRR127485__k141_284047::15::16699::17139::+": [
+            "msp_008",
+            "shared_accessory",
+            "NA",
+            "CAG-177"
+        ],
+        "cohort_merged__DRR127646__k141_152262::3::592::1485::+": [
+            "msp_142",
+            "accessory",
+            "NA",
+            "CAG-177"
+        ],
+        "cohort_merged__DRR171955__k141_112585::11::12384::16529::-": [
+            "msp_089",
+            "shared_accessory",
+            "NA",
+            "CAG-177"
+        ],
+        "cohort_merged__DRR127617__k141_161938::3::1233::1493::+": [
+            "msp_021",
+            "accessory",
+            "NA",
+            "CAG-177"
+        ],
+        "cohort_merged__DRR171847__k141_95670::19::15336::17090::+": [
+            "msp_036",
+            "shared_accessory",
+            "NA",
+            "CAG-177"
+        ],
+        "cohort_merged__DRR171476__k141_172672::2::242::1759::+": [
+            "msp_197",
+            "shared_accessory",
+            "NA",
+            "CAG-177"
+        ],
+        "cohort_merged__DRR171756__k141_48688::3::1707::2318::+": [
+            "msp_438",
+            "core",
+            "NA",
+            "CAG-177"
+        ],
+        "cohort_merged__DRR127597__k141_65991::2::173::379::+": [
+            "msp_076",
+            "shared_accessory",
+            "NA",
+            "CAG-177"
+        ],
+        "cohort_merged__DRR127485__k141_55838::4::1068::1478::+": [
+            "msp_055",
+            "shared_accessory",
+            "NA",
+            "CAG-177"
+        ],
+        "cohort_merged__DRR127485__k141_92944::282::297751::299613::+": [
+            "msp_142",
+            "shared_accessory",
+            "NA",
+            "CAG-177"
+        ],
+        "cohort_merged__DRR127507__k141_10743::1::34::492::-": [
+            "msp_043",
+            "shared_accessory",
+            "NA",
+            "CAG-177"
+        ]
+    }
+]

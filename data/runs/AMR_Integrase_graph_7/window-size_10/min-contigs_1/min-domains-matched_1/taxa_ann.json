@@ -1,0 +1,22 @@
+[
+    {
+        "cohort_merged__DRR127514__k141_18106::9::8704::9474::+": [
+            "msp_075",
+            "shared_accessory",
+            "Megamonas_hypermegale",
+            "Megamonas funiformis"
+        ],
+        "cohort_merged__DRR127514__k141_36622::16::13825::14313::-": [
+            "msp_075",
+            "shared_core",
+            "Megamonas_hypermegale",
+            "Megamonas funiformis"
+        ],
+        "cohort_merged__DRR127514__k141_18106::10::9524::10819::-": [
+            "msp_075",
+            "core",
+            "Megamonas_hypermegale",
+            "Megamonas funiformis"
+        ]
+    }
+]

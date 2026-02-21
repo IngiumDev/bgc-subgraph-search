@@ -1,0 +1,130 @@
+[
+    {
+        "cohort_merged__DRR127488__k141_125248::2::837::1034::+": [
+            "msp_159",
+            "shared_core",
+            "NA",
+            "Prevotella copri_A"
+        ],
+        "cohort_merged__DRR127476__k141_17772::22::23838::24554::+": [
+            "msp_086",
+            "core",
+            "NA",
+            "Prevotella copri_A"
+        ],
+        "cohort_merged__DRR127476__k141_17772::26::27618::31049::-": [
+            "msp_086",
+            "core",
+            "NA",
+            "Prevotella copri_A"
+        ],
+        "cohort_merged__DRR127488__k141_113869::2::1490::2464::+": [
+            "msp_159",
+            "shared_core",
+            "NA",
+            "Prevotella copri_A"
+        ],
+        "cohort_merged__DRR127488__k141_66907::2::827::1171::-": [
+            "msp_272",
+            "shared_core",
+            "NA",
+            "Prevotella copri_A"
+        ],
+        "cohort_merged__DRR171649__k141_37328::4::2219::3691::+": [
+            "msp_079",
+            "accessory",
+            "NA",
+            "Prevotella copri_A"
+        ],
+        "cohort_merged__DRR171656__k141_155334::2::552::1487::-": [
+            "msp_079",
+            "accessory",
+            "NA",
+            "Prevotella copri_A"
+        ],
+        "cohort_merged__DRR127476__k141_17772::25::26906::27517::-": [
+            "msp_086",
+            "core",
+            "NA",
+            "Prevotella copri_A"
+        ],
+        "cohort_merged__DRR127476__k141_77535::6::4852::5577::+": [
+            "msp_079",
+            "shared_accessory",
+            "NA",
+            "Prevotella copri_A"
+        ],
+        "cohort_merged__DRR171580__k141_171680::3::4705::5451::+": [
+            "msp_086",
+            "shared_core",
+            "NA",
+            "Prevotella copri_A"
+        ],
+        "cohort_merged__DRR127485__k141_40127::12::12202::13860::-": [
+            "msp_079",
+            "shared_accessory",
+            "NA",
+            "Prevotella copri_A"
+        ],
+        "cohort_merged__DRR171649__k141_37328::6::4423::5508::+": [
+            "msp_079",
+            "accessory",
+            "NA",
+            "Prevotella copri_A"
+        ],
+        "cohort_merged__DRR127476__k141_77535::10::8660::10933::+": [
+            "msp_079",
+            "shared_accessory",
+            "NA",
+            "Prevotella copri_A"
+        ],
+        "cohort_merged__DRR127488__k141_113869::3::2779::3147::+": [
+            "msp_159",
+            "shared_core",
+            "NA",
+            "Prevotella copri_A"
+        ],
+        "cohort_merged__DRR127476__k141_77535::8::6694::7758::+": [
+            "msp_079",
+            "accessory",
+            "NA",
+            "Prevotella copri_A"
+        ],
+        "cohort_merged__DRR127488__k141_113869::5::4333::4803::-": [
+            "msp_159",
+            "core",
+            "NA",
+            "Prevotella copri_A"
+        ],
+        "cohort_merged__DRR127476__k141_17772::23::24614::26005::+": [
+            "msp_086",
+            "accessory",
+            "NA",
+            "Prevotella copri_A"
+        ],
+        "cohort_merged__DRR171482__k141_131972::38::33898::34230::-": [
+            "msp_159",
+            "core",
+            "NA",
+            "Prevotella copri_A"
+        ],
+        "cohort_merged__DRR127476__k141_17772::21::22696::23730::+": [
+            "msp_086",
+            "accessory",
+            "NA",
+            "Prevotella copri_A"
+        ],
+        "cohort_merged__DRR171482__k141_131972::39::34400::35083::+": [
+            "msp_159",
+            "core",
+            "NA",
+            "Prevotella copri_A"
+        ],
+        "cohort_merged__DRR127488__k141_113869::4::3235::3927::+": [
+            "msp_159",
+            "shared_core",
+            "NA",
+            "Prevotella copri_A"
+        ]
+    }
+]

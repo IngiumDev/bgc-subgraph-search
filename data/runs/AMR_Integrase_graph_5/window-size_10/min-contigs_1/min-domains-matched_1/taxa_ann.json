@@ -1,0 +1,136 @@
+[
+    {
+        "cohort_merged__DRR127485__k141_185632::5::2147::2908::+": [
+            "msp_029",
+            "shared_core",
+            "NA",
+            "Acetatifactor sp900066565"
+        ],
+        "cohort_merged__DRR127485__k141_185632::6::2935::3834::+": [
+            "msp_029",
+            "shared_core",
+            "NA",
+            "Acetatifactor sp900066565"
+        ],
+        "cohort_merged__DRR127488__k141_106363::6::4753::5259::+": [
+            "msp_014",
+            "core",
+            "NA",
+            "Acetatifactor sp900066565"
+        ],
+        "cohort_merged__DRR127755__k141_9783::1::166::1044::-": [
+            "msp_320",
+            "accessory",
+            "NA",
+            "Acetatifactor sp900066565"
+        ],
+        "cohort_merged__DRR127532__k141_102878::3::2204::2716::+": [
+            "msp_205",
+            "shared_core",
+            "NA",
+            "Acetatifactor sp900066565"
+        ],
+        "cohort_merged__DRR127594__k141_22398::1::101::1030::-": [
+            "msp_014",
+            "accessory",
+            "NA",
+            "Acetatifactor sp900066565"
+        ],
+        "cohort_merged__DRR127476__k141_244978::26::32822::34654::-": [
+            "msp_215",
+            "shared_core",
+            "NA",
+            "Acetatifactor sp900066565"
+        ],
+        "cohort_merged__DRR127476__k141_121002::2::908::1693::-": [
+            "msp_014",
+            "accessory",
+            "NA",
+            "Acetatifactor sp900066565"
+        ],
+        "cohort_merged__DRR127755__k141_32060::1::26::292::+": [
+            "msp_029",
+            "accessory",
+            "NA",
+            "Acetatifactor sp900066565"
+        ],
+        "cohort_merged__DRR127485__k141_185632::2::345::989::+": [
+            "msp_029",
+            "shared_core",
+            "NA",
+            "Acetatifactor sp900066565"
+        ],
+        "cohort_merged__DRR127485__k141_28707::8::5979::6887::+": [
+            "msp_029",
+            "accessory",
+            "NA",
+            "Acetatifactor sp900066565"
+        ],
+        "cohort_merged__DRR127532__k141_102878::1::445::1209::+": [
+            "msp_205",
+            "shared_core",
+            "NA",
+            "Acetatifactor sp900066565"
+        ],
+        "cohort_merged__DRR127485__k141_185632::7::3875::4393::+": [
+            "msp_029",
+            "accessory",
+            "NA",
+            "Acetatifactor sp900066565"
+        ],
+        "cohort_merged__DRR127617__k141_5256::4::2794::4122::-": [
+            "msp_025",
+            "shared_accessory",
+            "NA",
+            "Acetatifactor sp900066565"
+        ],
+        "cohort_merged__DRR171495__k141_72297::2::818::2095::+": [
+            "msp_205",
+            "shared_core",
+            "NA",
+            "Acetatifactor sp900066565"
+        ],
+        "cohort_merged__DRR127755__k141_9783::4::3351::4649::-": [
+            "msp_320",
+            "shared_accessory",
+            "NA",
+            "Acetatifactor sp900066565"
+        ],
+        "cohort_merged__DRR171601__k141_12454::35::34841::35101::+": [
+            "msp_374",
+            "core",
+            "NA",
+            "Acetatifactor sp900066565"
+        ],
+        "cohort_merged__DRR127532__k141_102878::2::1212::2114::+": [
+            "msp_205",
+            "core",
+            "NA",
+            "Acetatifactor sp900066565"
+        ],
+        "cohort_merged__DRR127476__k141_121528::4::1411::2289::-": [
+            "msp_014",
+            "core",
+            "NA",
+            "Acetatifactor sp900066565"
+        ],
+        "cohort_merged__DRR127594__k141_22885::2::801::1556::+": [
+            "msp_320",
+            "shared_accessory",
+            "NA",
+            "Acetatifactor sp900066565"
+        ],
+        "cohort_merged__DRR127485__k141_185632::8::4410::5462::+": [
+            "msp_029",
+            "core",
+            "NA",
+            "Acetatifactor sp900066565"
+        ],
+        "cohort_merged__DRR127532__k141_102878::4::2717::3745::+": [
+            "msp_205",
+            "shared_core",
+            "NA",
+            "Acetatifactor sp900066565"
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "cohort_merged__DRR127488__k141_155028::1::360::1208::-": [
+            "msp_011",
+            "accessory",
+            "Eubacterium_eligens",
+            "Lachnospira"
+        ],
+        "cohort_merged__DRR127485__k141_228400::3::2080::3210::-": [
+            "msp_023",
+            "accessory",
+            "Eubacterium_eligens",
+            "Lachnospira"
+        ],
+        "cohort_merged__DRR127488__k141_121602::2::1076::2263::+": [
+            "msp_054",
+            "shared_accessory",
+            "Eubacterium_eligens",
+            "Lachnospira"
+        ],
+        "cohort_merged__DRR127583__k141_60375::6::2209::2463::-": [
+            "msp_054",
+            "accessory",
+            "Eubacterium_eligens",
+            "Lachnospira"
+        ],
+        "cohort_merged__DRR171724__k141_46190::3::3338::4330::+": [
+            "msp_023",
+            "accessory",
+            "Eubacterium_eligens",
+            "Lachnospira"
+        ],
+        "cohort_merged__DRR127481__k141_144976::19::23889::24221::-": [
+            "msp_023",
+            "shared_accessory",
+            "Eubacterium_eligens",
+            "Lachnospira"
+        ],
+        "cohort_merged__DRR127559__k141_100753::2::510::785::+": [
+            "msp_011",
+            "accessory",
+            "Eubacterium_eligens",
+            "Lachnospira"
+        ]
+    }
+]

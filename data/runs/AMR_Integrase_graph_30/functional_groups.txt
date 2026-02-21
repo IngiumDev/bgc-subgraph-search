@@ -1,0 +1,8 @@
+protein_id	ElementSymbol
+cohort_merged__DRR127488__k141_105670::9::6439::7671::+	DNA binding domain of tn916 int;Phage integrase family
+cohort_merged__DRR127509__k141_51144::2::591::812::-	Transposon-encoded protein TnpV
+cohort_merged__DRR127514__k141_21221::2::439::666::-	Putative transposon-transfer assisting
+cohort_merged__DRR127517__k141_120806::2::773::979::+	Putative transposon-transfer assisting
+cohort_merged__DRR127579__k141_8523::5::3657::4103::-	Integrase core domain
+cohort_merged__DRR127583__k141_86249::1::56::433::+	Transposon-encoded protein TnpV
+cohort_merged__DRR171465__k141_71402::4::13664::13894::+	Putative transposon-transfer assisting

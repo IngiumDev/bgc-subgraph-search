@@ -1,0 +1,100 @@
+[
+    {
+        "cohort_merged__DRR127509__k141_50290::11::11106::11801::+": [
+            "msp_001",
+            "shared_accessory",
+            "Escherichia_coli",
+            "Escherichia"
+        ],
+        "cohort_merged__DRR127514__k141_108018::1::289::1149::-": [
+            "msp_001",
+            "shared_accessory",
+            "Escherichia_coli",
+            "Escherichia"
+        ],
+        "cohort_merged__DRR171874__k141_44129::1::113::1006::+": [
+            "msp_001",
+            "shared_accessory",
+            "Escherichia_coli",
+            "Escherichia"
+        ],
+        "cohort_merged__DRR171486__k141_61675::3::1665::2258::-": [
+            "msp_001",
+            "shared_accessory",
+            "Escherichia_coli",
+            "Escherichia"
+        ],
+        "cohort_merged__DRR127514__k141_99637::5::2893::3426::-": [
+            "msp_001",
+            "shared_accessory",
+            "Escherichia_coli",
+            "Escherichia"
+        ],
+        "cohort_merged__DRR171464__k141_129886::9::4183::5295::+": [
+            "msp_001",
+            "shared_accessory",
+            "Escherichia_coli",
+            "Escherichia"
+        ],
+        "cohort_merged__DRR127509__k141_50290::6::4704::6644::+": [
+            "msp_001",
+            "shared_accessory",
+            "Escherichia_coli",
+            "Escherichia"
+        ],
+        "cohort_merged__DRR127509__k141_50290::7::6685::7212::+": [
+            "msp_001",
+            "shared_accessory",
+            "Escherichia_coli",
+            "Escherichia"
+        ],
+        "cohort_merged__DRR127509__k141_50290::10::9971::11101::+": [
+            "msp_001",
+            "shared_accessory",
+            "Escherichia_coli",
+            "Escherichia"
+        ],
+        "cohort_merged__DRR127514__k141_99637::4::1956::2639::-": [
+            "msp_001",
+            "shared_accessory",
+            "Escherichia_coli",
+            "Escherichia"
+        ],
+        "cohort_merged__DRR127509__k141_50290::9::8698::9981::+": [
+            "msp_001",
+            "shared_accessory",
+            "Escherichia_coli",
+            "Escherichia"
+        ],
+        "cohort_merged__DRR127514__k141_108018::3::2053::5058::+": [
+            "msp_001",
+            "shared_accessory",
+            "Escherichia_coli",
+            "Escherichia"
+        ],
+        "cohort_merged__DRR171708__k141_65892::2::278::496::-": [
+            "msp_001",
+            "accessory",
+            "Escherichia_coli",
+            "Escherichia"
+        ],
+        "cohort_merged__DRR127507__k141_82443::1::230::517::+": [
+            "msp_001",
+            "shared_accessory",
+            "Escherichia_coli",
+            "Escherichia"
+        ],
+        "cohort_merged__DRR127509__k141_50290::8::7316::8695::+": [
+            "msp_001",
+            "shared_accessory",
+            "Escherichia_coli",
+            "Escherichia"
+        ],
+        "cohort_merged__DRR127509__k141_50290::5::3650::4411::+": [
+            "msp_001",
+            "shared_accessory",
+            "Escherichia_coli",
+            "Escherichia"
+        ]
+    }
+]

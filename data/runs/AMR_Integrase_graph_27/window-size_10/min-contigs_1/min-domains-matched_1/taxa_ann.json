@@ -1,0 +1,922 @@
+[
+    {
+        "cohort_merged__DRR127485__k141_283422::2::2233::2403::-": [
+            "msp_011",
+            "accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR171662__k141_102124::78::87602::88090::+": [
+            "msp_016",
+            "accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127509__k141_5883::2::316::696::-": [
+            "msp_016",
+            "shared_accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR171797__k141_39481::2::304::1455::-": [
+            "msp_489",
+            "shared_core",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127509__k141_91273::9::8578::9237::+": [
+            "msp_016",
+            "shared_accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127509__k141_116608::7::7549::8487::+": [
+            "msp_038",
+            "shared_core",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127485__k141_172734::8::6779::7018::+": [
+            "msp_023",
+            "accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR171631__k141_120673::32::22808::23125::+": [
+            "msp_023",
+            "shared_accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127481__k141_115703::8::5939::6961::+": [
+            "msp_133",
+            "accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127478__k141_67809::3::873::1205::-": [
+            "msp_055",
+            "shared_accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127485__k141_253470::48::45897::46238::+": [
+            "msp_142",
+            "core",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127481__k141_115703::5::2672::2962::+": [
+            "msp_133",
+            "shared_accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127485__k141_196487::3::1525::2025::-": [
+            "msp_016",
+            "accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR171500__k141_102463::1::60::1445::+": [
+            "msp_016",
+            "shared_accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127507__k141_59823::13::10870::11229::+": [
+            "msp_021",
+            "accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127485__k141_15777::3::1266::2069::-": [
+            "msp_008",
+            "shared_accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127485__k141_208767::31::21747::22403::-": [
+            "msp_008",
+            "shared_accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127488__k141_182427::4::2458::3465::+": [
+            "msp_008",
+            "shared_accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127476__k141_4045::42::44223::46202::+": [
+            "msp_016",
+            "accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127485__k141_260057::7::3049::3693::+": [
+            "msp_055",
+            "shared_accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127485__k141_253470::49::46467::47453::+": [
+            "msp_142",
+            "core",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127485__k141_131056::2::161::469::+": [
+            "msp_021",
+            "shared_accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127754__k141_83716::1::153::566::-": [
+            "msp_066",
+            "accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127476__k141_154518::6::3094::3846::-": [
+            "msp_016",
+            "shared_accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127481__k141_38503::14::13319::15751::+": [
+            "msp_007",
+            "shared_core",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127476__k141_211648::14::14474::14791::-": [
+            "msp_016",
+            "shared_accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127485__k141_9945::2::653::1246::+": [
+            "msp_008",
+            "shared_accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127481__k141_1194::20::17341::17934::-": [
+            "msp_008",
+            "shared_accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127476__k141_64880::20::24100::24594::-": [
+            "msp_007",
+            "shared_core",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR171657__k141_112354::7::4074::5402::-": [
+            "msp_023",
+            "shared_accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR171544__k141_83396::2::164::304::+": [
+            "msp_007",
+            "core",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127476__k141_241201::4::2559::3113::-": [
+            "msp_198",
+            "shared_core",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127507__k141_91212::3::575::814::-": [
+            "msp_081",
+            "accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127509__k141_116608::3::1480::2910::-": [
+            "msp_038",
+            "shared_core",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127517__k141_71891::3::1055::1705::+": [
+            "msp_023",
+            "shared_accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR171547__k141_34149::2::112::813::+": [
+            "msp_021",
+            "shared_accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR171656__k141_4222::3::942::2960::-": [
+            "msp_016",
+            "shared_accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR171707__k141_146818::2::912::1607::-": [
+            "msp_133",
+            "core",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127752__k141_28997::127::117152::119911::+": [
+            "msp_054",
+            "shared_accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127767__k141_52220::3::2423::4792::+": [
+            "msp_016",
+            "accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127488__k141_180340::1::260::628::-": [
+            "msp_029",
+            "shared_accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR171507__k141_27504::5::2661::4109::-": [
+            "msp_011",
+            "shared_accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127476__k141_241201::2::1085::1564::-": [
+            "msp_198",
+            "shared_accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127476__k141_4045::51::54431::55318::+": [
+            "msp_016",
+            "accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127485__k141_253470::47::44477::45820::-": [
+            "msp_142",
+            "accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127594__k141_10638::1::14::808::-": [
+            "msp_188",
+            "shared_accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR172014__k141_170610::26::20505::21767::-": [
+            "msp_038",
+            "shared_core",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127509__k141_116608::2::1239::1418::+": [
+            "msp_038",
+            "accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127521__k141_100486::4::4753::7461::+": [
+            "msp_188",
+            "shared_accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127485__k141_208767::33::23255::23626::-": [
+            "msp_008",
+            "shared_accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127485__k141_193175::7::3496::4092::+": [
+            "msp_055",
+            "shared_accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR171522__k141_50080::11::10008::10244::+": [
+            "msp_054",
+            "accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127476__k141_123149::5::2454::2789::-": [
+            "msp_016",
+            "shared_accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127509__k141_67278::29::28026::34466::-": [
+            "msp_323",
+            "core",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127476__k141_148274::3::2169::2768::+": [
+            "msp_080",
+            "shared_accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127476__k141_4045::52::55315::56142::+": [
+            "msp_016",
+            "accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR171900__k141_69574::2::157::1182::+": [
+            "msp_157",
+            "shared_accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR171853__k141_63396::4::4274::4528::+": [
+            "msp_007",
+            "shared_accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127485__k141_253470::53::50497::51228::+": [
+            "msp_142",
+            "accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127485__k141_253470::54::51221::51544::+": [
+            "msp_142",
+            "core",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127524__k141_219119::6::3246::5315::+": [
+            "msp_054",
+            "shared_accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127509__k141_116608::5::3672::6041::-": [
+            "msp_038",
+            "core",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127485__k141_200733::10::6200::6811::+": [
+            "msp_023",
+            "shared_accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127481__k141_115703::11::9414::10574::+": [
+            "msp_133",
+            "accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127476__k141_81938::36::35115::35792::-": [
+            "msp_021",
+            "shared_accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127628__k141_157094::3::1564::1743::-": [
+            "msp_102",
+            "core",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127476__k141_81938::38::36134::36460::+": [
+            "msp_021",
+            "shared_accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127509__k141_50849::1::177::2234::-": [
+            "msp_081",
+            "shared_accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR171851__k141_9346::1::592::807::+": [
+            "msp_011",
+            "shared_accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127485__k141_193175::8::4149::4526::+": [
+            "msp_055",
+            "shared_accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127485__k141_119978::25::25571::26386::-": [
+            "msp_284",
+            "shared_accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127476__k141_4045::48::50288::51337::-": [
+            "msp_016",
+            "shared_accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR171571__k141_12883::12::9567::10118::-": [
+            "msp_023",
+            "shared_accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127485__k141_15777::4::2048::2521::-": [
+            "msp_008",
+            "shared_accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR171613__k141_145603::3::3078::3608::+": [
+            "msp_016",
+            "shared_accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR171488__k141_36817::4::2825::3415::+": [
+            "msp_011",
+            "accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127524__k141_219119::9::7445::8092::+": [
+            "msp_054",
+            "shared_accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR171711__k141_72584::2::269::850::+": [
+            "msp_021",
+            "shared_accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127588__k141_33124::1::131::832::-": [
+            "msp_011",
+            "accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR171608__k141_119489::22::15157::15498::-": [
+            "msp_102",
+            "core",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127476__k141_196600::2::866::2245::+": [
+            "msp_009",
+            "shared_core",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127628__k141_157094::1::307::789::-": [
+            "msp_102",
+            "core",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127669__k141_84018::2::289::810::+": [
+            "msp_188",
+            "accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR171494__k141_17149::2::1385::2062::-": [
+            "msp_023",
+            "shared_accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127617__k141_99176::2::193::633::+": [
+            "msp_016",
+            "accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127476__k141_31097::26::24690::27728::+": [
+            "msp_016",
+            "accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127537__k141_15086::3::1233::2369::+": [
+            "msp_016",
+            "shared_accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127481__k141_115703::12::10617::11618::+": [
+            "msp_133",
+            "core",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127476__k141_82471::2::2150::4315::-": [
+            "msp_011",
+            "shared_accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127524__k141_219119::8::6090::7430::+": [
+            "msp_054",
+            "shared_accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127476__k141_211648::15::14829::16142::-": [
+            "msp_016",
+            "shared_accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127476__k141_64880::21::24826::25074::+": [
+            "msp_007",
+            "accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127485__k141_33359::2::447::1151::-": [
+            "msp_038",
+            "accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR171654__k141_111868::16::16220::16573::+": [
+            "msp_021",
+            "shared_accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127481__k141_115703::7::4552::5919::+": [
+            "msp_133",
+            "accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127524__k141_219119::12::11445::12146::+": [
+            "msp_054",
+            "shared_accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR171715__k141_147824::2::509::1300::-": [
+            "msp_016",
+            "shared_accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR171460__k141_44850::28::20633::20815::-": [
+            "msp_102",
+            "core",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR171658__k141_104021::1::976::1314::-": [
+            "msp_007",
+            "core",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127580__k141_4755::3::1385::1738::+": [
+            "msp_080",
+            "shared_accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127476__k141_211648::13::12945::14375::-": [
+            "msp_016",
+            "shared_accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127583__k141_4641::3::964::1308::-": [
+            "msp_054",
+            "shared_accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127476__k141_4045::50::53065::54366::+": [
+            "msp_016",
+            "accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR171606__k141_50631::9::4644::5375::+": [
+            "msp_081",
+            "shared_accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127546__k141_2175::1::218::598::-": [
+            "msp_016",
+            "shared_accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127476__k141_241201::3::1581::2468::-": [
+            "msp_198",
+            "accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127481__k141_115703::9::6978::7946::+": [
+            "msp_133",
+            "shared_core",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127488__k141_147463::8::4050::4388::-": [
+            "msp_016",
+            "accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR171514__k141_105734::2::363::2129::-": [
+            "msp_142",
+            "shared_accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127476__k141_31097::4::3358::5205::-": [
+            "msp_016",
+            "accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127476__k141_188717::6::5936::7069::+": [
+            "msp_016",
+            "shared_accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127488__k141_61319::7::3558::4499::-": [
+            "msp_016",
+            "shared_accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR171574__k141_97863::2::666::929::-": [
+            "msp_066",
+            "shared_accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127721__k141_45298::27::22897::24315::-": [
+            "msp_038",
+            "accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127583__k141_159126::6::1772::2650::+": [
+            "msp_008",
+            "shared_accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127488__k141_86063::3::1073::1336::-": [
+            "msp_025",
+            "shared_accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127476__k141_81938::39::36488::36697::-": [
+            "msp_021",
+            "shared_accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127485__k141_208767::32::22400::23251::-": [
+            "msp_008",
+            "shared_accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127509__k141_118081::6::5366::6826::+": [
+            "msp_016",
+            "shared_accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127491__k141_61901::3::882::1334::+": [
+            "msp_014",
+            "shared_accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR171463__k141_55045::1::19::327::-": [
+            "msp_081",
+            "accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127481__k141_84310::8::2875::3147::-": [
+            "msp_055",
+            "shared_accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127524__k141_239075::2::157::1593::+": [
+            "msp_133",
+            "accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127478__k141_35052::10::6158::6379::+": [
+            "msp_021",
+            "accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR171823__k141_135074::2::259::819::+": [
+            "msp_142",
+            "accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127700__k141_19616::3::1654::2256::+": [
+            "msp_080",
+            "shared_accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR171556__k141_95818::4::4131::4376::-": [
+            "msp_038",
+            "shared_accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127485__k141_193175::6::3209::3463::+": [
+            "msp_055",
+            "shared_accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127488__k141_124460::5::5304::6383::+": [
+            "msp_014",
+            "shared_accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR171983__k141_48097::3::1850::2581::-": [
+            "msp_102",
+            "shared_accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127488__k141_180321::7::2538::2948::-": [
+            "msp_055",
+            "shared_accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR171691__k141_96060::2::111::338::-": [
+            "msp_023",
+            "shared_accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127536__k141_1626::5::3001::3450::+": [
+            "msp_054",
+            "shared_accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127485__k141_55740::2::239::1057::-": [
+            "msp_025",
+            "shared_accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127546__k141_10969::2::369::638::+": [
+            "msp_054",
+            "shared_accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127485__k141_200733::5::2922::3410::+": [
+            "msp_023",
+            "shared_accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127674__k141_42778::2::1388::1825::+": [
+            "msp_021",
+            "shared_accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR171496__k141_13120::3::1572::2831::+": [
+            "msp_011",
+            "shared_accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127476__k141_80822::8::6176::6415::-": [
+            "msp_016",
+            "accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR171636__k141_100398::3::2040::4247::-": [
+            "msp_016",
+            "shared_accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR171682__k141_135468::7::5141::5596::+": [
+            "msp_198",
+            "shared_core",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127485__k141_193175::5::2969::3181::+": [
+            "msp_055",
+            "accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127628__k141_157094::2::764::1567::-": [
+            "msp_102",
+            "core",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127476__k141_4045::49::51609::53063::+": [
+            "msp_016",
+            "shared_accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127485__k141_218464::10::5475::5819::+": [
+            "msp_081",
+            "shared_accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127485__k141_200733::6::3460::4044::+": [
+            "msp_023",
+            "shared_accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127478__k141_3843::3::1694::2275::+": [
+            "msp_102",
+            "shared_accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127491__k141_44184::2::865::1437::-": [
+            "msp_157",
+            "shared_accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127628__k141_157094::4::1838::2986::-": [
+            "msp_102",
+            "shared_core",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127491__k141_23225::14::16560::17642::+": [
+            "msp_016",
+            "shared_core",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127524__k141_219119::7::5328::5930::+": [
+            "msp_054",
+            "shared_accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127638__k141_70212::23::27570::28691::+": [
+            "msp_025",
+            "shared_accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ],
+        "cohort_merged__DRR127476__k141_4045::43::46310::46900::+": [
+            "msp_016",
+            "shared_accessory",
+            "Eubacterium_rectale",
+            "Agathobacter"
+        ]
+    }
+]

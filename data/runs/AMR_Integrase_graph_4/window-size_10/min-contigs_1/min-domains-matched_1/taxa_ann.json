@@ -1,0 +1,172 @@
+[
+    {
+        "cohort_merged__DRR127700__k141_91081::2::349::1068::-": [
+            "msp_275",
+            "core",
+            "NA",
+            "Phascolarctobacterium"
+        ],
+        "cohort_merged__DRR127536__k141_77585::13::13474::13743::+": [
+            "msp_095",
+            "accessory",
+            "NA",
+            "Phascolarctobacterium"
+        ],
+        "cohort_merged__DRR172013__k141_74810::4::2307::4280::+": [
+            "msp_029",
+            "shared_accessory",
+            "NA",
+            "Phascolarctobacterium"
+        ],
+        "cohort_merged__DRR127476__k141_35008::3::331::825::-": [
+            "msp_014",
+            "accessory",
+            "NA",
+            "Phascolarctobacterium"
+        ],
+        "cohort_merged__DRR127789__k141_120947::1::267::500::-": [
+            "msp_275",
+            "accessory",
+            "NA",
+            "Phascolarctobacterium"
+        ],
+        "cohort_merged__DRR127647__k141_64316::27::30348::32072::-": [
+            "msp_095",
+            "shared_core",
+            "NA",
+            "Phascolarctobacterium"
+        ],
+        "cohort_merged__DRR127700__k141_91081::8::4752::5462::-": [
+            "msp_275",
+            "accessory",
+            "NA",
+            "Phascolarctobacterium"
+        ],
+        "cohort_merged__DRR127546__k141_43703::46::52005::52781::+": [
+            "msp_095",
+            "accessory",
+            "NA",
+            "Phascolarctobacterium"
+        ],
+        "cohort_merged__DRR171537__k141_60027::57::59041::59343::+": [
+            "msp_014",
+            "accessory",
+            "NA",
+            "Phascolarctobacterium"
+        ],
+        "cohort_merged__DRR127488__k141_88123::11::8401::9840::-": [
+            "msp_029",
+            "shared_accessory",
+            "NA",
+            "Phascolarctobacterium"
+        ],
+        "cohort_merged__DRR127485__k141_234659::19::17242::18204::-": [
+            "msp_029",
+            "shared_accessory",
+            "NA",
+            "Phascolarctobacterium"
+        ],
+        "cohort_merged__DRR127485__k141_234659::17::15706::16059::-": [
+            "msp_029",
+            "shared_accessory",
+            "NA",
+            "Phascolarctobacterium"
+        ],
+        "cohort_merged__DRR171559__k141_235227::2::319::882::-": [
+            "msp_275",
+            "core",
+            "NA",
+            "Phascolarctobacterium"
+        ],
+        "cohort_merged__DRR127536__k141_77585::12::12094::13050::-": [
+            "msp_095",
+            "accessory",
+            "NA",
+            "Phascolarctobacterium"
+        ],
+        "cohort_merged__DRR127536__k141_77585::10::9751::10830::-": [
+            "msp_095",
+            "shared_accessory",
+            "NA",
+            "Phascolarctobacterium"
+        ],
+        "cohort_merged__DRR127485__k141_234659::18::16753::17241::-": [
+            "msp_029",
+            "shared_accessory",
+            "NA",
+            "Phascolarctobacterium"
+        ],
+        "cohort_merged__DRR127700__k141_91081::7::3976::4749::-": [
+            "msp_275",
+            "core",
+            "NA",
+            "Phascolarctobacterium"
+        ],
+        "cohort_merged__DRR127536__k141_11600::4::5171::6691::-": [
+            "msp_095",
+            "shared_core",
+            "NA",
+            "Phascolarctobacterium"
+        ],
+        "cohort_merged__DRR127628__k141_30500::1::109::354::-": [
+            "msp_014",
+            "accessory",
+            "NA",
+            "Phascolarctobacterium"
+        ],
+        "cohort_merged__DRR127700__k141_91081::4::2248::2709::-": [
+            "msp_275",
+            "core",
+            "NA",
+            "Phascolarctobacterium"
+        ],
+        "cohort_merged__DRR127488__k141_153950::8::6318::6674::-": [
+            "msp_014",
+            "accessory",
+            "NA",
+            "Phascolarctobacterium"
+        ],
+        "cohort_merged__DRR127700__k141_91081::3::1113::2246::-": [
+            "msp_275",
+            "core",
+            "NA",
+            "Phascolarctobacterium"
+        ],
+        "cohort_merged__DRR127536__k141_77585::11::10818::12110::-": [
+            "msp_095",
+            "shared_accessory",
+            "NA",
+            "Phascolarctobacterium"
+        ],
+        "cohort_merged__DRR127536__k141_11600::3::2861::5146::-": [
+            "msp_095",
+            "core",
+            "NA",
+            "Phascolarctobacterium"
+        ],
+        "cohort_merged__DRR127476__k141_35008::2::111::308::-": [
+            "msp_014",
+            "accessory",
+            "NA",
+            "Phascolarctobacterium"
+        ],
+        "cohort_merged__DRR127546__k141_43703::47::52792::54885::+": [
+            "msp_095",
+            "accessory",
+            "NA",
+            "Phascolarctobacterium"
+        ],
+        "cohort_merged__DRR127700__k141_91081::5::2696::3277::-": [
+            "msp_275",
+            "core",
+            "NA",
+            "Phascolarctobacterium"
+        ],
+        "cohort_merged__DRR127509__k141_125532::12::10665::11621::+": [
+            "msp_170",
+            "shared_accessory",
+            "NA",
+            "Phascolarctobacterium"
+        ]
+    }
+]

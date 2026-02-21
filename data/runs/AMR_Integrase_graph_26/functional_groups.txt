@@ -1,0 +1,4 @@
+protein_id	ElementSymbol
+cohort_merged__DRR127478__k141_61374::44::55692::56984::-	Phage integrase family
+cohort_merged__DRR127625__k141_50784::5::1670::1891::+	Transposon-encoded protein TnpV
+cohort_merged__DRR171572__k141_40088::3::665::1882::+	Phage integrase family

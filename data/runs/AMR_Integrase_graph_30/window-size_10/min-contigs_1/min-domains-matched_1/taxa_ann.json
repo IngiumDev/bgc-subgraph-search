@@ -1,0 +1,390 @@
+[
+    {
+        "cohort_merged__DRR162778__k141_90521::10::8304::9458::+": [
+            "msp_008",
+            "shared_accessory",
+            "NA",
+            "Faecalimonas"
+        ],
+        "cohort_merged__DRR127524__k141_194963::3::1876::2763::+": [
+            "msp_008",
+            "shared_accessory",
+            "NA",
+            "Faecalimonas"
+        ],
+        "cohort_merged__DRR127731__k141_58894::18::24871::25680::-": [
+            "msp_512",
+            "shared_core",
+            "NA",
+            "Faecalimonas"
+        ],
+        "cohort_merged__DRR171598__k141_112815::4::1745::2716::-": [
+            "msp_008",
+            "shared_accessory",
+            "NA",
+            "Faecalimonas"
+        ],
+        "cohort_merged__DRR127485__k141_39283::3::3011::3523::-": [
+            "msp_011",
+            "shared_accessory",
+            "NA",
+            "Faecalimonas"
+        ],
+        "cohort_merged__DRR171985__k141_83452::5::4546::7158::+": [
+            "msp_512",
+            "shared_core",
+            "NA",
+            "Faecalimonas"
+        ],
+        "cohort_merged__DRR127731__k141_58894::9::7180::7809::-": [
+            "msp_512",
+            "core",
+            "NA",
+            "Faecalimonas"
+        ],
+        "cohort_merged__DRR127731__k141_58894::10::7973::8140::-": [
+            "msp_512",
+            "core",
+            "NA",
+            "Faecalimonas"
+        ],
+        "cohort_merged__DRR127731__k141_58894::7::5132::6874::-": [
+            "msp_512",
+            "shared_core",
+            "NA",
+            "Faecalimonas"
+        ],
+        "cohort_merged__DRR127731__k141_58894::5::2791::3369::-": [
+            "msp_512",
+            "shared_core",
+            "NA",
+            "Faecalimonas"
+        ],
+        "cohort_merged__DRR127685__k141_103347::2::410::1666::+": [
+            "msp_008",
+            "shared_accessory",
+            "NA",
+            "Faecalimonas"
+        ],
+        "cohort_merged__DRR127731__k141_58894::6::3390::5129::-": [
+            "msp_512",
+            "core",
+            "NA",
+            "Faecalimonas"
+        ]
+    },
+    {
+        "cohort_merged__DRR127509__k141_60227::1::29::223::+": [
+            "msp_038",
+            "accessory",
+            "Eubacterium_sp_CAG_38",
+            "Lachnospira"
+        ],
+        "cohort_merged__DRR127583__k141_86249::1::56::433::+": [
+            "msp_038",
+            "shared_accessory",
+            "Eubacterium_sp_CAG_38",
+            "Lachnospira"
+        ],
+        "cohort_merged__DRR172013__k141_81897::7::2893::5190::+": [
+            "msp_038",
+            "shared_accessory",
+            "Eubacterium_sp_CAG_38",
+            "Lachnospira"
+        ],
+        "cohort_merged__DRR171869__k141_96694::85::98651::98929::+": [
+            "msp_038",
+            "accessory",
+            "Eubacterium_sp_CAG_38",
+            "Lachnospira"
+        ],
+        "cohort_merged__DRR127552__k141_21094::2::1160::2533::-": [
+            "msp_019",
+            "shared_accessory",
+            "Eubacterium_sp_CAG_38",
+            "Lachnospira"
+        ],
+        "cohort_merged__DRR127616__k141_5867::2::444::827::-": [
+            "msp_009",
+            "accessory",
+            "Eubacterium_sp_CAG_38",
+            "Lachnospira"
+        ],
+        "cohort_merged__DRR127519__k141_22411::3::1712::2044::-": [
+            "msp_126",
+            "shared_accessory",
+            "Eubacterium_sp_CAG_38",
+            "Lachnospira"
+        ],
+        "cohort_merged__DRR171849__k141_68869::2::102::1838::-": [
+            "msp_038",
+            "shared_accessory",
+            "Eubacterium_sp_CAG_38",
+            "Lachnospira"
+        ],
+        "cohort_merged__DRR127478__k141_38919::2::262::1623::-": [
+            "msp_019",
+            "shared_accessory",
+            "Eubacterium_sp_CAG_38",
+            "Lachnospira"
+        ],
+        "cohort_merged__DRR127485__k141_177361::2::440::730::-": [
+            "msp_038",
+            "shared_accessory",
+            "Eubacterium_sp_CAG_38",
+            "Lachnospira"
+        ],
+        "cohort_merged__DRR127515__k141_187111::18::16828::18072::+": [
+            "msp_038",
+            "shared_accessory",
+            "Eubacterium_sp_CAG_38",
+            "Lachnospira"
+        ],
+        "cohort_merged__DRR127597__k141_98233::2::760::2148::+": [
+            "msp_038",
+            "shared_accessory",
+            "Eubacterium_sp_CAG_38",
+            "Lachnospira"
+        ],
+        "cohort_merged__DRR127509__k141_51144::3::1015::1362::+": [
+            "msp_038",
+            "shared_accessory",
+            "Eubacterium_sp_CAG_38",
+            "Lachnospira"
+        ],
+        "cohort_merged__DRR171608__k141_43535::14::11436::11996::+": [
+            "msp_021",
+            "shared_accessory",
+            "Eubacterium_sp_CAG_38",
+            "Lachnospira"
+        ],
+        "cohort_merged__DRR127476__k141_27299::1::171::485::+": [
+            "msp_038",
+            "shared_accessory",
+            "Eubacterium_sp_CAG_38",
+            "Lachnospira"
+        ],
+        "cohort_merged__DRR127509__k141_51144::2::591::812::-": [
+            "msp_038",
+            "shared_accessory",
+            "Eubacterium_sp_CAG_38",
+            "Lachnospira"
+        ],
+        "cohort_merged__DRR127559__k141_112802::4::2290::3060::-": [
+            "msp_069",
+            "shared_accessory",
+            "Eubacterium_sp_CAG_38",
+            "Lachnospira"
+        ],
+        "cohort_merged__DRR171950__k141_12688::10::6997::7734::-": [
+            "msp_031",
+            "shared_accessory",
+            "Eubacterium_sp_CAG_38",
+            "Lachnospira"
+        ],
+        "cohort_merged__DRR127521__k141_99991::2::745::1356::-": [
+            "msp_009",
+            "shared_accessory",
+            "Eubacterium_sp_CAG_38",
+            "Lachnospira"
+        ],
+        "cohort_merged__DRR127597__k141_75434::3::835::1251::-": [
+            "msp_038",
+            "shared_accessory",
+            "Eubacterium_sp_CAG_38",
+            "Lachnospira"
+        ],
+        "cohort_merged__DRR171871__k141_114634::2::749::949::+": [
+            "msp_007",
+            "shared_accessory",
+            "Eubacterium_sp_CAG_38",
+            "Lachnospira"
+        ],
+        "cohort_merged__DRR127755__k141_2794::3::1647::1856::+": [
+            "msp_038",
+            "accessory",
+            "Eubacterium_sp_CAG_38",
+            "Lachnospira"
+        ],
+        "cohort_merged__DRR171629__k141_32663::4::2240::3637::-": [
+            "msp_038",
+            "accessory",
+            "Eubacterium_sp_CAG_38",
+            "Lachnospira"
+        ],
+        "cohort_merged__DRR127521__k141_99991::3::1368::1943::-": [
+            "msp_009",
+            "shared_accessory",
+            "Eubacterium_sp_CAG_38",
+            "Lachnospira"
+        ],
+        "cohort_merged__DRR171869__k141_4132::4::1771::2691::-": [
+            "msp_038",
+            "accessory",
+            "Eubacterium_sp_CAG_38",
+            "Lachnospira"
+        ],
+        "cohort_merged__DRR127517__k141_25233::1::120::425::+": [
+            "msp_009",
+            "accessory",
+            "Eubacterium_sp_CAG_38",
+            "Lachnospira"
+        ],
+        "cohort_merged__DRR127537__k141_80694::3::921::1106::-": [
+            "msp_031",
+            "accessory",
+            "Eubacterium_sp_CAG_38",
+            "Lachnospira"
+        ],
+        "cohort_merged__DRR127619__k141_7181::9::4511::6616::-": [
+            "msp_038",
+            "shared_accessory",
+            "Eubacterium_sp_CAG_38",
+            "Lachnospira"
+        ],
+        "cohort_merged__DRR127597__k141_75434::2::624::833::-": [
+            "msp_038",
+            "accessory",
+            "Eubacterium_sp_CAG_38",
+            "Lachnospira"
+        ],
+        "cohort_merged__DRR162776__k141_65982::3::1689::2561::-": [
+            "msp_019",
+            "shared_accessory",
+            "Eubacterium_sp_CAG_38",
+            "Lachnospira"
+        ],
+        "cohort_merged__DRR127485__k141_86353::2::363::1952::+": [
+            "msp_038",
+            "shared_accessory",
+            "Eubacterium_sp_CAG_38",
+            "Lachnospira"
+        ],
+        "cohort_merged__DRR127579__k141_54598::4::4419::5792::+": [
+            "msp_019",
+            "shared_accessory",
+            "Eubacterium_sp_CAG_38",
+            "Lachnospira"
+        ],
+        "cohort_merged__DRR127721__k141_7910::19::14048::15313::-": [
+            "msp_038",
+            "shared_accessory",
+            "Eubacterium_sp_CAG_38",
+            "Lachnospira"
+        ],
+        "cohort_merged__DRR171674__k141_37515::38::48469::49509::+": [
+            "msp_117",
+            "accessory",
+            "Eubacterium_sp_CAG_38",
+            "Lachnospira"
+        ],
+        "cohort_merged__DRR172017__k141_16894::2::343::1428::+": [
+            "msp_038",
+            "shared_accessory",
+            "Eubacterium_sp_CAG_38",
+            "Lachnospira"
+        ],
+        "cohort_merged__DRR127478__k141_41903::1::190::612::+": [
+            "msp_019",
+            "shared_accessory",
+            "Eubacterium_sp_CAG_38",
+            "Lachnospira"
+        ],
+        "cohort_merged__DRR127692__k141_22464::3::1289::2305::-": [
+            "msp_069",
+            "shared_accessory",
+            "Eubacterium_sp_CAG_38",
+            "Lachnospira"
+        ],
+        "cohort_merged__DRR127485__k141_241569::1::43::1194::+": [
+            "msp_009",
+            "shared_accessory",
+            "Eubacterium_sp_CAG_38",
+            "Lachnospira"
+        ],
+        "cohort_merged__DRR127579__k141_27730::2::967::1557::-": [
+            "msp_019",
+            "shared_accessory",
+            "Eubacterium_sp_CAG_38",
+            "Lachnospira"
+        ],
+        "cohort_merged__DRR171734__k141_97200::3::1771::2331::-": [
+            "msp_009",
+            "accessory",
+            "Eubacterium_sp_CAG_38",
+            "Lachnospira"
+        ],
+        "cohort_merged__DRR127485__k141_45310::6::4077::4376::-": [
+            "msp_011",
+            "accessory",
+            "Eubacterium_sp_CAG_38",
+            "Lachnospira"
+        ],
+        "cohort_merged__DRR127476__k141_204242::2::575::748::-": [
+            "msp_009",
+            "shared_accessory",
+            "Eubacterium_sp_CAG_38",
+            "Lachnospira"
+        ],
+        "cohort_merged__DRR127509__k141_60227::3::2027::2722::+": [
+            "msp_038",
+            "shared_accessory",
+            "Eubacterium_sp_CAG_38",
+            "Lachnospira"
+        ],
+        "cohort_merged__DRR127485__k141_285902::43::45055::45822::+": [
+            "msp_011",
+            "shared_accessory",
+            "Eubacterium_sp_CAG_38",
+            "Lachnospira"
+        ],
+        "cohort_merged__DRR127619__k141_11067::9::7172::8047::-": [
+            "msp_019",
+            "shared_accessory",
+            "Eubacterium_sp_CAG_38",
+            "Lachnospira"
+        ],
+        "cohort_merged__DRR127509__k141_9363::2::327::575::+": [
+            "msp_031",
+            "core",
+            "Eubacterium_sp_CAG_38",
+            "Lachnospira"
+        ],
+        "cohort_merged__DRR127748__k141_11263::5::1190::1417::-": [
+            "msp_009",
+            "accessory",
+            "Eubacterium_sp_CAG_38",
+            "Lachnospira"
+        ],
+        "cohort_merged__DRR127519__k141_22738::3::528::1583::+": [
+            "msp_083",
+            "shared_accessory",
+            "Eubacterium_sp_CAG_38",
+            "Lachnospira"
+        ],
+        "cohort_merged__DRR127521__k141_126098::4::1151::1711::-": [
+            "msp_009",
+            "shared_accessory",
+            "Eubacterium_sp_CAG_38",
+            "Lachnospira"
+        ],
+        "cohort_merged__DRR127478__k141_64873::1::201::1349::+": [
+            "msp_083",
+            "shared_accessory",
+            "Eubacterium_sp_CAG_38",
+            "Lachnospira"
+        ],
+        "cohort_merged__DRR127579__k141_54598::1::186::1595::+": [
+            "msp_019",
+            "shared_accessory",
+            "Eubacterium_sp_CAG_38",
+            "Lachnospira"
+        ],
+        "cohort_merged__DRR127594__k141_11855::2::212::1048::+": [
+            "msp_069",
+            "shared_accessory",
+            "Eubacterium_sp_CAG_38",
+            "Lachnospira"
+        ]
+    }
+]

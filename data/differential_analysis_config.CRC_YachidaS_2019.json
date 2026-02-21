@@ -1,0 +1,48 @@
+{
+  "group_comparisons": [
+    {
+      "group1": {
+        "column": "disease_group",
+        "value": "CRC",
+        "name": "Colorectal Cancer"
+      },
+      "group2": {
+        "column": "disease_group",
+        "value": "Healthy"
+      }
+    },
+    {
+      "group1": {
+        "column": "gender",
+        "value": "F",
+        "name": "female"
+      },
+      "group2": {
+        "column": "gender",
+        "value": "M",
+        "name": "male"
+      }
+    }
+  ],
+  "groups": [
+    {
+      "column": "gender",
+      "value": "F",
+      "name": "female"
+    },
+    {
+      "column": "gender",
+      "value": "M",
+      "name": "male"
+    },
+    {
+      "column": "disease_group",
+      "value": "Healthy"
+    },
+    {
+      "column": "disease_group",
+      "value": "CRC",
+      "name": "Colorectal Cancer"
+    }
+  ]
+}

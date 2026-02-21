@@ -1,0 +1,254 @@
+[
+    {
+        "0,1": {
+            "mean_distance": 63.0,
+            "N": 1,
+            "sameStrand_rate": 0.0
+        },
+        "1,2": {
+            "mean_distance": 57.0,
+            "N": 1,
+            "sameStrand_rate": 1.0
+        },
+        "2,3": {
+            "mean_distance": -7.0,
+            "N": 2,
+            "sameStrand_rate": 1.0
+        },
+        "3,4": {
+            "mean_distance": 44.0,
+            "N": 4,
+            "sameStrand_rate": 0.0
+        },
+        "4,5": {
+            "mean_distance": 326.0,
+            "N": 4,
+            "sameStrand_rate": 1.0
+        },
+        "5,6": {
+            "mean_distance": 51.0,
+            "N": 4,
+            "sameStrand_rate": 1.0
+        },
+        "6,7": {
+            "mean_distance": 4.0,
+            "N": 4,
+            "sameStrand_rate": 1.0
+        },
+        "7,8": {
+            "mean_distance": 202.5,
+            "N": 4,
+            "sameStrand_rate": 1.0
+        },
+        "8,9": {
+            "mean_distance": 476.0,
+            "N": 1,
+            "sameStrand_rate": 0.0
+        },
+        "9,10": {
+            "mean_distance": 32.0,
+            "N": 4,
+            "sameStrand_rate": 1.0
+        },
+        "10,11": {
+            "mean_distance": 132.0,
+            "N": 4,
+            "sameStrand_rate": 1.0
+        },
+        "4,12": {
+            "mean_distance": 557.0,
+            "N": 3,
+            "sameStrand_rate": 0.0
+        },
+        "12,13": {
+            "mean_distance": 18.0,
+            "N": 2,
+            "sameStrand_rate": 1.0
+        },
+        "13,14": {
+            "mean_distance": 315.0,
+            "N": 2,
+            "sameStrand_rate": 1.0
+        },
+        "14,15": {
+            "mean_distance": 635.0,
+            "N": 1,
+            "sameStrand_rate": 1.0
+        },
+        "15,16": {
+            "mean_distance": 75.0,
+            "N": 1,
+            "sameStrand_rate": 1.0
+        },
+        "16,17": {
+            "mean_distance": 0.0,
+            "N": 1,
+            "sameStrand_rate": 1.0
+        },
+        "17,18": {
+            "mean_distance": -3.0,
+            "N": 1,
+            "sameStrand_rate": 1.0
+        },
+        "18,19": {
+            "mean_distance": 15.0,
+            "N": 2,
+            "sameStrand_rate": 1.0
+        },
+        "19,20": {
+            "mean_distance": 576.0,
+            "N": 1,
+            "sameStrand_rate": 1.0
+        },
+        "18,21": {
+            "mean_distance": -3.0,
+            "N": 1,
+            "sameStrand_rate": 1.0
+        },
+        "16,21": {
+            "mean_distance": -3.0,
+            "N": 1,
+            "sameStrand_rate": 1.0
+        },
+        "16,22": {
+            "mean_distance": 76.0,
+            "N": 1,
+            "sameStrand_rate": 1.0
+        },
+        "14,22": {
+            "mean_distance": 645.0,
+            "N": 1,
+            "sameStrand_rate": 1.0
+        },
+        "14,23": {
+            "mean_distance": 313.0,
+            "N": 1,
+            "sameStrand_rate": 1.0
+        },
+        "12,23": {
+            "mean_distance": 18.0,
+            "N": 1,
+            "sameStrand_rate": 1.0
+        },
+        "4,24": {
+            "mean_distance": 44.0,
+            "N": 1,
+            "sameStrand_rate": 0.0
+        },
+        "2,24": {
+            "mean_distance": -7.0,
+            "N": 1,
+            "sameStrand_rate": 1.0
+        },
+        "2,25": {
+            "mean_distance": 57.0,
+            "N": 1,
+            "sameStrand_rate": 1.0
+        },
+        "9,26": {
+            "mean_distance": 146.0,
+            "N": 3,
+            "sameStrand_rate": 1.0
+        },
+        "26,27": {
+            "mean_distance": -13.0,
+            "N": 3,
+            "sameStrand_rate": 1.0
+        },
+        "8,27": {
+            "mean_distance": 220.0,
+            "N": 3,
+            "sameStrand_rate": 0.0
+        },
+        "28,29": {
+            "mean_distance": 52.0,
+            "N": 1,
+            "sameStrand_rate": 1.0
+        },
+        "28,30": {
+            "mean_distance": 36.0,
+            "N": 1,
+            "sameStrand_rate": 1.0
+        },
+        "30,31": {
+            "mean_distance": 31.0,
+            "N": 1,
+            "sameStrand_rate": 1.0
+        },
+        "31,32": {
+            "mean_distance": 62.0,
+            "N": 1,
+            "sameStrand_rate": 1.0
+        },
+        "32,33": {
+            "mean_distance": 822.0,
+            "N": 1,
+            "sameStrand_rate": 1.0
+        },
+        "33,34": {
+            "mean_distance": 136.0,
+            "N": 1,
+            "sameStrand_rate": 1.0
+        },
+        "34,35": {
+            "mean_distance": 0.0,
+            "N": 1,
+            "sameStrand_rate": 1.0
+        },
+        "35,36": {
+            "mean_distance": -3.0,
+            "N": 1,
+            "sameStrand_rate": 1.0
+        },
+        "4,36": {
+            "mean_distance": 329.0,
+            "N": 1,
+            "sameStrand_rate": 1.0
+        },
+        "4,37": {
+            "mean_distance": 44.0,
+            "N": 1,
+            "sameStrand_rate": 0.0
+        },
+        "37,38": {
+            "mean_distance": -7.0,
+            "N": 1,
+            "sameStrand_rate": 1.0
+        },
+        "38,39": {
+            "mean_distance": 57.0,
+            "N": 1,
+            "sameStrand_rate": 1.0
+        },
+        "39,40": {
+            "mean_distance": 247.0,
+            "N": 1,
+            "sameStrand_rate": 0.0
+        },
+        "41,42": {
+            "mean_distance": 156.0,
+            "N": 1,
+            "sameStrand_rate": 0.0
+        },
+        "41,43": {
+            "mean_distance": -9.0,
+            "N": 1,
+            "sameStrand_rate": 1.0
+        },
+        "43,44": {
+            "mean_distance": 247.0,
+            "N": 1,
+            "sameStrand_rate": 0.0
+        },
+        "44,45": {
+            "mean_distance": 57.0,
+            "N": 1,
+            "sameStrand_rate": 1.0
+        },
+        "3,45": {
+            "mean_distance": -7.0,
+            "N": 1,
+            "sameStrand_rate": 1.0
+        }
+    }
+]

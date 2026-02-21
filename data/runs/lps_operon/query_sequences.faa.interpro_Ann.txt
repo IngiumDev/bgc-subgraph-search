@@ -1,0 +1,25 @@
+lpxL	6c599b7fb76e732c980913832a93871c	306	Pfam	PF03279	Bacterial lipid A biosynthesis acyltransferase	5	297	5.1E-122	T	17-06-2025	IPR004960	Bacterial lipid A biosynthesis acyltransferase	-	-
+lpxM	d6e3783442cec3367f6157de8b1cd3f3	323	Pfam	PF03279	Bacterial lipid A biosynthesis acyltransferase	12	305	2.2E-111	T	17-06-2025	IPR004960	Bacterial lipid A biosynthesis acyltransferase	-	-
+lpxB	00529aad8c9fd81e045d4e1d8f4a6e2d	382	Pfam	PF02684	Lipid-A-disaccharide synthetase	9	377	5.2E-156	T	17-06-2025	IPR003835	Glycosyl transferase, family 19	-	-
+lpxK	d78d68c2a6c0e7c62a5963d78295cb1f	328	Pfam	PF02606	Tetraacyldisaccharide-1-P 4'-kinase	13	316	2.6E-112	T	17-06-2025	IPR003758	Tetraacyldisaccharide 4'-kinase	-	-
+lpxC	bf027aecde1ae723b927b94a26fa4936	305	Pfam	PF03331	UDP-3-O-acyl N-acetylglycosamine deacetylase	4	276	3.6E-107	T	17-06-2025	IPR004463	UDP-3-O-acyl N-acetylglucosamine deacetylase	-	-
+lpxC	bf027aecde1ae723b927b94a26fa4936	305	Gene3D	G3DSA:3.30.230.20	lpxc deacetylase, domain 1	1	128	1.3E-50	T	17-06-2025	IPR015870	UDP-3-O-acyl N-acetylglucosamine deacetylase, N-terminal	-	-
+lpxC	bf027aecde1ae723b927b94a26fa4936	305	Gene3D	G3DSA:3.30.1700.10	lpxc deacetylase, domain 2	129	305	1.4E-74	T	17-06-2025	IPR011334	UDP-3-O-acyl N-acetylglucosamine deacetylase, C-terminal	-	-
+lpxH	2f3e3a9a17f660309d192d6cf0f92163	240	Pfam	PF00149	Calcineurin-like phosphoesterase	2	199	7.5E-8	T	17-06-2025	IPR004843	Calcineurin-like, phosphoesterase domain	-	-
+lpxH	2f3e3a9a17f660309d192d6cf0f92163	240	Gene3D	G3DSA:3.60.21.10	-	1	214	6.1E-19	T	17-06-2025	IPR029052	Metallo-dependent phosphatase-like	-	-
+lpxA	67d5473b2d87839eceb38dacbf198014	262	Pfam	PF13720	Udp N-acetylglucosamine O-acyltransferase; Domain 2	180	261	2.3E-25	T	17-06-2025	IPR029098	UDP N-acetylglucosamine O-acyltransferase, C-terminal	-	-
+lpxA	67d5473b2d87839eceb38dacbf198014	262	Gene3D	G3DSA:2.160.10.10	Hexapeptide repeat proteins	1	196	2.5E-58	T	17-06-2025	-	-	-	-
+lpxA	67d5473b2d87839eceb38dacbf198014	262	Gene3D	G3DSA:1.20.1180.10	-	197	262	2.1E-24	T	17-06-2025	IPR037157	UDP-N-acetylglucosamine O-acyltransferase, C-terminal domain superfamily	-	-
+lpxA	67d5473b2d87839eceb38dacbf198014	262	Pfam	PF00132	Bacterial transferase hexapeptide (six repeats)	17	52	1.4E-5	T	17-06-2025	IPR001451	Hexapeptide repeat	-	-
+lpxA	67d5473b2d87839eceb38dacbf198014	262	Pfam	PF00132	Bacterial transferase hexapeptide (six repeats)	109	143	6.0E-6	T	17-06-2025	IPR001451	Hexapeptide repeat	-	-
+lpxD	741fa666fa9fd650190bc1458057cfdf	341	Pfam	PF04613	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase, LpxD	22	88	4.2E-18	T	17-06-2025	IPR020573	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase, non-repeat region	-	-
+lpxD	741fa666fa9fd650190bc1458057cfdf	341	Gene3D	G3DSA:1.20.5.170	-	310	341	2.1E-18	T	17-06-2025	-	-	-	-
+lpxD	741fa666fa9fd650190bc1458057cfdf	341	Pfam	PF00132	Bacterial transferase hexapeptide (six repeats)	110	144	2.2E-7	T	17-06-2025	IPR001451	Hexapeptide repeat	-	-
+lpxD	741fa666fa9fd650190bc1458057cfdf	341	Pfam	PF00132	Bacterial transferase hexapeptide (six repeats)	145	179	4.5E-5	T	17-06-2025	IPR001451	Hexapeptide repeat	-	-
+lpxD	741fa666fa9fd650190bc1458057cfdf	341	Pfam	PF00132	Bacterial transferase hexapeptide (six repeats)	222	255	0.0017	T	17-06-2025	IPR001451	Hexapeptide repeat	-	-
+lpxD	741fa666fa9fd650190bc1458057cfdf	341	Gene3D	G3DSA:3.40.1390.10	-	1	99	2.0E-33	T	17-06-2025	-	-	-	-
+lpxD	741fa666fa9fd650190bc1458057cfdf	341	Gene3D	G3DSA:2.160.10.10	Hexapeptide repeat proteins	100	309	8.4E-71	T	17-06-2025	-	-	-	-
+waaA	dd6481bef3d12aad924e892d84a04e7f	425	Gene3D	G3DSA:3.40.50.2000	Glycogen Phosphorylase B;	216	403	2.4E-67	T	17-06-2025	-	-	-	-
+waaA	dd6481bef3d12aad924e892d84a04e7f	425	Pfam	PF04413	3-Deoxy-D-manno-octulosonic-acid transferase (kdotransferase)	33	211	6.0E-68	T	17-06-2025	IPR007507	3-deoxy-D-manno-octulosonic-acid transferase, N-terminal	-	-
+waaA	dd6481bef3d12aad924e892d84a04e7f	425	Gene3D	G3DSA:3.40.50.11720	-	41	209	2.1E-51	T	17-06-2025	IPR038107	3-deoxy-D-manno-octulosonic-acid transferase, N-terminal domain superfamily	-	-
+waaA	dd6481bef3d12aad924e892d84a04e7f	425	Pfam	PF00534	Glycosyl transferases group 1	302	392	0.007	T	17-06-2025	IPR001296	Glycosyl transferase, family 1	-	-

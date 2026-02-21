@@ -1,0 +1,6 @@
+protein_id	ElementSymbol
+cohort_merged__DRR127476__k141_28043::2::377::565::+	Transposon-encoded protein TnpW
+cohort_merged__DRR127476__k141_92433::3::1327::1584::-	Transposon-encoded protein TnpV
+cohort_merged__DRR127478__k141_43333::2::338::526::-	Transposon-encoded protein TnpW
+cohort_merged__DRR127646__k141_60604::2::631::873::+	Transposon-encoded protein TnpV
+cohort_merged__DRR171483__k141_40180::3::2255::2626::-	Transposon-encoded protein TnpV

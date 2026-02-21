@@ -1,0 +1,3754 @@
+[
+    {
+        "cohort_merged__DRR127481__k141_90372::7::5770::6591::+": [
+            "msp_018",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127476__k141_164536::4::1876::4386::+": [
+            "msp_010",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR171537__k141_34710::4::3846::4457::+": [
+            "msp_006",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127509__k141_29912::52::57459::58340::+": [
+            "msp_017",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127485__k141_5828::5::2886::3350::-": [
+            "msp_006",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127509__k141_24575::9::7753::8061::-": [
+            "msp_013",
+            "shared_core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127524__k141_259173::2::3029::3430::+": [
+            "msp_300",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127476__k141_222673::3::2860::3645::-": [
+            "msp_018",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127485__k141_18687::12::10642::11799::+": [
+            "msp_003",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127634__k141_27540::61::68388::68780::-": [
+            "msp_040",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127488__k141_19290::7::9816::11486::-": [
+            "msp_272",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR171544__k141_57680::2::1233::1721::+": [
+            "msp_004",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127476__k141_12761::2::1492::2976::+": [
+            "msp_035",
+            "shared_core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127535__k141_89647::4::1577::1747::+": [
+            "msp_088",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127485__k141_111998::6::3916::7623::+": [
+            "msp_003",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127509__k141_59847::9::7345::7470::+": [
+            "msp_017",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127546__k141_28528::9::8596::9120::-": [
+            "msp_003",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127509__k141_49574::34::35557::37704::-": [
+            "msp_013",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127649__k141_180528::29::44584::45756::+": [
+            "msp_035",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127488__k141_4626::15::14626::15207::-": [
+            "msp_003",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127509__k141_22433::4::2436::3263::-": [
+            "msp_006",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR171881__k141_15026::1::109::981::+": [
+            "msp_018",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127507__k141_105257::21::25337::25804::+": [
+            "msp_004",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127481__k141_31963::27::37023::37775::-": [
+            "msp_035",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127634__k141_27540::59::66764::67735::-": [
+            "msp_040",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127552__k141_7679::1::184::2682::+": [
+            "msp_072",
+            "shared_core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127721__k141_42310::2::293::1018::+": [
+            "msp_040",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR171524__k141_35388::17::16633::16815::-": [
+            "msp_003",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127476__k141_64598::1::66::743::+": [
+            "msp_035",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127478__k141_24849::3::4400::6166::+": [
+            "msp_005",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127763__k141_97842::16::10100::10342::-": [
+            "msp_123",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR171559__k141_70769::30::26973::27533::-": [
+            "msp_018",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127478__k141_26121::31::39193::39741::+": [
+            "msp_005",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127476__k141_29981::2::681::1052::+": [
+            "msp_035",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127579__k141_18490::5::3916::4974::+": [
+            "msp_074",
+            "shared_core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127524__k141_259173::1::167::2923::+": [
+            "msp_300",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127509__k141_9746::5::5989::7050::+": [
+            "msp_040",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127476__k141_189803::2::904::1554::-": [
+            "msp_035",
+            "shared_core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127476__k141_169492::2::3692::7951::+": [
+            "msp_035",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127594__k141_61148::5::3580::4134::-": [
+            "msp_003",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127478__k141_26121::7::8196::10700::-": [
+            "msp_005",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127509__k141_103820::8::4865::5320::-": [
+            "msp_017",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127488__k141_168131::4::3467::5191::+": [
+            "msp_159",
+            "shared_core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127476__k141_31846::4::2229::2951::+": [
+            "msp_020",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR171770__k141_23836::6::4439::5266::+": [
+            "msp_006",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127509__k141_90248::3::1538::2167::-": [
+            "msp_013",
+            "shared_core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR171615__k141_871::1::104::475::-": [
+            "msp_006",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR171463__k141_36114::9::7407::8168::+": [
+            "msp_010",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127536__k141_21445::24::28452::28916::+": [
+            "msp_005",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127594__k141_143824::3::1105::1713::-": [
+            "msp_017",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127476__k141_223919::7::5175::5600::+": [
+            "msp_010",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127507__k141_76063::14::16311::17282::+": [
+            "msp_070",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127476__k141_221663::2::382::1449::-": [
+            "msp_018",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR171998__k141_51199::56::47953::48780::-": [
+            "msp_003",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127478__k141_26121::29::37502::38182::+": [
+            "msp_005",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127476__k141_229976::5::5323::6168::-": [
+            "msp_035",
+            "shared_core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127481__k141_31963::21::28427::31414::-": [
+            "msp_035",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127485__k141_79814::37::30060::30533::-": [
+            "msp_116",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127485__k141_187336::2::470::1174::+": [
+            "msp_006",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR171524__k141_72840::8::9523::10503::+": [
+            "msp_082",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127603__k141_92210::10::9738::11222::+": [
+            "msp_216",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127509__k141_26564::6::6075::6791::-": [
+            "msp_022",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127579__k141_31493::12::9928::10716::-": [
+            "msp_020",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127557__k141_76530::4::3731::5773::+": [
+            "msp_070",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127603__k141_108761::1::145::1296::+": [
+            "msp_017",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127509__k141_49574::31::33040::34575::-": [
+            "msp_013",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127617__k141_68687::2::86::352::-": [
+            "msp_005",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127485__k141_184757::3::1872::2183::+": [
+            "msp_013",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127519__k141_52179::40::53188::55362::-": [
+            "msp_034",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127509__k141_33559::3::835::1281::-": [
+            "msp_022",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127509__k141_23026::20::37213::40233::+": [
+            "msp_013",
+            "shared_core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127485__k141_233767::8::6706::7782::-": [
+            "msp_010",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR171770__k141_11675::9::5301::6143::+": [
+            "msp_006",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127478__k141_14360::16::25408::26814::-": [
+            "msp_005",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127485__k141_111998::11::16084::17103::+": [
+            "msp_003",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127476__k141_69501::19::22884::23030::-": [
+            "msp_202",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127476__k141_14746::2::534::950::+": [
+            "msp_020",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127509__k141_126707::21::20863::21549::+": [
+            "msp_013",
+            "shared_core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127476__k141_207128::15::22780::24756::+": [
+            "msp_202",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127524__k141_7598::2::430::1245::-": [
+            "msp_135",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127509__k141_9746::7::7925::8497::+": [
+            "msp_040",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127674__k141_3694::4::2422::3282::+": [
+            "msp_052",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127509__k141_59847::12::9090::11612::-": [
+            "msp_017",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127507__k141_105257::75::89694::90242::+": [
+            "msp_004",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127481__k141_30802::48::52316::53263::-": [
+            "msp_035",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127485__k141_275766::9::7595::8440::-": [
+            "msp_003",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127685__k141_103179::5::6426::7889::+": [
+            "msp_300",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127685__k141_103179::3::4515::5195::-": [
+            "msp_300",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127789__k141_54046::8::5606::5761::+": [
+            "msp_216",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127674__k141_13658::4::2424::3053::+": [
+            "msp_052",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127685__k141_155758::3::604::1287::+": [
+            "msp_088",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR171606__k141_108291::14::13700::14092::-": [
+            "msp_216",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127485__k141_11854::6::6009::6755::+": [
+            "msp_003",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR171793__k141_140351::1::324::2576::+": [
+            "msp_006",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127535__k141_98176::3::2511::3710::-": [
+            "msp_091",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127476__k141_28740::1::814::1554::+": [
+            "msp_035",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127559__k141_435::5::2288::3445::-": [
+            "msp_017",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127509__k141_126707::22::21650::22633::+": [
+            "msp_013",
+            "shared_core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR171965__k141_65444::1::317::973::-": [
+            "msp_003",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR171707__k141_111559::2::341::1648::-": [
+            "msp_370",
+            "shared_core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127583__k141_73425::46::41342::43105::+": [
+            "msp_035",
+            "shared_core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR171590__k141_30419::2::2185::3159::-": [
+            "msp_341",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127509__k141_59847::5::3414::5243::+": [
+            "msp_017",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127476__k141_9414::21::27275::27715::+": [
+            "msp_010",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127579__k141_45482::11::10975::12045::-": [
+            "msp_020",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127476__k141_146835::4::2131::2601::+": [
+            "msp_018",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127507__k141_105257::78::92518::94746::-": [
+            "msp_004",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127625__k141_109426::22::26745::28085::-": [
+            "msp_087",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127515__k141_7796::2::1446::2996::+": [
+            "msp_072",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR171469__k141_124321::3::1101::2393::+": [
+            "msp_002",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127485__k141_228149::2::781::3228::+": [
+            "msp_003",
+            "shared_core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127476__k141_140002::3::1579::2151::+": [
+            "msp_018",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127485__k141_162971::3::3385::4149::+": [
+            "msp_006",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127485__k141_111998::10::13898::15670::-": [
+            "msp_003",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127507__k141_105257::73::87651::88649::+": [
+            "msp_004",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127476__k141_229048::12::11572::12141::+": [
+            "msp_010",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127478__k141_26121::32::39744::41006::+": [
+            "msp_005",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127666__k141_43517::5::4247::4873::+": [
+            "msp_017",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR171768__k141_9960::1::111::479::-": [
+            "msp_035",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127485__k141_275766::8::6855::7565::+": [
+            "msp_003",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127509__k141_31069::6::7279::9633::+": [
+            "msp_013",
+            "shared_core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127476__k141_119809::21::28285::28947::+": [
+            "msp_010",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127481__k141_4498::4::4621::5058::-": [
+            "msp_002",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127485__k141_91756::2::440::1069::-": [
+            "msp_003",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127476__k141_28740::2::1666::1800::-": [
+            "msp_035",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127789__k141_154027::14::13474::14556::+": [
+            "msp_032",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127476__k141_119914::1::93::404::+": [
+            "msp_018",
+            "shared_core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR171770__k141_89557::3::3347::4423::+": [
+            "msp_006",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR171520__k141_102172::1::136::2328::+": [
+            "msp_010",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127481__k141_4498::3::4105::4608::-": [
+            "msp_002",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR171611__k141_18058::1::30::1484::+": [
+            "msp_010",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127536__k141_15168::19::25264::25671::-": [
+            "msp_035",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127485__k141_187336::4::2329::2745::-": [
+            "msp_006",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127509__k141_24575::3::4092::4727::+": [
+            "msp_013",
+            "shared_core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127579__k141_18490::6::5055::6527::-": [
+            "msp_020",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127476__k141_28740::3::1874::2458::-": [
+            "msp_035",
+            "shared_core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127580__k141_156699::90::99217::100035::+": [
+            "msp_203",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127509__k141_29912::51::56777::57466::+": [
+            "msp_017",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127476__k141_60283::3::1503::2063::+": [
+            "msp_035",
+            "shared_core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127476__k141_98838::4::3592::5025::+": [
+            "msp_018",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR171639__k141_58003::2::304::696::+": [
+            "msp_099",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127488__k141_122307::4::1826::2176::+": [
+            "msp_163",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127481__k141_86244::16::19339::21651::-": [
+            "msp_018",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127485__k141_20347::3::1117::2328::-": [
+            "msp_006",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR171559__k141_70769::9::7379::7888::-": [
+            "msp_018",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127476__k141_189803::1::204::731::-": [
+            "msp_035",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127476__k141_241980::6::3417::4727::-": [
+            "msp_035",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127515__k141_34900::77::92188::92745::+": [
+            "msp_099",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127685__k141_103179::1::132::1961::+": [
+            "msp_300",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127509__k141_23026::24::44434::44913::-": [
+            "msp_013",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR171578__k141_12400::16::20627::21073::+": [
+            "msp_017",
+            "shared_core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127481__k141_4808::3::4370::5407::+": [
+            "msp_034",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127509__k141_29912::48::54076::54849::-": [
+            "msp_017",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127485__k141_18687::4::2443::3960::-": [
+            "msp_003",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127478__k141_26121::33::40996::41193::-": [
+            "msp_005",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR171832__k141_194444::1::106::684::-": [
+            "msp_010",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127481__k141_38311::20::18156::19604::+": [
+            "msp_018",
+            "shared_core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127509__k141_24575::2::2781::3989::+": [
+            "msp_013",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127476__k141_182357::3::1616::2503::+": [
+            "msp_010",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127509__k141_32354::1::558::2786::+": [
+            "msp_040",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR171700__k141_101190::7::5865::6695::+": [
+            "msp_097",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127476__k141_229976::7::7494::8501::+": [
+            "msp_035",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR171573__k141_53107::2::1289::1522::-": [
+            "msp_013",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR171473__k141_2985::3::4590::5372::-": [
+            "msp_013",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127509__k141_22433::3::1530::2414::-": [
+            "msp_006",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR171460__k141_59646::25::27362::27661::+": [
+            "msp_010",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127515__k141_7796::1::811::1377::+": [
+            "msp_072",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127509__k141_9746::2::782::2407::-": [
+            "msp_040",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127763__k141_29830::2::320::1048::+": [
+            "msp_005",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127509__k141_49574::35::37904::38359::-": [
+            "msp_013",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR162776__k141_19198::4::1368::1811::+": [
+            "msp_035",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR171567__k141_5507::74::92678::94684::+": [
+            "msp_003",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127776__k141_10134::23::31444::32286::+": [
+            "msp_010",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127481__k141_4808::4::5786::6355::+": [
+            "msp_034",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127514__k141_89224::3::1558::2766::+": [
+            "msp_022",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127485__k141_13884::7::10230::11393::+": [
+            "msp_010",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR171559__k141_70769::25::21157::22344::-": [
+            "msp_018",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127509__k141_24575::1::250::2760::+": [
+            "msp_013",
+            "shared_core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127685__k141_103179::4::5505::6341::+": [
+            "msp_300",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127515__k141_34900::80::94578::96095::+": [
+            "msp_099",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127603__k141_92210::8::7897::8094::-": [
+            "msp_216",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127583__k141_25288::4::3025::3705::+": [
+            "msp_006",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127634__k141_89640::10::6711::8000::+": [
+            "msp_013",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127515__k141_34900::83::101222::102193::+": [
+            "msp_099",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127509__k141_126707::17::17162::18004::+": [
+            "msp_013",
+            "shared_core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127476__k141_45973::2::733::1161::-": [
+            "msp_035",
+            "shared_core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR171497__k141_109436::3::1802::3175::-": [
+            "msp_017",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127535__k141_98176::1::154::1290::+": [
+            "msp_091",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127476__k141_129464::26::28575::29870::-": [
+            "msp_010",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127625__k141_41014::12::12522::13604::+": [
+            "msp_018",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127485__k141_46575::18::20950::21285::+": [
+            "msp_035",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127509__k141_59847::11::7725::8933::-": [
+            "msp_017",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127509__k141_23026::16::30251::32407::+": [
+            "msp_013",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127476__k141_176616::2::322::558::-": [
+            "msp_018",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR171573__k141_13656::6::5609::7024::+": [
+            "msp_013",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR171548__k141_30930::4::4412::5281::-": [
+            "msp_006",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127507__k141_109371::2::268::609::+": [
+            "msp_003",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR171508__k141_98602::6::4377::6752::-": [
+            "msp_123",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127481__k141_30802::46::51138::51782::+": [
+            "msp_035",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127507__k141_105257::76::90297::91556::+": [
+            "msp_004",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127485__k141_228149::3::3258::3620::+": [
+            "msp_003",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR171590__k141_119744::10::8772::10364::+": [
+            "msp_341",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127476__k141_42839::1::201::974::-": [
+            "msp_010",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127509__k141_49574::28::31850::32695::+": [
+            "msp_013",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR171914__k141_78354::34::31595::32056::+": [
+            "msp_010",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127476__k141_76051::1::18::1493::+": [
+            "msp_020",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR171475__k141_72141::2::1227::1838::-": [
+            "msp_010",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127481__k141_129427::13::12077::13018::-": [
+            "msp_035",
+            "shared_core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR172010__k141_801::7::8478::8723::+": [
+            "msp_003",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR171539__k141_96963::3::1799::2371::+": [
+            "msp_359",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127481__k141_38311::4::3636::4589::+": [
+            "msp_018",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127476__k141_69501::17::21189::21848::-": [
+            "msp_202",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127647__k141_14201::1::462::3227::+": [
+            "msp_022",
+            "shared_core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127485__k141_236910::2::2405::4495::+": [
+            "msp_003",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127509__k141_103820::7::3628::4782::+": [
+            "msp_017",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127476__k141_103617::2::1365::1661::+": [
+            "msp_018",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR171495__k141_34360::1::124::2736::+": [
+            "msp_088",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR171517__k141_11256::4::1935::2816::-": [
+            "msp_097",
+            "shared_core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127485__k141_18687::3::1036::2409::-": [
+            "msp_003",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127603__k141_92210::9::8181::9632::+": [
+            "msp_216",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127507__k141_76063::9::10057::10953::+": [
+            "msp_070",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127535__k141_98794::1::268::2457::-": [
+            "msp_091",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127535__k141_98794::2::2526::3782::-": [
+            "msp_091",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127535__k141_78803::2::629::2299::-": [
+            "msp_091",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127485__k141_187336::5::2764::3000::-": [
+            "msp_006",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127514__k141_103310::2::2341::2892::+": [
+            "msp_022",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127481__k141_129427::16::15407::16960::-": [
+            "msp_035",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR171930__k141_63466::10::11577::14321::-": [
+            "msp_003",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127478__k141_24849::2::2481::4388::+": [
+            "msp_005",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127476__k141_146835::3::1622::2131::+": [
+            "msp_018",
+            "shared_core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR162777__k141_67496::4::3356::4576::-": [
+            "msp_005",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR171895__k141_58817::2::229::930::+": [
+            "msp_010",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127515__k141_34900::76::91078::92085::+": [
+            "msp_099",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127509__k141_29912::54::59541::59825::-": [
+            "msp_017",
+            "shared_core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127536__k141_5750::24::28776::29480::-": [
+            "msp_010",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127476__k141_72426::1::256::1353::+": [
+            "msp_035",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127617__k141_4594::28::33496::34194::-": [
+            "msp_070",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127481__k141_54690::33::43430::44359::-": [
+            "msp_018",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127515__k141_227645::1::70::537::+": [
+            "msp_072",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127509__k141_126707::16::16040::16909::-": [
+            "msp_013",
+            "shared_core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR171606__k141_26549::22::20523::21335::+": [
+            "msp_013",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127507__k141_105257::24::27107::27607::+": [
+            "msp_004",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127485__k141_148210::2::854::1897::-": [
+            "msp_003",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127476__k141_57618::2::384::659::+": [
+            "msp_018",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127485__k141_277068::2::680::1372::+": [
+            "msp_003",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127476__k141_220182::1::222::557::+": [
+            "msp_035",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127685__k141_103179::2::2790::4469::-": [
+            "msp_300",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR171930__k141_77924::10::9448::11301::+": [
+            "msp_010",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127476__k141_60283::7::3812::4189::+": [
+            "msp_035",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127509__k141_69699::18::24800::25357::-": [
+            "msp_017",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127476__k141_146835::2::903::1625::+": [
+            "msp_018",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127485__k141_228149::4::3635::4261::+": [
+            "msp_003",
+            "shared_core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127485__k141_290283::3::2558::3574::+": [
+            "msp_006",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR171794__k141_40594::4::3160::3768::+": [
+            "msp_013",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127509__k141_69699::20::25772::27415::+": [
+            "msp_017",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127481__k141_93646::5::1797::2249::-": [
+            "msp_035",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127476__k141_96598::10::5364::6125::-": [
+            "msp_135",
+            "shared_core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127476__k141_198411::10::10707::12086::+": [
+            "msp_135",
+            "shared_core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127478__k141_26121::36::42278::44506::-": [
+            "msp_005",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127476__k141_151949::3::2408::2674::+": [
+            "msp_018",
+            "shared_core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127763__k141_97842::18::11631::13916::-": [
+            "msp_123",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR171605__k141_148861::1::192::2993::-": [
+            "msp_005",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127481__k141_93646::4::1299::1790::-": [
+            "msp_035",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127476__k141_227777::29::37587::37883::+": [
+            "msp_010",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127485__k141_18687::2::590::1036::-": [
+            "msp_003",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR171843__k141_142510::1::137::1396::+": [
+            "msp_018",
+            "shared_core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127481__k141_38311::27::25129::25659::+": [
+            "msp_018",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127481__k141_72629::12::10902::11792::-": [
+            "msp_018",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127674__k141_3694::5::3331::4269::+": [
+            "msp_052",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127476__k141_151949::4::2686::2976::+": [
+            "msp_018",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127481__k141_4498::2::2788::3999::+": [
+            "msp_002",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127579__k141_18490::8::9891::10925::-": [
+            "msp_020",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127580__k141_156699::85::93585::94238::+": [
+            "msp_203",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127478__k141_14360::15::22897::24846::-": [
+            "msp_005",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127579__k141_18490::9::10928::13363::-": [
+            "msp_020",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127559__k141_34764::4::1922::3142::-": [
+            "msp_116",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127485__k141_18687::5::4222::5715::+": [
+            "msp_003",
+            "shared_core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127559__k141_34764::7::5171::6487::-": [
+            "msp_116",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127559__k141_34764::2::91::840::-": [
+            "msp_116",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127617__k141_74000::3::6495::7310::+": [
+            "msp_091",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR171590__k141_142971::3::1132::5628::-": [
+            "msp_010",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127476__k141_189803::3::1557::2510::-": [
+            "msp_035",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127515__k141_34900::82::98369::101185::+": [
+            "msp_099",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127509__k141_103820::6::3094::3480::-": [
+            "msp_017",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127634__k141_27540::60::67767::68375::-": [
+            "msp_040",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127515__k141_34900::79::93169::93618::+": [
+            "msp_099",
+            "shared_core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR171548__k141_14467::92::96988::98178::-": [
+            "msp_003",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR171477__k141_45518::4::2029::2739::-": [
+            "msp_018",
+            "shared_core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127559__k141_34764::8::6909::7382::+": [
+            "msp_116",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR171492__k141_10960::1::56::1000::+": [
+            "msp_040",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR171528__k141_44707::418::528377::529261::-": [
+            "msp_116",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR171791__k141_37043::9::9096::9566::+": [
+            "msp_135",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127485__k141_11854::9::10906::11430::+": [
+            "msp_003",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127666__k141_134359::5::1341::1559::-": [
+            "msp_013",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127509__k141_31069::7::9648::10811::+": [
+            "msp_013",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127737__k141_113709::2::9328::12465::-": [
+            "msp_135",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127485__k141_26614::1::189::359::+": [
+            "msp_006",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127517__k141_121627::19::15386::16390::+": [
+            "msp_006",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127580__k141_156699::82::90748::92604::-": [
+            "msp_203",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127559__k141_65214::14::13884::16439::-": [
+            "msp_082",
+            "shared_core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127485__k141_18687::10::8872::9690::+": [
+            "msp_003",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127481__k141_90372::6::5021::5773::+": [
+            "msp_018",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127720__k141_54969::5::3978::5273::-": [
+            "msp_099",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127507__k141_105257::71::86028::87026::+": [
+            "msp_004",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127509__k141_24575::7::6099::6713::-": [
+            "msp_013",
+            "shared_core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127485__k141_11854::7::6810::7853::+": [
+            "msp_003",
+            "shared_core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127485__k141_11035::1::854::1306::-": [
+            "msp_006",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127580__k141_156699::86::94420::95544::-": [
+            "msp_203",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127507__k141_76063::15::17270::17749::+": [
+            "msp_070",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127478__k141_83224::2::673::1581::-": [
+            "msp_010",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127509__k141_49574::32::34684::34983::-": [
+            "msp_013",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127546__k141_21156::4::2739::3689::-": [
+            "msp_135",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127559__k141_34764::9::7405::7983::+": [
+            "msp_116",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127485__k141_79814::36::29477::30070::-": [
+            "msp_116",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127481__k141_93646::2::521::913::-": [
+            "msp_035",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127509__k141_59847::7::6140::6709::+": [
+            "msp_017",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127509__k141_33559::4::1418::2596::-": [
+            "msp_022",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127515__k141_183642::3::2633::2854::+": [
+            "msp_099",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127476__k141_140002::2::318::1634::+": [
+            "msp_018",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127515__k141_183642::2::1482::2111::+": [
+            "msp_099",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127559__k141_55597::1::294::785::-": [
+            "msp_003",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127521__k141_91464::9::5299::5736::+": [
+            "msp_006",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127485__k141_11854::5::5448::6005::+": [
+            "msp_003",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127476__k141_169492::3::8522::10006::-": [
+            "msp_035",
+            "shared_core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127509__k141_90248::5::2970::4274::-": [
+            "msp_013",
+            "shared_core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127485__k141_155571::2::1459::2232::+": [
+            "msp_035",
+            "shared_core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127524__k141_12914::5::3803::4744::-": [
+            "msp_010",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127509__k141_69699::25::31751::33364::-": [
+            "msp_017",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR171577__k141_129826::2::555::1079::+": [
+            "msp_035",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR171510__k141_49104::2::283::639::-": [
+            "msp_093",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127481__k141_86244::17::21632::26350::-": [
+            "msp_018",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR171649__k141_12360::1::72::1784::+": [
+            "msp_040",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127509__k141_23026::23::43838::44422::-": [
+            "msp_013",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127481__k141_90372::8::6594::7814::+": [
+            "msp_018",
+            "shared_core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127481__k141_38311::14::13225::13659::-": [
+            "msp_018",
+            "shared_core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR171949__k141_71977::18::26855::31420::+": [
+            "msp_006",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR171530__k141_15891::1::440::1207::-": [
+            "msp_020",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127476__k141_38327::1::587::1393::+": [
+            "msp_125",
+            "shared_core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127515__k141_34900::81::96122::98065::+": [
+            "msp_099",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR171496__k141_136435::6::4950::6455::+": [
+            "msp_052",
+            "shared_core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127579__k141_31493::2::2114::2662::+": [
+            "msp_020",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127579__k141_18490::7::6540::9605::-": [
+            "msp_020",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127580__k141_156699::87::95644::96729::-": [
+            "msp_203",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127476__k141_221663::3::1471::2577::-": [
+            "msp_018",
+            "shared_core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127507__k141_111854::1::4::411::-": [
+            "msp_013",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127507__k141_105257::26::28976::30037::-": [
+            "msp_004",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127476__k141_14752::2::332::1198::+": [
+            "msp_010",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127634__k141_58045::57::73835::74782::-": [
+            "msp_017",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127517__k141_93260::4::4416::5270::+": [
+            "msp_006",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR171469__k141_41833::1::130::2868::-": [
+            "msp_006",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127507__k141_105257::20::23833::24399::-": [
+            "msp_004",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127478__k141_26121::3::4706::5152::+": [
+            "msp_005",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127524__k141_259173::4::5096::6370::+": [
+            "msp_300",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127628__k141_123085::70::76555::77982::-": [
+            "msp_035",
+            "shared_core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127478__k141_14360::13::21015::21398::+": [
+            "msp_005",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127580__k141_156699::84::93015::93518::-": [
+            "msp_203",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127476__k141_160571::8::4464::4751::-": [
+            "msp_013",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127559__k141_34764::6::3965::5155::-": [
+            "msp_116",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR171614__k141_78153::1::78::1358::+": [
+            "msp_018",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127617__k141_146493::4::3788::4807::-": [
+            "msp_091",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127507__k141_109371::3::653::1588::+": [
+            "msp_003",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127524__k141_259173::3::3488::5020::+": [
+            "msp_300",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127509__k141_9746::10::11514::12395::-": [
+            "msp_040",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127517__k141_54840::6::3226::3633::+": [
+            "msp_006",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127476__k141_60283::5::2535::3233::+": [
+            "msp_035",
+            "shared_core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR171808__k141_72352::6::7886::8815::-": [
+            "msp_202",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127509__k141_24575::4::4874::5191::+": [
+            "msp_013",
+            "shared_core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127674__k141_3694::2::371::1552::+": [
+            "msp_052",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127536__k141_14122::1::10::1107::+": [
+            "msp_034",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127481__k141_74584::1::836::3958::-": [
+            "msp_034",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127515__k141_240961::3::670::1170::+": [
+            "msp_072",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR171555__k141_84602::4::3875::6397::-": [
+            "msp_017",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127597__k141_186058::30::42270::43523::+": [
+            "msp_035",
+            "shared_core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR171505__k141_122484::2::684::1940::+": [
+            "msp_003",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127476__k141_222673::4::3805::4023::-": [
+            "msp_018",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127509__k141_31069::3::533::1897::+": [
+            "msp_013",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127476__k141_164536::2::300::743::+": [
+            "msp_010",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127666__k141_60993::8::6853::7866::+": [
+            "msp_351",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127509__k141_126707::18::18070::19050::-": [
+            "msp_013",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127476__k141_174645::28::23180::23440::+": [
+            "msp_018",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127509__k141_103820::3::772::1977::-": [
+            "msp_017",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127509__k141_9746::9::10362::11504::-": [
+            "msp_040",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127481__k141_98664::4::3477::4778::-": [
+            "msp_035",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127488__k141_158027::34::42765::43670::-": [
+            "msp_003",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127674__k141_51916::5::3806::3976::+": [
+            "msp_006",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR171602__k141_32082::7::6685::9723::-": [
+            "msp_018",
+            "shared_core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127478__k141_14360::14::21927::22769::+": [
+            "msp_005",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127476__k141_20742::1::7::1104::-": [
+            "msp_010",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127762__k141_85659::2::1101::2309::+": [
+            "msp_003",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR172021__k141_13765::3::1706::2974::+": [
+            "msp_006",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127485__k141_11854::3::1918::3720::+": [
+            "msp_003",
+            "shared_core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127535__k141_28299::3::3852::4220::-": [
+            "msp_088",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127666__k141_60993::9::7924::8601::+": [
+            "msp_351",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127476__k141_60283::2::1291::1488::+": [
+            "msp_035",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR171944__k141_41041::1::156::1550::+": [
+            "msp_040",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127488__k141_168131::3::1737::3431::-": [
+            "msp_159",
+            "shared_core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127559__k141_99964::29::38224::38610::-": [
+            "msp_017",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR171489__k141_63543::4::3105::3980::+": [
+            "msp_035",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127481__k141_90372::3::2118::2528::-": [
+            "msp_018",
+            "shared_core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127488__k141_158027::42::49469::51970::-": [
+            "msp_003",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127476__k141_206569::2::657::2333::-": [
+            "msp_018",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127507__k141_105257::77::91788::92513::-": [
+            "msp_004",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127485__k141_285800::2::443::706::+": [
+            "msp_003",
+            "shared_core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127509__k141_31069::5::5351::7033::+": [
+            "msp_013",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127485__k141_11854::4::3731::5428::+": [
+            "msp_003",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127625__k141_33999::14::19861::20922::+": [
+            "msp_116",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127546__k141_28528::10::9134::10150::-": [
+            "msp_003",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127476__k141_9414::20::26613::27182::+": [
+            "msp_010",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127509__k141_49574::26::29100::30296::-": [
+            "msp_013",
+            "shared_core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR171953__k141_60510::1::253::1281::-": [
+            "msp_272",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127507__k141_105257::25::27711::28919::-": [
+            "msp_004",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR171480__k141_114041::13::10769::11524::+": [
+            "msp_004",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127755__k141_13111::4::4305::4652::-": [
+            "msp_006",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127509__k141_102557::13::14623::15561::-": [
+            "msp_006",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127579__k141_18490::4::3177::3728::-": [
+            "msp_020",
+            "shared_core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127481__k141_4498::1::252::2777::+": [
+            "msp_002",
+            "shared_core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127509__k141_29912::53::58407::59387::+": [
+            "msp_017",
+            "shared_core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR171506__k141_52593::8::8304::8525::-": [
+            "msp_006",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127509__k141_29912::50::55903::56586::-": [
+            "msp_017",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127485__k141_18687::8::7309::7692::+": [
+            "msp_003",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127728__k141_29197::20::23077::23640::+": [
+            "msp_006",
+            "shared_core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127580__k141_156699::83::92634::92891::-": [
+            "msp_203",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127515__k141_240961::5::2539::3600::-": [
+            "msp_072",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR171548__k141_61975::20::18475::19017::+": [
+            "msp_006",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127485__k141_160275::3::2847::4166::-": [
+            "msp_006",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127580__k141_3117::1::224::1009::-": [
+            "msp_203",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127514__k141_89224::2::486::1538::+": [
+            "msp_022",
+            "shared_core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127476__k141_229048::10::7785::9491::+": [
+            "msp_010",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127509__k141_69699::19::25372::25620::-": [
+            "msp_017",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR171543__k141_50623::26::32155::32883::-": [
+            "msp_070",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127617__k141_160758::9::10606::12006::-": [
+            "msp_088",
+            "shared_core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127509__k141_9746::6::7104::7919::+": [
+            "msp_040",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127485__k141_111998::12::17185::17991::-": [
+            "msp_003",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR171541__k141_30326::1::2::523::-": [
+            "msp_005",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127476__k141_12761::3::3059::3586::+": [
+            "msp_035",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127476__k141_29981::4::2039::2638::+": [
+            "msp_035",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR162777__k141_64653::11::7898::8575::-": [
+            "msp_010",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127476__k141_207128::14::21025::22512::-": [
+            "msp_202",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127476__k141_227777::26::33787::34242::+": [
+            "msp_010",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127580__k141_156699::91::100155::100610::-": [
+            "msp_203",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR171558__k141_75796::8::7433::8122::-": [
+            "msp_013",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127509__k141_98031::5::5432::6664::+": [
+            "msp_006",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127485__k141_18687::6::5718::6632::+": [
+            "msp_003",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127476__k141_184487::1::60::563::-": [
+            "msp_022",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127476__k141_31846::3::1069::1986::-": [
+            "msp_020",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127485__k141_255941::1::277::1647::-": [
+            "msp_003",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127476__k141_129464::21::21159::21785::-": [
+            "msp_010",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127580__k141_156699::89::97567::98892::-": [
+            "msp_203",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR171578__k141_36584::2::455::1774::+": [
+            "msp_040",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR171873__k141_89653::2::977::2335::-": [
+            "msp_003",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR171623__k141_34072::1::163::1413::+": [
+            "msp_010",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127509__k141_33869::2::673::3174::-": [
+            "msp_022",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR171988__k141_109470::57::62899::63465::-": [
+            "msp_035",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127515__k141_34900::84::102204::102389::-": [
+            "msp_099",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR171590__k141_30419::1::145::1962::-": [
+            "msp_341",
+            "shared_core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127476__k141_96598::11::6142::7227::-": [
+            "msp_135",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127485__k141_178551::2::1552::2193::-": [
+            "msp_003",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127476__k141_227777::25::32896::33567::+": [
+            "msp_010",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127509__k141_33869::5::6283::6672::+": [
+            "msp_022",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127583__k141_153824::51::63930::65375::-": [
+            "msp_035",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127481__k141_103676::4::2571::2924::-": [
+            "msp_097",
+            "shared_core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127485__k141_223058::76::72143::72883::-": [
+            "msp_035",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127476__k141_227777::24::32097::32783::+": [
+            "msp_010",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127485__k141_18687::11::9860::10624::+": [
+            "msp_003",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127481__k141_29374::3::4056::4949::+": [
+            "msp_035",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127509__k141_126707::15::15303::15953::+": [
+            "msp_013",
+            "shared_core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127476__k141_225321::2::524::2590::+": [
+            "msp_035",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127603__k141_92210::7::7258::7854::-": [
+            "msp_216",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127481__k141_125014::3::6952::10815::-": [
+            "msp_035",
+            "shared_core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127507__k141_105257::22::25954::26508::+": [
+            "msp_004",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127509__k141_69699::21::27538::28428::+": [
+            "msp_017",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127535__k141_63476::4::6063::9095::-": [
+            "msp_013",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127509__k141_69699::23::29898::31157::+": [
+            "msp_017",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127481__k141_29374::6::6437::7495::+": [
+            "msp_035",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127536__k141_11591::1::259::1128::+": [
+            "msp_092",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127514__k141_88037::54::61746::62093::-": [
+            "msp_010",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127478__k141_14360::12::20255::21037::+": [
+            "msp_005",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127552__k141_7679::6::6223::6777::-": [
+            "msp_072",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR171659__k141_72268::14::13181::17143::-": [
+            "msp_010",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR171534__k141_48200::1::82::2016::-": [
+            "msp_003",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127507__k141_105257::19::22182::23732::-": [
+            "msp_004",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127524__k141_259173::5::6455::9265::+": [
+            "msp_300",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127535__k141_89647::1::154::312::-": [
+            "msp_088",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127481__k141_90372::5::3549::4994::+": [
+            "msp_018",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127476__k141_96598::9::4821::5360::-": [
+            "msp_135",
+            "shared_core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127485__k141_111998::14::18850::19479::-": [
+            "msp_003",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127485__k141_290283::2::1954::2550::+": [
+            "msp_006",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR171817__k141_30690::22::18776::20059::-": [
+            "msp_018",
+            "shared_core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR171587__k141_47338::5::2814::3875::+": [
+            "msp_070",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127485__k141_5828::2::1049::1726::-": [
+            "msp_006",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127485__k141_178551::3::2206::3501::-": [
+            "msp_003",
+            "shared_core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127515__k141_240961::4::1274::2482::-": [
+            "msp_072",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127666__k141_84917::4::2056::2991::-": [
+            "msp_351",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127597__k141_9328::36::25208::26284::-": [
+            "msp_116",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127476__k141_60283::4::2080::2520::+": [
+            "msp_035",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127524__k141_205310::2::165::1049::+": [
+            "msp_074",
+            "shared_core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127509__k141_69699::4::6096::6662::+": [
+            "msp_017",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127485__k141_13884::5::5388::8741::+": [
+            "msp_010",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127476__k141_229976::8::8515::9846::+": [
+            "msp_035",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127509__k141_24575::8::6726::7739::-": [
+            "msp_013",
+            "shared_core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127481__k141_38311::26::23245::25035::-": [
+            "msp_018",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR171588__k141_156460::1::332::814::-": [
+            "msp_017",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127485__k141_270285::3::1913::2269::+": [
+            "msp_006",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127509__k141_102557::17::18523::19248::-": [
+            "msp_006",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR172020__k141_21950::2::83::1324::+": [
+            "msp_018",
+            "shared_core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR171495__k141_101209::23::28267::29295::+": [
+            "msp_035",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127509__k141_32354::4::4874::5422::-": [
+            "msp_040",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR171853__k141_2711::44::46060::47145::-": [
+            "msp_203",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127509__k141_29912::49::54849::55826::-": [
+            "msp_017",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127579__k141_45482::12::12064::12675::-": [
+            "msp_020",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127476__k141_227986::2::1060::1863::+": [
+            "msp_020",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127763__k141_97842::15::9899::10198::+": [
+            "msp_123",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127579__k141_18490::10::13394::14293::-": [
+            "msp_020",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR171618__k141_6140::8::8099::11629::+": [
+            "msp_022",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127777__k141_48040::2::1381::3225::+": [
+            "msp_006",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127535__k141_97542::2::622::1569::+": [
+            "msp_091",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR171671__k141_69993::1::462::2471::+": [
+            "msp_003",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127666__k141_90207::1::286::1581::-": [
+            "msp_351",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR171678__k141_166916::1::262::729::+": [
+            "msp_092",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127509__k141_126707::19::19135::20004::-": [
+            "msp_013",
+            "shared_core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127476__k141_133045::3::2235::2993::-": [
+            "msp_010",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127583__k141_25288::3::2625::3074::+": [
+            "msp_006",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127481__k141_2158::6::3447::5165::+": [
+            "msp_010",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127583__k141_25288::2::1175::2620::+": [
+            "msp_006",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127509__k141_32354::5::5600::6298::+": [
+            "msp_040",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR171496__k141_162815::46::66118::67461::+": [
+            "msp_006",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127515__k141_183642::4::2792::2986::-": [
+            "msp_099",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127509__k141_59847::6::5248::5934::+": [
+            "msp_017",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127509__k141_126707::20::19997::20689::-": [
+            "msp_013",
+            "shared_core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127507__k141_76063::12::12567::15188::+": [
+            "msp_070",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127519__k141_38306::2::791::1999::+": [
+            "msp_010",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127478__k141_26121::30::38294::39016::-": [
+            "msp_005",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127580__k141_156699::88::96776::97570::-": [
+            "msp_203",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127509__k141_29912::56::63200::64297::-": [
+            "msp_017",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127519__k141_52179::39::52633::52956::+": [
+            "msp_034",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR171684__k141_4001::20::18942::21182::-": [
+            "msp_035",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR171748__k141_55642::1::115::1374::+": [
+            "msp_003",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127478__k141_72163::16::20909::21889::-": [
+            "msp_010",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127481__k141_54690::27::36237::37385::-": [
+            "msp_018",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127515__k141_118398::147::142647::143750::-": [
+            "msp_018",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127517__k141_81547::4::4061::5410::+": [
+            "msp_006",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127617__k141_160758::7::9009::9770::-": [
+            "msp_088",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR171636__k141_46578::3::2011::2181::-": [
+            "msp_052",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR171699__k141_76813::14::15466::16398::+": [
+            "msp_018",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR171787__k141_16134::10::13833::15230::-": [
+            "msp_006",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127491__k141_82488::2::1784::2812::+": [
+            "msp_040",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127524__k141_112511::4::3960::5099::-": [
+            "msp_300",
+            "shared_core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127481__k141_54690::32::41476::42957::-": [
+            "msp_018",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127674__k141_3694::3::1712::2347::-": [
+            "msp_052",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127509__k141_103820::5::2854::3072::-": [
+            "msp_017",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127476__k141_221663::4::2555::3259::-": [
+            "msp_018",
+            "shared_core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR171808__k141_116446::10::6133::8694::+": [
+            "msp_163",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127509__k141_49574::25::27212::28930::-": [
+            "msp_013",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127485__k141_111998::13::18257::18853::-": [
+            "msp_003",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR171522__k141_51983::18::16808::17632::-": [
+            "msp_070",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127603__k141_92210::11::11243::12829::+": [
+            "msp_216",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127603__k141_92210::12::13252::13515::-": [
+            "msp_216",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127509__k141_48289::1::3::2612::-": [
+            "msp_022",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127515__k141_240961::2::189::632::+": [
+            "msp_072",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127476__k141_135521::2::36::866::-": [
+            "msp_035",
+            "shared_core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127666__k141_60993::10::8679::8999::+": [
+            "msp_351",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127476__k141_153155::2::898::2157::+": [
+            "msp_018",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR171590__k141_119744::4::2480::2935::+": [
+            "msp_341",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127509__k141_33869::3::3692::4912::+": [
+            "msp_022",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127507__k141_105257::27::30050::32548::-": [
+            "msp_004",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127476__k141_14746::3::957::1412::+": [
+            "msp_020",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127509__k141_31069::2::246::518::+": [
+            "msp_013",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127481__k141_38311::19::17072::18043::+": [
+            "msp_018",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127535__k141_97542::5::3461::4111::-": [
+            "msp_091",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127517__k141_54840::4::1667::2269::+": [
+            "msp_006",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127634__k141_27540::63::70570::71067::+": [
+            "msp_040",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127481__k141_4498::7::7168::7716::-": [
+            "msp_002",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127603__k141_100273::1::1099::1749::-": [
+            "msp_082",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127666__k141_60993::11::9147::9965::+": [
+            "msp_351",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127674__k141_3694::6::4378::5238::+": [
+            "msp_052",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127535__k141_2037::15::12132::12755::-": [
+            "msp_070",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127485__k141_18687::1::80::580::-": [
+            "msp_003",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127666__k141_60993::7::5965::6531::-": [
+            "msp_351",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127535__k141_97542::3::1607::2623::+": [
+            "msp_091",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR171563__k141_42801::55::46868::47314::-": [
+            "msp_004",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127579__k141_31493::1::340::1983::-": [
+            "msp_020",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127485__k141_270285::2::1172::1891::+": [
+            "msp_006",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127509__k141_103820::10::5756::6307::-": [
+            "msp_017",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127478__k141_26121::5::5815::7023::-": [
+            "msp_005",
+            "shared_core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127488__k141_45930::7::6718::7269::+": [
+            "msp_003",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127515__k141_183642::1::499::1380::-": [
+            "msp_099",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127579__k141_31493::8::7089::7724::-": [
+            "msp_074",
+            "shared_core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127674__k141_13658::3::1422::2300::-": [
+            "msp_052",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127515__k141_81073::58::64763::65158::-": [
+            "msp_035",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127597__k141_9328::37::26297::27241::-": [
+            "msp_116",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127509__k141_78550::70::54154::55443::-": [
+            "msp_006",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127579__k141_31493::3::2732::3205::-": [
+            "msp_020",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127666__k141_84917::3::727::2043::-": [
+            "msp_351",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127535__k141_97542::4::2662::3438::+": [
+            "msp_091",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127649__k141_159360::30::21551::22639::-": [
+            "msp_116",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127476__k141_241980::5::2249::3283::-": [
+            "msp_035",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127478__k141_26121::4::5195::5698::+": [
+            "msp_005",
+            "shared_core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127488__k141_168131::1::251::1096::+": [
+            "msp_272",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR171514__k141_80172::7::6388::7755::-": [
+            "msp_052",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127509__k141_29912::55::60511::63018::+": [
+            "msp_017",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127683__k141_1122::47::64435::64776::+": [
+            "msp_035",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127476__k141_42839::2::976::1953::-": [
+            "msp_010",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127481__k141_4808::2::1201::3702::-": [
+            "msp_034",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127666__k141_26426::2::146::1828::-": [
+            "msp_091",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127488__k141_158027::38::46368::46775::-": [
+            "msp_003",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127476__k141_129464::27::30062::32095::-": [
+            "msp_010",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127666__k141_43517::4::2944::3435::+": [
+            "msp_017",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127485__k141_20347::4::2411::4951::-": [
+            "msp_006",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127481__k141_4498::6::6443::7120::-": [
+            "msp_002",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127509__k141_49574::33::35003::35296::-": [
+            "msp_013",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127666__k141_42539::9::8514::9554::-": [
+            "msp_091",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127476__k141_129464::20::20551::21144::-": [
+            "msp_010",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127509__k141_69699::22::28584::29891::+": [
+            "msp_017",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127478__k141_26121::6::7041::8093::-": [
+            "msp_005",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127476__k141_220483::3::3162::3557::+": [
+            "msp_035",
+            "shared_core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR171590__k141_119744::9::7732::8766::+": [
+            "msp_341",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR171528__k141_44707::414::523821::524909::+": [
+            "msp_116",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127509__k141_78550::69::53621::54061::-": [
+            "msp_006",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127478__k141_26121::28::36463::37488::-": [
+            "msp_005",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127613__k141_181655::1::84::1220::-": [
+            "msp_106",
+            "shared_accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127509__k141_103820::9::5334::5708::-": [
+            "msp_017",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127509__k141_23026::19::35648::37210::+": [
+            "msp_013",
+            "shared_core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127603__k141_92210::15::14554::14808::-": [
+            "msp_216",
+            "core",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127478__k141_77275::2::1260::2468::+": [
+            "msp_010",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ],
+        "cohort_merged__DRR127485__k141_255941::2::1644::2339::-": [
+            "msp_003",
+            "accessory",
+            "Bacteroides_plebeius",
+            "Phocaeicola"
+        ]
+    }
+]

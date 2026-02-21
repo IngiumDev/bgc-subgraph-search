@@ -1,0 +1,2 @@
+protein_id	ElementSymbol
+cohort_merged__DRR127685__k141_149989::19::19897::20106::+	Putative transposon-transfer assisting

@@ -1,0 +1,94 @@
+[
+    {
+        "cohort_merged__DRR127596__k141_104656::2::1891::4053::+": [
+            "msp_133",
+            "shared_accessory",
+            "Eubacterium_sp_CAG_180",
+            "Fimenecus sp000432435"
+        ],
+        "cohort_merged__DRR171701__k141_34613::30::39285::41315::-": [
+            "msp_133",
+            "shared_accessory",
+            "Eubacterium_sp_CAG_180",
+            "Fimenecus sp000432435"
+        ],
+        "cohort_merged__DRR127481__k141_23545::51::65866::67179::+": [
+            "msp_133",
+            "shared_accessory",
+            "Eubacterium_sp_CAG_180",
+            "Fimenecus sp000432435"
+        ],
+        "cohort_merged__DRR127485__k141_147480::1::254::1258::-": [
+            "msp_310",
+            "accessory",
+            "Eubacterium_sp_CAG_180",
+            "Fimenecus sp000432435"
+        ],
+        "cohort_merged__DRR127485__k141_147480::3::1995::2537::+": [
+            "msp_310",
+            "accessory",
+            "Eubacterium_sp_CAG_180",
+            "Fimenecus sp000432435"
+        ],
+        "cohort_merged__DRR127485__k141_285828::74::84050::84826::+": [
+            "msp_133",
+            "accessory",
+            "Eubacterium_sp_CAG_180",
+            "Fimenecus sp000432435"
+        ],
+        "cohort_merged__DRR127485__k141_285828::78::87595::88362::-": [
+            "msp_133",
+            "accessory",
+            "Eubacterium_sp_CAG_180",
+            "Fimenecus sp000432435"
+        ],
+        "cohort_merged__DRR127763__k141_150192::4::3100::3801::+": [
+            "msp_133",
+            "core",
+            "Eubacterium_sp_CAG_180",
+            "Fimenecus sp000432435"
+        ],
+        "cohort_merged__DRR127485__k141_147480::6::5516::6760::-": [
+            "msp_310",
+            "core",
+            "Eubacterium_sp_CAG_180",
+            "Fimenecus sp000432435"
+        ],
+        "cohort_merged__DRR127481__k141_23545::52::67161::67853::+": [
+            "msp_133",
+            "core",
+            "Eubacterium_sp_CAG_180",
+            "Fimenecus sp000432435"
+        ],
+        "cohort_merged__DRR127481__k141_23545::55::69428::71425::-": [
+            "msp_133",
+            "accessory",
+            "Eubacterium_sp_CAG_180",
+            "Fimenecus sp000432435"
+        ],
+        "cohort_merged__DRR127485__k141_147480::5::4085::5476::+": [
+            "msp_310",
+            "accessory",
+            "Eubacterium_sp_CAG_180",
+            "Fimenecus sp000432435"
+        ],
+        "cohort_merged__DRR127481__k141_23545::60::74244::75131::-": [
+            "msp_133",
+            "core",
+            "Eubacterium_sp_CAG_180",
+            "Fimenecus sp000432435"
+        ],
+        "cohort_merged__DRR127485__k141_147480::4::2521::3831::+": [
+            "msp_310",
+            "accessory",
+            "Eubacterium_sp_CAG_180",
+            "Fimenecus sp000432435"
+        ],
+        "cohort_merged__DRR127481__k141_23545::54::68934::69431::-": [
+            "msp_133",
+            "core",
+            "Eubacterium_sp_CAG_180",
+            "Fimenecus sp000432435"
+        ]
+    }
+]

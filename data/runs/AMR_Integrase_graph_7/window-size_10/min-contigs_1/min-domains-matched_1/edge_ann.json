@@ -1,0 +1,109 @@
+[
+    {
+        "0,1": {
+            "mean_distance": -10.0,
+            "N": 2,
+            "sameStrand_rate": 1.0
+        },
+        "1,2": {
+            "mean_distance": 7.0,
+            "N": 2,
+            "sameStrand_rate": 1.0
+        },
+        "2,3": {
+            "mean_distance": 27.0,
+            "N": 2,
+            "sameStrand_rate": 1.0
+        },
+        "3,4": {
+            "mean_distance": -7.0,
+            "N": 2,
+            "sameStrand_rate": 1.0
+        },
+        "4,5": {
+            "mean_distance": -3.0,
+            "N": 2,
+            "sameStrand_rate": 1.0
+        },
+        "5,6": {
+            "mean_distance": 15.0,
+            "N": 2,
+            "sameStrand_rate": 1.0
+        },
+        "6,7": {
+            "mean_distance": 149.0,
+            "N": 2,
+            "sameStrand_rate": 1.0
+        },
+        "7,8": {
+            "mean_distance": 4.0,
+            "N": 2,
+            "sameStrand_rate": 1.0
+        },
+        "8,9": {
+            "mean_distance": 5.0,
+            "N": 3,
+            "sameStrand_rate": 1.0
+        },
+        "9,10": {
+            "mean_distance": 447.6666666666667,
+            "N": 3,
+            "sameStrand_rate": 1.0
+        },
+        "10,11": {
+            "mean_distance": 620.0,
+            "N": 2,
+            "sameStrand_rate": 0.0
+        },
+        "11,12": {
+            "mean_distance": -39.0,
+            "N": 2,
+            "sameStrand_rate": 1.0
+        },
+        "12,13": {
+            "mean_distance": 629.0,
+            "N": 2,
+            "sameStrand_rate": 0.0
+        },
+        "13,14": {
+            "mean_distance": -7.0,
+            "N": 2,
+            "sameStrand_rate": 1.0
+        },
+        "14,15": {
+            "mean_distance": 484.0,
+            "N": 2,
+            "sameStrand_rate": 1.0
+        },
+        "15,16": {
+            "mean_distance": 12.0,
+            "N": 2,
+            "sameStrand_rate": 1.0
+        },
+        "16,17": {
+            "mean_distance": 105.0,
+            "N": 1,
+            "sameStrand_rate": 1.0
+        },
+        "17,18": {
+            "mean_distance": 50.0,
+            "N": 1,
+            "sameStrand_rate": 0.0
+        },
+        "19,20": {
+            "mean_distance": 50.0,
+            "N": 1,
+            "sameStrand_rate": 0.0
+        },
+        "16,19": {
+            "mean_distance": 199.0,
+            "N": 1,
+            "sameStrand_rate": 1.0
+        },
+        "10,21": {
+            "mean_distance": 620.0,
+            "N": 1,
+            "sameStrand_rate": 0.0
+        }
+    }
+]

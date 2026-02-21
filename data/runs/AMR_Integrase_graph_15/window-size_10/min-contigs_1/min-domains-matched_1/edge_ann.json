@@ -1,0 +1,449 @@
+[
+    {
+        "0,1": {
+            "mean_distance": 31.0,
+            "N": 1,
+            "sameStrand_rate": 1.0
+        },
+        "1,2": {
+            "mean_distance": 13.0,
+            "N": 1,
+            "sameStrand_rate": 1.0
+        },
+        "2,3": {
+            "mean_distance": 6.0,
+            "N": 1,
+            "sameStrand_rate": 1.0
+        },
+        "3,4": {
+            "mean_distance": 30.0,
+            "N": 1,
+            "sameStrand_rate": 1.0
+        },
+        "4,5": {
+            "mean_distance": 137.0,
+            "N": 1,
+            "sameStrand_rate": 1.0
+        },
+        "5,6": {
+            "mean_distance": 146.0,
+            "N": 1,
+            "sameStrand_rate": 1.0
+        },
+        "6,7": {
+            "mean_distance": 1159.0,
+            "N": 1,
+            "sameStrand_rate": 0.0
+        },
+        "7,8": {
+            "mean_distance": 13.0,
+            "N": 1,
+            "sameStrand_rate": 1.0
+        },
+        "8,9": {
+            "mean_distance": 350.0,
+            "N": 1,
+            "sameStrand_rate": 1.0
+        },
+        "9,10": {
+            "mean_distance": 23.0,
+            "N": 12,
+            "sameStrand_rate": 1.0
+        },
+        "11,12": {
+            "mean_distance": 77.0,
+            "N": 1,
+            "sameStrand_rate": 1.0
+        },
+        "11,13": {
+            "mean_distance": 84.0,
+            "N": 1,
+            "sameStrand_rate": 0.0
+        },
+        "13,14": {
+            "mean_distance": 181.0,
+            "N": 1,
+            "sameStrand_rate": 1.0
+        },
+        "14,15": {
+            "mean_distance": 7.0,
+            "N": 1,
+            "sameStrand_rate": 1.0
+        },
+        "15,16": {
+            "mean_distance": 79.0,
+            "N": 1,
+            "sameStrand_rate": 0.0
+        },
+        "16,17": {
+            "mean_distance": 33.0,
+            "N": 1,
+            "sameStrand_rate": 1.0
+        },
+        "17,18": {
+            "mean_distance": 34.0,
+            "N": 1,
+            "sameStrand_rate": 1.0
+        },
+        "18,19": {
+            "mean_distance": 14.0,
+            "N": 1,
+            "sameStrand_rate": 1.0
+        },
+        "9,19": {
+            "mean_distance": 338.0,
+            "N": 1,
+            "sameStrand_rate": 0.0
+        },
+        "9,20": {
+            "mean_distance": 22.0,
+            "N": 3,
+            "sameStrand_rate": 1.0
+        },
+        "9,21": {
+            "mean_distance": 373.0,
+            "N": 1,
+            "sameStrand_rate": 0.0
+        },
+        "22,23": {
+            "mean_distance": -3.0,
+            "N": 1,
+            "sameStrand_rate": 1.0
+        },
+        "23,24": {
+            "mean_distance": 5.0,
+            "N": 1,
+            "sameStrand_rate": 1.0
+        },
+        "24,25": {
+            "mean_distance": 908.0,
+            "N": 1,
+            "sameStrand_rate": 0.0
+        },
+        "25,26": {
+            "mean_distance": 13.0,
+            "N": 1,
+            "sameStrand_rate": 1.0
+        },
+        "26,27": {
+            "mean_distance": 10.0,
+            "N": 1,
+            "sameStrand_rate": 1.0
+        },
+        "27,28": {
+            "mean_distance": 103.0,
+            "N": 1,
+            "sameStrand_rate": 1.0
+        },
+        "28,29": {
+            "mean_distance": 30.0,
+            "N": 1,
+            "sameStrand_rate": 1.0
+        },
+        "9,29": {
+            "mean_distance": 901.0,
+            "N": 1,
+            "sameStrand_rate": 0.0
+        },
+        "10,30": {
+            "mean_distance": 568.0,
+            "N": 8,
+            "sameStrand_rate": 1.0
+        },
+        "20,31": {
+            "mean_distance": 357.0,
+            "N": 1,
+            "sameStrand_rate": 1.0
+        },
+        "9,32": {
+            "mean_distance": 358.0,
+            "N": 1,
+            "sameStrand_rate": 1.0
+        },
+        "32,33": {
+            "mean_distance": 0.0,
+            "N": 1,
+            "sameStrand_rate": 1.0
+        },
+        "33,34": {
+            "mean_distance": 208.0,
+            "N": 1,
+            "sameStrand_rate": 0.0
+        },
+        "34,35": {
+            "mean_distance": 2.0,
+            "N": 1,
+            "sameStrand_rate": 0.0
+        },
+        "35,36": {
+            "mean_distance": 317.0,
+            "N": 1,
+            "sameStrand_rate": 0.0
+        },
+        "36,37": {
+            "mean_distance": 68.0,
+            "N": 1,
+            "sameStrand_rate": 1.0
+        },
+        "37,38": {
+            "mean_distance": 101.0,
+            "N": 1,
+            "sameStrand_rate": 1.0
+        },
+        "38,39": {
+            "mean_distance": 34.0,
+            "N": 1,
+            "sameStrand_rate": 0.0
+        },
+        "39,40": {
+            "mean_distance": 8.0,
+            "N": 1,
+            "sameStrand_rate": 1.0
+        },
+        "41,42": {
+            "mean_distance": 64.0,
+            "N": 1,
+            "sameStrand_rate": 0.0
+        },
+        "41,43": {
+            "mean_distance": 183.0,
+            "N": 1,
+            "sameStrand_rate": 1.0
+        },
+        "43,44": {
+            "mean_distance": 247.0,
+            "N": 1,
+            "sameStrand_rate": 0.0
+        },
+        "44,45": {
+            "mean_distance": 43.0,
+            "N": 1,
+            "sameStrand_rate": 1.0
+        },
+        "45,46": {
+            "mean_distance": 42.0,
+            "N": 1,
+            "sameStrand_rate": 1.0
+        },
+        "46,47": {
+            "mean_distance": 55.0,
+            "N": 1,
+            "sameStrand_rate": 1.0
+        },
+        "47,48": {
+            "mean_distance": 254.0,
+            "N": 1,
+            "sameStrand_rate": 1.0
+        },
+        "48,49": {
+            "mean_distance": 32.0,
+            "N": 1,
+            "sameStrand_rate": 1.0
+        },
+        "9,49": {
+            "mean_distance": 264.0,
+            "N": 1,
+            "sameStrand_rate": 1.0
+        },
+        "30,50": {
+            "mean_distance": 48.5,
+            "N": 4,
+            "sameStrand_rate": 1.0
+        },
+        "50,51": {
+            "mean_distance": 601.0,
+            "N": 1,
+            "sameStrand_rate": 1.0
+        },
+        "52,53": {
+            "mean_distance": 62.0,
+            "N": 1,
+            "sameStrand_rate": 1.0
+        },
+        "53,54": {
+            "mean_distance": 30.0,
+            "N": 1,
+            "sameStrand_rate": 0.0
+        },
+        "54,55": {
+            "mean_distance": 59.0,
+            "N": 1,
+            "sameStrand_rate": 0.0
+        },
+        "55,56": {
+            "mean_distance": 6.0,
+            "N": 1,
+            "sameStrand_rate": 1.0
+        },
+        "56,57": {
+            "mean_distance": 191.0,
+            "N": 1,
+            "sameStrand_rate": 1.0
+        },
+        "57,58": {
+            "mean_distance": 62.0,
+            "N": 1,
+            "sameStrand_rate": 0.0
+        },
+        "58,59": {
+            "mean_distance": 419.0,
+            "N": 1,
+            "sameStrand_rate": 1.0
+        },
+        "59,60": {
+            "mean_distance": -3.0,
+            "N": 1,
+            "sameStrand_rate": 1.0
+        },
+        "9,60": {
+            "mean_distance": 308.0,
+            "N": 1,
+            "sameStrand_rate": 0.0
+        },
+        "50,61": {
+            "mean_distance": 706.0,
+            "N": 1,
+            "sameStrand_rate": 0.0
+        },
+        "9,62": {
+            "mean_distance": 980.0,
+            "N": 1,
+            "sameStrand_rate": 1.0
+        },
+        "62,63": {
+            "mean_distance": 216.0,
+            "N": 1,
+            "sameStrand_rate": 1.0
+        },
+        "63,64": {
+            "mean_distance": 43.0,
+            "N": 1,
+            "sameStrand_rate": 1.0
+        },
+        "64,65": {
+            "mean_distance": 103.0,
+            "N": 1,
+            "sameStrand_rate": 0.0
+        },
+        "65,66": {
+            "mean_distance": 39.0,
+            "N": 1,
+            "sameStrand_rate": 0.0
+        },
+        "66,67": {
+            "mean_distance": 22.0,
+            "N": 1,
+            "sameStrand_rate": 1.0
+        },
+        "67,68": {
+            "mean_distance": 67.0,
+            "N": 1,
+            "sameStrand_rate": 1.0
+        },
+        "68,69": {
+            "mean_distance": 493.0,
+            "N": 1,
+            "sameStrand_rate": 0.0
+        },
+        "69,70": {
+            "mean_distance": 126.0,
+            "N": 1,
+            "sameStrand_rate": 1.0
+        },
+        "9,71": {
+            "mean_distance": 18.0,
+            "N": 1,
+            "sameStrand_rate": 1.0
+        },
+        "9,72": {
+            "mean_distance": 459.0,
+            "N": 2,
+            "sameStrand_rate": 0.0
+        },
+        "72,73": {
+            "mean_distance": 267.0,
+            "N": 2,
+            "sameStrand_rate": 0.0
+        },
+        "73,74": {
+            "mean_distance": 42.0,
+            "N": 2,
+            "sameStrand_rate": 1.0
+        },
+        "74,75": {
+            "mean_distance": 29.0,
+            "N": 2,
+            "sameStrand_rate": 1.0
+        },
+        "75,76": {
+            "mean_distance": 79.0,
+            "N": 2,
+            "sameStrand_rate": 1.0
+        },
+        "76,77": {
+            "mean_distance": 526.0,
+            "N": 2,
+            "sameStrand_rate": 1.0
+        },
+        "77,78": {
+            "mean_distance": 539.0,
+            "N": 2,
+            "sameStrand_rate": 0.0
+        },
+        "78,79": {
+            "mean_distance": 2.0,
+            "N": 2,
+            "sameStrand_rate": 1.0
+        },
+        "79,80": {
+            "mean_distance": 36.0,
+            "N": 2,
+            "sameStrand_rate": 1.0
+        },
+        "30,81": {
+            "mean_distance": 185.0,
+            "N": 1,
+            "sameStrand_rate": 0.0
+        },
+        "9,82": {
+            "mean_distance": 315.0,
+            "N": 1,
+            "sameStrand_rate": 1.0
+        },
+        "83,84": {
+            "mean_distance": 35.0,
+            "N": 1,
+            "sameStrand_rate": 1.0
+        },
+        "83,85": {
+            "mean_distance": 10.0,
+            "N": 1,
+            "sameStrand_rate": 1.0
+        },
+        "85,86": {
+            "mean_distance": 9.0,
+            "N": 1,
+            "sameStrand_rate": 1.0
+        },
+        "86,87": {
+            "mean_distance": 33.0,
+            "N": 1,
+            "sameStrand_rate": 1.0
+        },
+        "87,88": {
+            "mean_distance": 116.0,
+            "N": 1,
+            "sameStrand_rate": 1.0
+        },
+        "9,88": {
+            "mean_distance": 283.0,
+            "N": 1,
+            "sameStrand_rate": 1.0
+        },
+        "9,89": {
+            "mean_distance": 291.0,
+            "N": 1,
+            "sameStrand_rate": 0.0
+        }
+    }
+]

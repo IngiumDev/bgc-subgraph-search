@@ -1,0 +1,634 @@
+[
+    {
+        "cohort_merged__DRR127476__k141_164536::4::1876::4386::+": [
+            "msp_010",
+            "core",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127481__k141_139046::16::11944::12123::-": [
+            "msp_010",
+            "core",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127476__k141_97626::11::17447::17683::-": [
+            "msp_010",
+            "accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR172018__k141_69126::1::123::1268::-": [
+            "msp_010",
+            "accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR171540__k141_23969::14::14815::16038::+": [
+            "msp_017",
+            "shared_accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127476__k141_223919::7::5175::5600::+": [
+            "msp_010",
+            "accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127481__k141_10494::36::37770::38396::-": [
+            "msp_002",
+            "shared_core",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127476__k141_147160::3::2188::3192::+": [
+            "msp_018",
+            "accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127476__k141_127598::3::2543::4114::+": [
+            "msp_010",
+            "accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127481__k141_91182::57::55383::56135::-": [
+            "msp_002",
+            "shared_accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127476__k141_186961::9::8986::10329::-": [
+            "msp_010",
+            "accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127485__k141_11214::4::10094::10573::-": [
+            "msp_079",
+            "shared_accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR171880__k141_4954::1::104::646::-": [
+            "msp_010",
+            "accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127517__k141_177080::30::27910::28275::+": [
+            "msp_017",
+            "shared_accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR162777__k141_37568::3::1035::1721::-": [
+            "msp_106",
+            "shared_accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127517__k141_177080::25::23175::24026::+": [
+            "msp_017",
+            "shared_accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127485__k141_11214::5::10570::10788::-": [
+            "msp_079",
+            "shared_accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127521__k141_17255::17::13206::14051::+": [
+            "msp_005",
+            "accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127476__k141_200109::4::3612::4094::-": [
+            "msp_010",
+            "accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127476__k141_98145::2::758::1921::-": [
+            "msp_017",
+            "shared_accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR171716__k141_157365::5::5765::6769::-": [
+            "msp_018",
+            "core",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127476__k141_76703::3::1267::1887::+": [
+            "msp_010",
+            "accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR171832__k141_194444::1::106::684::-": [
+            "msp_010",
+            "accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR171702__k141_259871::2::1304::1804::+": [
+            "msp_018",
+            "shared_core",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127521__k141_17255::20::15234::17417::+": [
+            "msp_005",
+            "accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127517__k141_177080::29::27576::27902::+": [
+            "msp_017",
+            "shared_accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR171680__k141_15735::1::74::1135::+": [
+            "msp_010",
+            "accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127476__k141_64593::9::11704::13458::-": [
+            "msp_135",
+            "shared_core",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR171914__k141_78354::34::31595::32056::+": [
+            "msp_010",
+            "accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR171475__k141_72141::2::1227::1838::-": [
+            "msp_010",
+            "accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127517__k141_177080::28::25231::27417::+": [
+            "msp_017",
+            "shared_accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR171844__k141_42591::50::56220::57464::-": [
+            "msp_010",
+            "accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127481__k141_91182::52::51350::51574::+": [
+            "msp_002",
+            "shared_accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127481__k141_96527::13::14174::15487::-": [
+            "msp_010",
+            "accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127481__k141_39262::17::21644::23050::+": [
+            "msp_018",
+            "core",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127476__k141_97626::12::17836::18414::+": [
+            "msp_010",
+            "core",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127476__k141_147160::5::3873::5423::-": [
+            "msp_018",
+            "shared_core",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127476__k141_157772::3::2104::3264::-": [
+            "msp_010",
+            "core",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127476__k141_127598::4::4406::5092::-": [
+            "msp_010",
+            "accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127476__k141_97626::10::16163::17428::-": [
+            "msp_010",
+            "core",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR171539__k141_138806::2::403::1176::+": [
+            "msp_052",
+            "accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127481__k141_39262::18::23180::24310::+": [
+            "msp_018",
+            "accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127674__k141_70306::1::21::362::-": [
+            "msp_052",
+            "accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127617__k141_128547::1::81::1268::+": [
+            "msp_106",
+            "accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127476__k141_192181::2::3769::5310::+": [
+            "msp_010",
+            "accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127476__k141_157772::4::3372::4691::-": [
+            "msp_010",
+            "accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127485__k141_11214::6::10794::11093::-": [
+            "msp_079",
+            "shared_accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127476__k141_80388::2::256::459::+": [
+            "msp_018",
+            "accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR171652__k141_112717::31::34114::35400::-": [
+            "msp_017",
+            "shared_core",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127517__k141_177080::27::24559::25227::+": [
+            "msp_017",
+            "shared_accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127720__k141_15591::18::20555::20812::-": [
+            "msp_002",
+            "accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127476__k141_200109::2::1923::2897::-": [
+            "msp_010",
+            "accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127720__k141_15591::17::20329::20610::-": [
+            "msp_002",
+            "accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127748__k141_24734::18::17661::19043::+": [
+            "msp_010",
+            "accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127476__k141_164536::2::300::743::+": [
+            "msp_010",
+            "accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127521__k141_17255::14::11275::11640::+": [
+            "msp_005",
+            "accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127617__k141_387::2::138::2609::-": [
+            "msp_106",
+            "accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127476__k141_157772::1::171::1328::-": [
+            "msp_010",
+            "core",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127481__k141_91182::55::53993::54490::+": [
+            "msp_002",
+            "shared_accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127767__k141_202011::1::252::1646::+": [
+            "msp_018",
+            "shared_accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127481__k141_91182::54::52904::53650::+": [
+            "msp_002",
+            "shared_accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127515__k141_4184::2::962::1813::+": [
+            "msp_002",
+            "shared_accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127517__k141_177080::23::21569::21922::+": [
+            "msp_017",
+            "shared_accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127521__k141_17255::13::10649::11263::+": [
+            "msp_005",
+            "accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR171626__k141_38584::30::31389::32462::-": [
+            "msp_010",
+            "accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127476__k141_124179::3::2939::3535::-": [
+            "msp_010",
+            "shared_accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR171520__k141_43604::43::64229::67237::-": [
+            "msp_079",
+            "shared_accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127481__k141_91182::49::48896::49717::+": [
+            "msp_002",
+            "shared_accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127521__k141_17255::15::11637::12791::+": [
+            "msp_005",
+            "accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127617__k141_46241::2::865::2007::+": [
+            "msp_106",
+            "shared_core",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR171696__k141_45480::3::1886::2698::+": [
+            "msp_135",
+            "core",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR171623__k141_34072::1::163::1413::+": [
+            "msp_010",
+            "accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127515__k141_4184::1::204::833::-": [
+            "msp_002",
+            "accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR171709__k141_48697::1::203::583::+": [
+            "msp_002",
+            "shared_accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR162777__k141_37568::1::256::594::+": [
+            "msp_106",
+            "shared_core",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR171628__k141_61219::8::5653::6981::+": [
+            "msp_018",
+            "accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127476__k141_179218::2::519::2570::-": [
+            "msp_018",
+            "accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127767__k141_205439::1::60::278::+": [
+            "msp_002",
+            "accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127476__k141_158403::3::2704::3618::+": [
+            "msp_010",
+            "core",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127476__k141_167271::1::84::3185::+": [
+            "msp_010",
+            "core",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127481__k141_10494::34::36315::37100::-": [
+            "msp_002",
+            "shared_accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127476__k141_76703::4::2234::3478::-": [
+            "msp_010",
+            "core",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127517__k141_177080::26::24038::24553::+": [
+            "msp_017",
+            "shared_accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127481__k141_91182::56::54538::55341::-": [
+            "msp_002",
+            "shared_accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127481__k141_2158::6::3447::5165::+": [
+            "msp_010",
+            "accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127478__k141_58380::24::19283::20485::-": [
+            "msp_010",
+            "accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127476__k141_158403::2::1220::2467::+": [
+            "msp_010",
+            "accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127617__k141_31928::2::384::710::+": [
+            "msp_018",
+            "shared_accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127521__k141_17255::16::12799::13206::+": [
+            "msp_005",
+            "accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127617__k141_128547::2::1367::2173::+": [
+            "msp_106",
+            "shared_core",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127476__k141_200109::3::2911::3579::-": [
+            "msp_010",
+            "accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127521__k141_17255::18::14056::14562::+": [
+            "msp_005",
+            "accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127476__k141_158403::1::194::1114::+": [
+            "msp_010",
+            "accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127481__k141_39262::20::26110::26805::+": [
+            "msp_018",
+            "accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127481__k141_139046::15::11209::11496::+": [
+            "msp_010",
+            "accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127674__k141_7575::2::781::2841::+": [
+            "msp_052",
+            "shared_core",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127616__k141_140196::2::109::465::+": [
+            "msp_106",
+            "shared_accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127517__k141_157441::12::6766::7383::-": [
+            "msp_002",
+            "shared_accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR162777__k141_25997::3::3559::4689::+": [
+            "msp_106",
+            "shared_accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127617__k141_124516::1::364::1074::-": [
+            "msp_106",
+            "accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127481__k141_39262::9::12756::13322::+": [
+            "msp_018",
+            "shared_core",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127476__k141_76703::1::158::433::+": [
+            "msp_010",
+            "accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127521__k141_17255::19::14569::15222::+": [
+            "msp_005",
+            "accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127517__k141_177080::22::20936::21550::+": [
+            "msp_017",
+            "shared_accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR162779__k141_41511::17::12296::12868::-": [
+            "msp_018",
+            "accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ]
+    }
+]

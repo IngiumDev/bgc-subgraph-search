@@ -1,0 +1,442 @@
+[
+    {
+        "cohort_merged__DRR127777__k141_84257::3::4157::6436::+": [
+            "msp_076",
+            "core",
+            "Ruminococcus_lactaris",
+            "Mediterraneibacter lactaris"
+        ],
+        "cohort_merged__DRR127476__k141_2133::12::10237::12447::-": [
+            "msp_007",
+            "shared_core",
+            "Ruminococcus_lactaris",
+            "Mediterraneibacter lactaris"
+        ],
+        "cohort_merged__DRR127521__k141_113989::2::1129::3117::-": [
+            "msp_115",
+            "core",
+            "Ruminococcus_lactaris",
+            "Mediterraneibacter lactaris"
+        ],
+        "cohort_merged__DRR127649__k141_172774::2::171::1160::-": [
+            "msp_076",
+            "shared_accessory",
+            "Ruminococcus_lactaris",
+            "Mediterraneibacter lactaris"
+        ],
+        "cohort_merged__DRR127736__k141_23560::39::43340::44392::+": [
+            "msp_115",
+            "accessory",
+            "Ruminococcus_lactaris",
+            "Mediterraneibacter lactaris"
+        ],
+        "cohort_merged__DRR127507__k141_107616::3::5304::6668::-": [
+            "msp_081",
+            "core",
+            "Ruminococcus_lactaris",
+            "Mediterraneibacter lactaris"
+        ],
+        "cohort_merged__DRR127476__k141_2133::15::16611::18596::-": [
+            "msp_007",
+            "core",
+            "Ruminococcus_lactaris",
+            "Mediterraneibacter lactaris"
+        ],
+        "cohort_merged__DRR171577__k141_23462::2::2830::4893::-": [
+            "msp_157",
+            "accessory",
+            "Ruminococcus_lactaris",
+            "Mediterraneibacter lactaris"
+        ],
+        "cohort_merged__DRR171872__k141_23064::10::8929::9495::-": [
+            "msp_076",
+            "shared_accessory",
+            "Ruminococcus_lactaris",
+            "Mediterraneibacter lactaris"
+        ],
+        "cohort_merged__DRR171723__k141_27441::1::206::1213::+": [
+            "msp_157",
+            "core",
+            "Ruminococcus_lactaris",
+            "Mediterraneibacter lactaris"
+        ],
+        "cohort_merged__DRR127478__k141_45675::3::1871::3163::+": [
+            "msp_036",
+            "accessory",
+            "Ruminococcus_lactaris",
+            "Mediterraneibacter lactaris"
+        ],
+        "cohort_merged__DRR127478__k141_61374::39::46206::46880::-": [
+            "msp_021",
+            "accessory",
+            "Ruminococcus_lactaris",
+            "Mediterraneibacter lactaris"
+        ],
+        "cohort_merged__DRR127594__k141_119782::10::10941::13157::-": [
+            "msp_157",
+            "accessory",
+            "Ruminococcus_lactaris",
+            "Mediterraneibacter lactaris"
+        ],
+        "cohort_merged__DRR127649__k141_191788::2::347::988::-": [
+            "msp_076",
+            "core",
+            "Ruminococcus_lactaris",
+            "Mediterraneibacter lactaris"
+        ],
+        "cohort_merged__DRR127674__k141_76485::2::627::2549::-": [
+            "msp_076",
+            "shared_accessory",
+            "Ruminococcus_lactaris",
+            "Mediterraneibacter lactaris"
+        ],
+        "cohort_merged__DRR127537__k141_48617::2::642::1799::-": [
+            "msp_031",
+            "shared_accessory",
+            "Ruminococcus_lactaris",
+            "Mediterraneibacter lactaris"
+        ],
+        "cohort_merged__DRR171462__k141_15140::3::2312::4315::+": [
+            "msp_053",
+            "accessory",
+            "Ruminococcus_lactaris",
+            "Mediterraneibacter lactaris"
+        ],
+        "cohort_merged__DRR127515__k141_275853::6::7992::9050::+": [
+            "msp_036",
+            "accessory",
+            "Ruminococcus_lactaris",
+            "Mediterraneibacter lactaris"
+        ],
+        "cohort_merged__DRR127649__k141_67698::3::613::2691::+": [
+            "msp_076",
+            "shared_core",
+            "Ruminococcus_lactaris",
+            "Mediterraneibacter lactaris"
+        ],
+        "cohort_merged__DRR127649__k141_70083::2::176::1168::+": [
+            "msp_076",
+            "shared_accessory",
+            "Ruminococcus_lactaris",
+            "Mediterraneibacter lactaris"
+        ],
+        "cohort_merged__DRR127649__k141_47860::2::1334::2485::-": [
+            "msp_076",
+            "shared_accessory",
+            "Ruminococcus_lactaris",
+            "Mediterraneibacter lactaris"
+        ],
+        "cohort_merged__DRR127649__k141_70083::3::1216::2397::+": [
+            "msp_076",
+            "shared_core",
+            "Ruminococcus_lactaris",
+            "Mediterraneibacter lactaris"
+        ],
+        "cohort_merged__DRR171483__k141_149828::6::5002::5367::+": [
+            "msp_076",
+            "shared_accessory",
+            "Ruminococcus_lactaris",
+            "Mediterraneibacter lactaris"
+        ],
+        "cohort_merged__DRR127649__k141_50881::2::334::1173::-": [
+            "msp_076",
+            "shared_accessory",
+            "Ruminococcus_lactaris",
+            "Mediterraneibacter lactaris"
+        ],
+        "cohort_merged__DRR127491__k141_66904::3::1430::2023::+": [
+            "msp_291",
+            "shared_core",
+            "Ruminococcus_lactaris",
+            "Mediterraneibacter lactaris"
+        ],
+        "cohort_merged__DRR127509__k141_53392::2::2114::3103::-": [
+            "msp_036",
+            "accessory",
+            "Ruminococcus_lactaris",
+            "Mediterraneibacter lactaris"
+        ],
+        "cohort_merged__DRR127517__k141_150802::7::7446::9437::+": [
+            "msp_222",
+            "shared_core",
+            "Ruminococcus_lactaris",
+            "Mediterraneibacter lactaris"
+        ],
+        "cohort_merged__DRR127594__k141_119782::9::10223::10951::-": [
+            "msp_157",
+            "accessory",
+            "Ruminococcus_lactaris",
+            "Mediterraneibacter lactaris"
+        ],
+        "cohort_merged__DRR127594__k141_119782::7::8524::9768::-": [
+            "msp_157",
+            "shared_accessory",
+            "Ruminococcus_lactaris",
+            "Mediterraneibacter lactaris"
+        ],
+        "cohort_merged__DRR127476__k141_2133::13::12600::13589::-": [
+            "msp_007",
+            "shared_core",
+            "Ruminococcus_lactaris",
+            "Mediterraneibacter lactaris"
+        ],
+        "cohort_merged__DRR127594__k141_119782::5::6289::7617::-": [
+            "msp_157",
+            "accessory",
+            "Ruminococcus_lactaris",
+            "Mediterraneibacter lactaris"
+        ],
+        "cohort_merged__DRR127478__k141_61374::42::50516::53359::-": [
+            "msp_021",
+            "accessory",
+            "Ruminococcus_lactaris",
+            "Mediterraneibacter lactaris"
+        ],
+        "cohort_merged__DRR127649__k141_10361::2::356::1546::+": [
+            "msp_076",
+            "shared_accessory",
+            "Ruminococcus_lactaris",
+            "Mediterraneibacter lactaris"
+        ],
+        "cohort_merged__DRR127625__k141_103352::2::221::700::+": [
+            "msp_076",
+            "accessory",
+            "Ruminococcus_lactaris",
+            "Mediterraneibacter lactaris"
+        ],
+        "cohort_merged__DRR127515__k141_154981::20::18903::20891::+": [
+            "msp_036",
+            "core",
+            "Ruminococcus_lactaris",
+            "Mediterraneibacter lactaris"
+        ],
+        "cohort_merged__DRR162777__k141_53248::2::290::3154::+": [
+            "msp_007",
+            "shared_core",
+            "Ruminococcus_lactaris",
+            "Mediterraneibacter lactaris"
+        ],
+        "cohort_merged__DRR127552__k141_8073::1::51::398::+": [
+            "msp_028",
+            "shared_accessory",
+            "Ruminococcus_lactaris",
+            "Mediterraneibacter lactaris"
+        ],
+        "cohort_merged__DRR127478__k141_61374::41::49236::50228::-": [
+            "msp_021",
+            "accessory",
+            "Ruminococcus_lactaris",
+            "Mediterraneibacter lactaris"
+        ],
+        "cohort_merged__DRR127478__k141_66124::3::3233::3808::+": [
+            "msp_036",
+            "shared_accessory",
+            "Ruminococcus_lactaris",
+            "Mediterraneibacter lactaris"
+        ],
+        "cohort_merged__DRR127537__k141_75927::2::718::1596::+": [
+            "msp_157",
+            "accessory",
+            "Ruminococcus_lactaris",
+            "Mediterraneibacter lactaris"
+        ],
+        "cohort_merged__DRR127777__k141_157359::31::32201::34078::+": [
+            "msp_076",
+            "shared_accessory",
+            "Ruminococcus_lactaris",
+            "Mediterraneibacter lactaris"
+        ],
+        "cohort_merged__DRR127748__k141_63935::19::17773::18306::-": [
+            "msp_031",
+            "shared_accessory",
+            "Ruminococcus_lactaris",
+            "Mediterraneibacter lactaris"
+        ],
+        "cohort_merged__DRR127509__k141_8374::2::452::889::-": [
+            "msp_036",
+            "accessory",
+            "Ruminococcus_lactaris",
+            "Mediterraneibacter lactaris"
+        ],
+        "cohort_merged__DRR127728__k141_34831::3::1661::3901::-": [
+            "msp_076",
+            "core",
+            "Ruminococcus_lactaris",
+            "Mediterraneibacter lactaris"
+        ],
+        "cohort_merged__DRR127476__k141_2133::7::5753::7060::-": [
+            "msp_007",
+            "shared_core",
+            "Ruminococcus_lactaris",
+            "Mediterraneibacter lactaris"
+        ],
+        "cohort_merged__DRR127625__k141_103841::2::1002::1712::-": [
+            "msp_076",
+            "accessory",
+            "Ruminococcus_lactaris",
+            "Mediterraneibacter lactaris"
+        ],
+        "cohort_merged__DRR127625__k141_50784::5::1670::1891::+": [
+            "msp_076",
+            "accessory",
+            "Ruminococcus_lactaris",
+            "Mediterraneibacter lactaris"
+        ],
+        "cohort_merged__DRR171892__k141_24731::1::49::465::+": [
+            "msp_007",
+            "core",
+            "Ruminococcus_lactaris",
+            "Mediterraneibacter lactaris"
+        ],
+        "cohort_merged__DRR127507__k141_107616::1::236::3760::-": [
+            "msp_081",
+            "core",
+            "Ruminococcus_lactaris",
+            "Mediterraneibacter lactaris"
+        ],
+        "cohort_merged__DRR127625__k141_91130::1::66::641::-": [
+            "msp_076",
+            "core",
+            "Ruminococcus_lactaris",
+            "Mediterraneibacter lactaris"
+        ],
+        "cohort_merged__DRR127476__k141_2133::8::7047::7916::-": [
+            "msp_007",
+            "shared_core",
+            "Ruminococcus_lactaris",
+            "Mediterraneibacter lactaris"
+        ],
+        "cohort_merged__DRR127478__k141_61374::37::44594::45763::-": [
+            "msp_021",
+            "accessory",
+            "Ruminococcus_lactaris",
+            "Mediterraneibacter lactaris"
+        ],
+        "cohort_merged__DRR127478__k141_66124::2::900::3128::+": [
+            "msp_036",
+            "accessory",
+            "Ruminococcus_lactaris",
+            "Mediterraneibacter lactaris"
+        ],
+        "cohort_merged__DRR127478__k141_34052::2::487::3324::-": [
+            "msp_036",
+            "accessory",
+            "Ruminococcus_lactaris",
+            "Mediterraneibacter lactaris"
+        ],
+        "cohort_merged__DRR127478__k141_61374::36::43662::44528::-": [
+            "msp_021",
+            "accessory",
+            "Ruminococcus_lactaris",
+            "Mediterraneibacter lactaris"
+        ],
+        "cohort_merged__DRR127478__k141_61374::35::42376::43665::-": [
+            "msp_021",
+            "accessory",
+            "Ruminococcus_lactaris",
+            "Mediterraneibacter lactaris"
+        ],
+        "cohort_merged__DRR127478__k141_45675::2::1011::1874::+": [
+            "msp_036",
+            "shared_accessory",
+            "Ruminococcus_lactaris",
+            "Mediterraneibacter lactaris"
+        ],
+        "cohort_merged__DRR127625__k141_50784::6::1853::2800::-": [
+            "msp_076",
+            "shared_accessory",
+            "Ruminococcus_lactaris",
+            "Mediterraneibacter lactaris"
+        ],
+        "cohort_merged__DRR127476__k141_2133::9::7934::9106::-": [
+            "msp_007",
+            "shared_core",
+            "Ruminococcus_lactaris",
+            "Mediterraneibacter lactaris"
+        ],
+        "cohort_merged__DRR127517__k141_19087::2::248::595::-": [
+            "msp_512",
+            "core",
+            "Ruminococcus_lactaris",
+            "Mediterraneibacter lactaris"
+        ],
+        "cohort_merged__DRR127588__k141_39457::2::1014::2066::+": [
+            "msp_076",
+            "shared_accessory",
+            "Ruminococcus_lactaris",
+            "Mediterraneibacter lactaris"
+        ],
+        "cohort_merged__DRR127588__k141_24474::1::22::285::-": [
+            "msp_076",
+            "shared_core",
+            "Ruminococcus_lactaris",
+            "Mediterraneibacter lactaris"
+        ],
+        "cohort_merged__DRR127731__k141_61497::1::120::605::+": [
+            "msp_512",
+            "shared_core",
+            "Ruminococcus_lactaris",
+            "Mediterraneibacter lactaris"
+        ],
+        "cohort_merged__DRR127507__k141_44381::51::56624::58609::+": [
+            "msp_021",
+            "accessory",
+            "Ruminococcus_lactaris",
+            "Mediterraneibacter lactaris"
+        ],
+        "cohort_merged__DRR127509__k141_89517::5::6593::7000::+": [
+            "msp_021",
+            "accessory",
+            "Ruminococcus_lactaris",
+            "Mediterraneibacter lactaris"
+        ],
+        "cohort_merged__DRR127514__k141_38747::2::150::545::+": [
+            "msp_157",
+            "accessory",
+            "Ruminococcus_lactaris",
+            "Mediterraneibacter lactaris"
+        ],
+        "cohort_merged__DRR171581__k141_106840::4::1637::2638::-": [
+            "msp_076",
+            "shared_accessory",
+            "Ruminococcus_lactaris",
+            "Mediterraneibacter lactaris"
+        ],
+        "cohort_merged__DRR127478__k141_61374::40::46886::49096::-": [
+            "msp_021",
+            "accessory",
+            "Ruminococcus_lactaris",
+            "Mediterraneibacter lactaris"
+        ],
+        "cohort_merged__DRR171812__k141_1263::2::1231::2556::-": [
+            "msp_081",
+            "core",
+            "Ruminococcus_lactaris",
+            "Mediterraneibacter lactaris"
+        ],
+        "cohort_merged__DRR127649__k141_172774::3::1261::4167::-": [
+            "msp_076",
+            "shared_accessory",
+            "Ruminococcus_lactaris",
+            "Mediterraneibacter lactaris"
+        ],
+        "cohort_merged__DRR127774__k141_60267::3::3627::6470::-": [
+            "msp_157",
+            "core",
+            "Ruminococcus_lactaris",
+            "Mediterraneibacter lactaris"
+        ],
+        "cohort_merged__DRR127588__k141_22363::1::80::337::+": [
+            "msp_076",
+            "accessory",
+            "Ruminococcus_lactaris",
+            "Mediterraneibacter lactaris"
+        ],
+        "cohort_merged__DRR171537__k141_107955::2::297::896::+": [
+            "msp_007",
+            "accessory",
+            "Ruminococcus_lactaris",
+            "Mediterraneibacter lactaris"
+        ]
+    }
+]

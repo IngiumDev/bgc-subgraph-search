@@ -1,0 +1,88 @@
+[
+    {
+        "cohort_merged__DRR127517__k141_151649::17::13575::14120::-": [
+            "msp_197",
+            "core",
+            "NA",
+            "CAG-83"
+        ],
+        "cohort_merged__DRR127517__k141_151649::16::12980::13543::-": [
+            "msp_197",
+            "accessory",
+            "NA",
+            "CAG-83"
+        ],
+        "cohort_merged__DRR127509__k141_35277::2::2547::4388::+": [
+            "msp_065",
+            "shared_accessory",
+            "NA",
+            "CAG-83"
+        ],
+        "cohort_merged__DRR127481__k141_40392::7::7944::9509::-": [
+            "msp_065",
+            "shared_accessory",
+            "NA",
+            "CAG-83"
+        ],
+        "cohort_merged__DRR127517__k141_151649::20::15905::17434::+": [
+            "msp_197",
+            "accessory",
+            "NA",
+            "CAG-83"
+        ],
+        "cohort_merged__DRR127509__k141_35277::3::4712::6181::+": [
+            "msp_065",
+            "shared_accessory",
+            "NA",
+            "CAG-83"
+        ],
+        "cohort_merged__DRR127517__k141_151649::18::14291::15187::+": [
+            "msp_197",
+            "core",
+            "NA",
+            "CAG-83"
+        ],
+        "cohort_merged__DRR127476__k141_32126::4::4075::6171::-": [
+            "msp_198",
+            "shared_accessory",
+            "NA",
+            "CAG-83"
+        ],
+        "cohort_merged__DRR127517__k141_151649::19::15325::15903::+": [
+            "msp_197",
+            "core",
+            "NA",
+            "CAG-83"
+        ],
+        "cohort_merged__DRR127476__k141_32126::8::9662::10195::-": [
+            "msp_198",
+            "core",
+            "NA",
+            "CAG-83"
+        ],
+        "cohort_merged__DRR127517__k141_151649::14::11546::12079::+": [
+            "msp_197",
+            "core",
+            "NA",
+            "CAG-83"
+        ],
+        "cohort_merged__DRR127617__k141_9764::1::76::1176::+": [
+            "msp_198",
+            "accessory",
+            "NA",
+            "CAG-83"
+        ],
+        "cohort_merged__DRR127509__k141_35277::1::477::2336::+": [
+            "msp_065",
+            "shared_core",
+            "NA",
+            "CAG-83"
+        ],
+        "cohort_merged__DRR171934__k141_100660::3::2016::4064::+": [
+            "msp_065",
+            "accessory",
+            "NA",
+            "CAG-83"
+        ]
+    }
+]

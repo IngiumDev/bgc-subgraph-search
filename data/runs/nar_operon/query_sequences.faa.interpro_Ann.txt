@@ -1,0 +1,15 @@
+narJ	ea52a1b4afe3177f23c6cbec9ceccb7d	236	Gene3D	G3DSA:1.10.3480.10	-	5	149	1.1E-11	T	15-06-2025	-	-	-	-
+narJ	ea52a1b4afe3177f23c6cbec9ceccb7d	236	Pfam	PF02613	Nitrate reductase delta subunit	40	158	8.8E-12	T	15-06-2025	IPR020945	DMSO/Nitrate reductase chaperone	-	-
+narH	af13e9f3b7209a88b110d3da50d6671d	512	Pfam	PF13247	4Fe-4S dicluster domain	176	272	4.0E-34	T	15-06-2025	IPR017896	4Fe-4S ferredoxin-type, iron-sulphur binding domain	-	-
+narH	af13e9f3b7209a88b110d3da50d6671d	512	Gene3D	G3DSA:1.10.3650.10	nitrate reductase domain like	363	435	3.0E-33	T	15-06-2025	IPR038262	Nitrate reductase beta, C-terminal domain superfamily	-	-
+narH	af13e9f3b7209a88b110d3da50d6671d	512	Gene3D	G3DSA:3.30.70.20	-	242	362	3.6E-58	T	15-06-2025	-	-	-	-
+narH	af13e9f3b7209a88b110d3da50d6671d	512	Gene3D	G3DSA:3.30.70.20	-	5	90	1.4E-7	T	15-06-2025	-	-	-	-
+narH	af13e9f3b7209a88b110d3da50d6671d	512	Pfam	PF14711	Respiratory nitrate reductase beta C-terminal	359	437	3.6E-27	T	15-06-2025	IPR029263	Respiratory nitrate reductase beta, C-terminal	-	-
+narH	af13e9f3b7209a88b110d3da50d6671d	512	Gene3D	G3DSA:3.30.70.20	-	158	241	2.5E-23	T	15-06-2025	-	-	-	-
+narG	2393e1b7614eb7f7b893bb8f9ea39198	1247	Gene3D	G3DSA:3.40.50.12440	-	44	1245	0.0	T	15-06-2025	-	-	-	-
+narG	2393e1b7614eb7f7b893bb8f9ea39198	1247	Gene3D	G3DSA:4.10.1200.10	nitrate reductase tail	2	43	1.4E-22	T	15-06-2025	IPR044906	Nitrate reductase, alpha subunit, N-terminal domain superfamily	-	-
+narG	2393e1b7614eb7f7b893bb8f9ea39198	1247	Pfam	PF14710	Respiratory nitrate reductase alpha N-terminal	3	40	4.8E-14	T	15-06-2025	IPR028189	Nitrate reductase, alpha subunit, N-terminal	-	-
+narG	2393e1b7614eb7f7b893bb8f9ea39198	1247	Pfam	PF01568	Molydopterin dinucleotide binding domain	1087	1203	2.7E-17	T	15-06-2025	IPR006657	Molybdopterin dinucleotide-binding domain	-	-
+narG	2393e1b7614eb7f7b893bb8f9ea39198	1247	Pfam	PF00384	Molybdopterin oxidoreductase	108	833	1.2E-72	T	15-06-2025	IPR006656	Molybdopterin oxidoreductase	-	-
+narI	33cbdb10e3ac7dca7844d1fc5907a9dd	225	Gene3D	G3DSA:1.20.950.20	-	1	216	2.2E-70	T	15-06-2025	-	-	-	-
+narI	33cbdb10e3ac7dca7844d1fc5907a9dd	225	Pfam	PF02665	Nitrate reductase gamma subunit	5	224	2.8E-72	T	15-06-2025	IPR023234	NarG-like domain	-	-

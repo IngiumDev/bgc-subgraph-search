@@ -1,0 +1,40 @@
+[
+    {
+        "cohort_merged__DRR127485__k141_9761::10::11466::11933::+": [
+            "msp_310",
+            "core",
+            "Eubacterium_sp_CAG_251",
+            "Eubacterium_R sp000436835"
+        ],
+        "cohort_merged__DRR127485__k141_9761::8::9749::10219::-": [
+            "msp_310",
+            "accessory",
+            "Eubacterium_sp_CAG_251",
+            "Eubacterium_R sp000436835"
+        ],
+        "cohort_merged__DRR127485__k141_9761::7::9029::9739::-": [
+            "msp_310",
+            "core",
+            "Eubacterium_sp_CAG_251",
+            "Eubacterium_R sp000436835"
+        ],
+        "cohort_merged__DRR127777__k141_122124::32::39314::39751::-": [
+            "msp_310",
+            "accessory",
+            "Eubacterium_sp_CAG_251",
+            "Eubacterium_R sp000436835"
+        ],
+        "cohort_merged__DRR127485__k141_9761::9::10404::11396::+": [
+            "msp_310",
+            "accessory",
+            "Eubacterium_sp_CAG_251",
+            "Eubacterium_R sp000436835"
+        ],
+        "cohort_merged__DRR171483__k141_130771::28::21962::23878::-": [
+            "msp_310",
+            "accessory",
+            "Eubacterium_sp_CAG_251",
+            "Eubacterium_R sp000436835"
+        ]
+    }
+]

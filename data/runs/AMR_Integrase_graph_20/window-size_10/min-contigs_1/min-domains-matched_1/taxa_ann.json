@@ -1,0 +1,106 @@
+[
+    {
+        "cohort_merged__DRR127476__k141_127482::5::4709::6304::-": [
+            "msp_068",
+            "shared_accessory",
+            "NA",
+            "ER4"
+        ],
+        "cohort_merged__DRR127708__k141_111056::13::10661::11782::+": [
+            "msp_044",
+            "accessory",
+            "NA",
+            "ER4"
+        ],
+        "cohort_merged__DRR127476__k141_62647::11::14697::15239::-": [
+            "msp_198",
+            "shared_core",
+            "NA",
+            "ER4"
+        ],
+        "cohort_merged__DRR171495__k141_172613::13::12680::13342::-": [
+            "msp_101",
+            "shared_accessory",
+            "NA",
+            "ER4"
+        ],
+        "cohort_merged__DRR127485__k141_42657::3::2154::2630::-": [
+            "msp_044",
+            "accessory",
+            "NA",
+            "ER4"
+        ],
+        "cohort_merged__DRR171538__k141_19767::64::69967::71094::+": [
+            "msp_198",
+            "accessory",
+            "NA",
+            "ER4"
+        ],
+        "cohort_merged__DRR127476__k141_62647::10::12590::13606::+": [
+            "msp_198",
+            "shared_accessory",
+            "NA",
+            "ER4"
+        ],
+        "cohort_merged__DRR127476__k141_126265::2::388::765::+": [
+            "msp_101",
+            "shared_accessory",
+            "NA",
+            "ER4"
+        ],
+        "cohort_merged__DRR171556__k141_114374::3::2201::2947::-": [
+            "msp_068",
+            "shared_accessory",
+            "NA",
+            "ER4"
+        ],
+        "cohort_merged__DRR127476__k141_62647::9::12105::12593::+": [
+            "msp_198",
+            "accessory",
+            "NA",
+            "ER4"
+        ],
+        "cohort_merged__DRR127488__k141_66499::3::1600::4251::-": [
+            "msp_198",
+            "shared_core",
+            "NA",
+            "ER4"
+        ],
+        "cohort_merged__DRR127476__k141_135896::55::52449::52991::-": [
+            "msp_215",
+            "core",
+            "NA",
+            "ER4"
+        ],
+        "cohort_merged__DRR171960__k141_199248::2::870::2330::+": [
+            "msp_044",
+            "accessory",
+            "NA",
+            "ER4"
+        ],
+        "cohort_merged__DRR127515__k141_139549::2::439::1848::+": [
+            "msp_046",
+            "shared_core",
+            "NA",
+            "ER4"
+        ],
+        "cohort_merged__DRR127481__k141_95472::7::4663::5022::-": [
+            "msp_101",
+            "shared_accessory",
+            "NA",
+            "ER4"
+        ],
+        "cohort_merged__DRR127481__k141_95472::6::4208::4666::-": [
+            "msp_101",
+            "shared_accessory",
+            "NA",
+            "ER4"
+        ],
+        "cohort_merged__DRR127476__k141_62647::7::7784::9205::-": [
+            "msp_198",
+            "accessory",
+            "NA",
+            "ER4"
+        ]
+    }
+]

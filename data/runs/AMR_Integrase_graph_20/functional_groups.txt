@@ -1,0 +1,2 @@
+protein_id	ElementSymbol
+cohort_merged__DRR171529__k141_41938::18::16052::16324::-	Transposon-encoded protein TnpW

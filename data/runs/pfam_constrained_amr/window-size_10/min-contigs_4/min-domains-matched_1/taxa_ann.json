@@ -1,0 +1,2175 @@
+[
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {
+        "cohort_merged__DRR127476__k141_88675::44::57865::58731::-": [
+            "msp_093",
+            "core",
+            "NA",
+            "Alistipes finegoldii"
+        ],
+        "cohort_merged__DRR127476__k141_88675::69::87632::88636::-": [
+            "msp_093",
+            "shared_accessory",
+            "NA",
+            "Alistipes finegoldii"
+        ],
+        "cohort_merged__DRR127476__k141_88675::64::80600::82081::-": [
+            "msp_093",
+            "shared_accessory",
+            "NA",
+            "Alistipes finegoldii"
+        ],
+        "cohort_merged__DRR171956__k141_63522::10::8466::11915::+": [
+            "msp_093",
+            "shared_accessory",
+            "NA",
+            "Alistipes finegoldii"
+        ],
+        "cohort_merged__DRR171503__k141_72863::15::19927::20625::+": [
+            "msp_093",
+            "shared_accessory",
+            "NA",
+            "Alistipes finegoldii"
+        ],
+        "cohort_merged__DRR127476__k141_88675::70::88757::89728::+": [
+            "msp_093",
+            "shared_accessory",
+            "NA",
+            "Alistipes finegoldii"
+        ],
+        "cohort_merged__DRR127476__k141_88675::42::55176::56636::-": [
+            "msp_093",
+            "shared_accessory",
+            "NA",
+            "Alistipes finegoldii"
+        ],
+        "cohort_merged__DRR127476__k141_88675::72::91178::91381::+": [
+            "msp_093",
+            "accessory",
+            "NA",
+            "Alistipes finegoldii"
+        ],
+        "cohort_merged__DRR171774__k141_25944::8::7784::11542::-": [
+            "msp_093",
+            "shared_accessory",
+            "NA",
+            "Alistipes finegoldii"
+        ],
+        "cohort_merged__DRR127476__k141_88675::60::74461::77592::+": [
+            "msp_093",
+            "shared_accessory",
+            "NA",
+            "Alistipes finegoldii"
+        ],
+        "cohort_merged__DRR127546__k141_18630::7::5119::6525::-": [
+            "msp_093",
+            "shared_accessory",
+            "NA",
+            "Alistipes finegoldii"
+        ],
+        "cohort_merged__DRR127476__k141_88675::68::86398::87336::+": [
+            "msp_093",
+            "shared_accessory",
+            "NA",
+            "Alistipes finegoldii"
+        ],
+        "cohort_merged__DRR127476__k141_88675::58::73330::73833::-": [
+            "msp_093",
+            "core",
+            "NA",
+            "Alistipes finegoldii"
+        ],
+        "cohort_merged__DRR127476__k141_88675::61::77589::77963::-": [
+            "msp_093",
+            "core",
+            "NA",
+            "Alistipes finegoldii"
+        ],
+        "cohort_merged__DRR127476__k141_88675::57::72406::73326::-": [
+            "msp_093",
+            "shared_accessory",
+            "NA",
+            "Alistipes finegoldii"
+        ],
+        "cohort_merged__DRR127476__k141_88675::71::89754::90974::+": [
+            "msp_093",
+            "shared_accessory",
+            "NA",
+            "Alistipes finegoldii"
+        ],
+        "cohort_merged__DRR127476__k141_88675::74::93230::93430::-": [
+            "msp_093",
+            "shared_core",
+            "NA",
+            "Alistipes finegoldii"
+        ],
+        "cohort_merged__DRR127476__k141_88675::43::56804::57727::-": [
+            "msp_093",
+            "shared_accessory",
+            "NA",
+            "Alistipes finegoldii"
+        ],
+        "cohort_merged__DRR127515__k141_46444::2::192::602::-": [
+            "msp_093",
+            "accessory",
+            "NA",
+            "Alistipes finegoldii"
+        ],
+        "cohort_merged__DRR127476__k141_88675::63::80001::80603::-": [
+            "msp_093",
+            "shared_accessory",
+            "NA",
+            "Alistipes finegoldii"
+        ],
+        "cohort_merged__DRR127546__k141_18630::16::16767::17543::-": [
+            "msp_093",
+            "shared_accessory",
+            "NA",
+            "Alistipes finegoldii"
+        ],
+        "cohort_merged__DRR127515__k141_46444::3::700::1125::-": [
+            "msp_093",
+            "accessory",
+            "NA",
+            "Alistipes finegoldii"
+        ],
+        "cohort_merged__DRR127476__k141_88675::73::91386::93317::+": [
+            "msp_093",
+            "shared_accessory",
+            "NA",
+            "Alistipes finegoldii"
+        ],
+        "cohort_merged__DRR127476__k141_88675::67::85524::86321::+": [
+            "msp_093",
+            "shared_accessory",
+            "NA",
+            "Alistipes finegoldii"
+        ]
+    },
+    {
+        "cohort_merged__DRR127476__k141_157772::6::5559::6170::-": [
+            "msp_010",
+            "core",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR171608__k141_7043::1::186::953::-": [
+            "msp_010",
+            "accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR171880__k141_4954::1::104::646::-": [
+            "msp_010",
+            "accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127476__k141_157772::3::2104::3264::-": [
+            "msp_010",
+            "core",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127476__k141_157772::5::4799::5554::-": [
+            "msp_010",
+            "accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127476__k141_157772::4::3372::4691::-": [
+            "msp_010",
+            "accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127476__k141_157772::1::171::1328::-": [
+            "msp_010",
+            "core",
+            "NA",
+            "Phocaeicola vulgatus"
+        ]
+    },
+    {
+        "cohort_merged__DRR127532__k141_107658::35::35614::35907::+": [
+            "msp_034",
+            "shared_accessory",
+            "Bacteroides_caccae",
+            "Bacteroides caccae"
+        ],
+        "cohort_merged__DRR127478__k141_45212::18::22988::24373::-": [
+            "msp_005",
+            "shared_accessory",
+            "Bacteroides_caccae",
+            "Bacteroides caccae"
+        ],
+        "cohort_merged__DRR127478__k141_45212::20::25968::26684::+": [
+            "msp_005",
+            "shared_accessory",
+            "Bacteroides_caccae",
+            "Bacteroides caccae"
+        ],
+        "cohort_merged__DRR127594__k141_12579::3::2504::4405::-": [
+            "msp_005",
+            "shared_accessory",
+            "Bacteroides_caccae",
+            "Bacteroides caccae"
+        ],
+        "cohort_merged__DRR127478__k141_45212::19::24464::25819::+": [
+            "msp_005",
+            "shared_core",
+            "Bacteroides_caccae",
+            "Bacteroides caccae"
+        ]
+    },
+    {
+        "cohort_merged__DRR171675__k141_191986::7::6505::6978::+": [
+            "msp_016",
+            "shared_accessory",
+            "Roseburia_intestinalis",
+            "Roseburia intestinalis"
+        ],
+        "cohort_merged__DRR127485__k141_91599::2::1650::2192::+": [
+            "msp_008",
+            "shared_accessory",
+            "Roseburia_intestinalis",
+            "Roseburia intestinalis"
+        ],
+        "cohort_merged__DRR171502__k141_97986::1::62::814::+": [
+            "msp_008",
+            "shared_accessory",
+            "Roseburia_intestinalis",
+            "Roseburia intestinalis"
+        ],
+        "cohort_merged__DRR127485__k141_91599::5::3171::3767::+": [
+            "msp_008",
+            "shared_accessory",
+            "Roseburia_intestinalis",
+            "Roseburia intestinalis"
+        ]
+    },
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {
+        "cohort_merged__DRR127476__k141_211558::3::4609::4980::+": [
+            "msp_035",
+            "accessory",
+            "Alistipes_putredinis",
+            "Alistipes"
+        ],
+        "cohort_merged__DRR127476__k141_48156::4::1481::1933::+": [
+            "msp_035",
+            "shared_core",
+            "Alistipes_putredinis",
+            "Alistipes"
+        ],
+        "cohort_merged__DRR127481__k141_69565::2::1775::3340::-": [
+            "msp_035",
+            "core",
+            "Alistipes_putredinis",
+            "Alistipes"
+        ],
+        "cohort_merged__DRR171480__k141_39904::14::15879::17105::+": [
+            "msp_035",
+            "accessory",
+            "Alistipes_putredinis",
+            "Alistipes"
+        ],
+        "cohort_merged__DRR127476__k141_48156::6::3523::4740::-": [
+            "msp_035",
+            "core",
+            "Alistipes_putredinis",
+            "Alistipes"
+        ],
+        "cohort_merged__DRR127485__k141_7646::156::186319::186891::+": [
+            "msp_035",
+            "accessory",
+            "Alistipes_putredinis",
+            "Alistipes"
+        ],
+        "cohort_merged__DRR127485__k141_7646::146::173241::173498::+": [
+            "msp_035",
+            "accessory",
+            "Alistipes_putredinis",
+            "Alistipes"
+        ],
+        "cohort_merged__DRR127481__k141_15396::1::439::1644::-": [
+            "msp_035",
+            "shared_core",
+            "Alistipes_putredinis",
+            "Alistipes"
+        ],
+        "cohort_merged__DRR127559__k141_45383::2::1117::1314::+": [
+            "msp_035",
+            "accessory",
+            "Alistipes_putredinis",
+            "Alistipes"
+        ],
+        "cohort_merged__DRR127476__k141_211380::4::1986::3773::+": [
+            "msp_035",
+            "shared_accessory",
+            "Alistipes_putredinis",
+            "Alistipes"
+        ],
+        "cohort_merged__DRR127546__k141_40645::69::78521::79249::-": [
+            "msp_035",
+            "shared_accessory",
+            "Alistipes_putredinis",
+            "Alistipes"
+        ],
+        "cohort_merged__DRR127476__k141_211558::1::324::2720::-": [
+            "msp_035",
+            "accessory",
+            "Alistipes_putredinis",
+            "Alistipes"
+        ],
+        "cohort_merged__DRR127476__k141_48156::5::2205::3449::+": [
+            "msp_035",
+            "shared_accessory",
+            "Alistipes_putredinis",
+            "Alistipes"
+        ],
+        "cohort_merged__DRR171479__k141_58510::12::15182::16576::-": [
+            "msp_035",
+            "shared_accessory",
+            "Alistipes_putredinis",
+            "Alistipes"
+        ],
+        "cohort_merged__DRR171480__k141_39904::16::17694::19337::-": [
+            "msp_035",
+            "accessory",
+            "Alistipes_putredinis",
+            "Alistipes"
+        ],
+        "cohort_merged__DRR127580__k141_40073::66::72047::72976::-": [
+            "msp_035",
+            "shared_accessory",
+            "Alistipes_putredinis",
+            "Alistipes"
+        ],
+        "cohort_merged__DRR127485__k141_7646::143::171665::171850::+": [
+            "msp_035",
+            "accessory",
+            "Alistipes_putredinis",
+            "Alistipes"
+        ],
+        "cohort_merged__DRR127476__k141_142656::2::1578::2165::+": [
+            "msp_035",
+            "accessory",
+            "Alistipes_putredinis",
+            "Alistipes"
+        ],
+        "cohort_merged__DRR127476__k141_202088::2::1164::2183::-": [
+            "msp_035",
+            "core",
+            "Alistipes_putredinis",
+            "Alistipes"
+        ],
+        "cohort_merged__DRR127476__k141_211380::5::4100::4750::+": [
+            "msp_035",
+            "shared_accessory",
+            "Alistipes_putredinis",
+            "Alistipes"
+        ],
+        "cohort_merged__DRR127476__k141_62283::5::4381::5613::+": [
+            "msp_035",
+            "shared_accessory",
+            "Alistipes_putredinis",
+            "Alistipes"
+        ],
+        "cohort_merged__DRR171885__k141_153563::17::21276::22313::+": [
+            "msp_035",
+            "shared_accessory",
+            "Alistipes_putredinis",
+            "Alistipes"
+        ],
+        "cohort_merged__DRR127481__k141_15396::13::16502::17233::+": [
+            "msp_035",
+            "accessory",
+            "Alistipes_putredinis",
+            "Alistipes"
+        ],
+        "cohort_merged__DRR171949__k141_12189::2::1385::2179::-": [
+            "msp_035",
+            "shared_accessory",
+            "Alistipes_putredinis",
+            "Alistipes"
+        ],
+        "cohort_merged__DRR171480__k141_39904::20::23320::23937::+": [
+            "msp_035",
+            "shared_core",
+            "Alistipes_putredinis",
+            "Alistipes"
+        ],
+        "cohort_merged__DRR127485__k141_7646::157::187003::188016::+": [
+            "msp_035",
+            "accessory",
+            "Alistipes_putredinis",
+            "Alistipes"
+        ],
+        "cohort_merged__DRR127476__k141_62283::4::3341::4222::+": [
+            "msp_035",
+            "accessory",
+            "Alistipes_putredinis",
+            "Alistipes"
+        ],
+        "cohort_merged__DRR171969__k141_160193::11::9793::11106::+": [
+            "msp_035",
+            "shared_accessory",
+            "Alistipes_putredinis",
+            "Alistipes"
+        ],
+        "cohort_merged__DRR127481__k141_69565::1::153::1736::-": [
+            "msp_035",
+            "shared_accessory",
+            "Alistipes_putredinis",
+            "Alistipes"
+        ],
+        "cohort_merged__DRR127476__k141_211558::4::5576::5731::+": [
+            "msp_035",
+            "accessory",
+            "Alistipes_putredinis",
+            "Alistipes"
+        ],
+        "cohort_merged__DRR127481__k141_15396::11::13827::15758::+": [
+            "msp_035",
+            "accessory",
+            "Alistipes_putredinis",
+            "Alistipes"
+        ],
+        "cohort_merged__DRR171471__k141_151153::6::7692::8288::+": [
+            "msp_035",
+            "shared_accessory",
+            "Alistipes_putredinis",
+            "Alistipes"
+        ],
+        "cohort_merged__DRR127481__k141_15396::8::10753::11271::+": [
+            "msp_035",
+            "shared_accessory",
+            "Alistipes_putredinis",
+            "Alistipes"
+        ],
+        "cohort_merged__DRR127476__k141_211380::3::1007::1906::+": [
+            "msp_035",
+            "accessory",
+            "Alistipes_putredinis",
+            "Alistipes"
+        ]
+    },
+    {},
+    {
+        "cohort_merged__DRR127514__k141_78340::16::10187::11134::-": [
+            "msp_075",
+            "shared_core",
+            "Megamonas_hypermegale",
+            "Megamonas funiformis"
+        ],
+        "cohort_merged__DRR127514__k141_56547::8::7064::7900::-": [
+            "msp_075",
+            "accessory",
+            "Megamonas_hypermegale",
+            "Megamonas funiformis"
+        ],
+        "cohort_merged__DRR127514__k141_104293::3::938::1525::+": [
+            "msp_075",
+            "accessory",
+            "Megamonas_hypermegale",
+            "Megamonas funiformis"
+        ],
+        "cohort_merged__DRR127514__k141_78340::17::11138::12142::-": [
+            "msp_075",
+            "shared_core",
+            "Megamonas_hypermegale",
+            "Megamonas funiformis"
+        ],
+        "cohort_merged__DRR127752__k141_27081::65::60845::61111::+": [
+            "msp_075",
+            "accessory",
+            "Megamonas_hypermegale",
+            "Megamonas funiformis"
+        ],
+        "cohort_merged__DRR127514__k141_78340::2::605::757::+": [
+            "msp_075",
+            "accessory",
+            "Megamonas_hypermegale",
+            "Megamonas funiformis"
+        ],
+        "cohort_merged__DRR127514__k141_56547::9::8031::9833::-": [
+            "msp_075",
+            "shared_core",
+            "Megamonas_hypermegale",
+            "Megamonas funiformis"
+        ],
+        "cohort_merged__DRR171686__k141_133143::8::4110::4517::-": [
+            "msp_075",
+            "accessory",
+            "Megamonas_hypermegale",
+            "Megamonas funiformis"
+        ],
+        "cohort_merged__DRR127514__k141_78340::7::3108::3419::-": [
+            "msp_075",
+            "core",
+            "Megamonas_hypermegale",
+            "Megamonas funiformis"
+        ],
+        "cohort_merged__DRR127514__k141_56547::11::11143::12633::-": [
+            "msp_075",
+            "shared_core",
+            "Megamonas_hypermegale",
+            "Megamonas funiformis"
+        ],
+        "cohort_merged__DRR127514__k141_78340::5::2503::2781::-": [
+            "msp_075",
+            "shared_core",
+            "Megamonas_hypermegale",
+            "Megamonas funiformis"
+        ],
+        "cohort_merged__DRR127514__k141_78340::11::5890::7131::-": [
+            "msp_075",
+            "shared_core",
+            "Megamonas_hypermegale",
+            "Megamonas funiformis"
+        ],
+        "cohort_merged__DRR127752__k141_27081::64::60101::60736::-": [
+            "msp_075",
+            "accessory",
+            "Megamonas_hypermegale",
+            "Megamonas funiformis"
+        ],
+        "cohort_merged__DRR127514__k141_78340::10::5165::5875::-": [
+            "msp_075",
+            "core",
+            "Megamonas_hypermegale",
+            "Megamonas funiformis"
+        ],
+        "cohort_merged__DRR127514__k141_56547::10::9856::11118::-": [
+            "msp_075",
+            "shared_core",
+            "Megamonas_hypermegale",
+            "Megamonas funiformis"
+        ],
+        "cohort_merged__DRR127514__k141_56547::12::12630::13145::-": [
+            "msp_075",
+            "core",
+            "Megamonas_hypermegale",
+            "Megamonas funiformis"
+        ],
+        "cohort_merged__DRR127514__k141_78340::4::1291::2412::+": [
+            "msp_075",
+            "accessory",
+            "Megamonas_hypermegale",
+            "Megamonas funiformis"
+        ],
+        "cohort_merged__DRR127514__k141_78340::15::9200::10144::-": [
+            "msp_075",
+            "shared_core",
+            "Megamonas_hypermegale",
+            "Megamonas funiformis"
+        ],
+        "cohort_merged__DRR127514__k141_78340::12::7148::8092::-": [
+            "msp_075",
+            "shared_core",
+            "Megamonas_hypermegale",
+            "Megamonas funiformis"
+        ],
+        "cohort_merged__DRR127514__k141_78340::13::8180::8410::-": [
+            "msp_075",
+            "core",
+            "Megamonas_hypermegale",
+            "Megamonas funiformis"
+        ],
+        "cohort_merged__DRR127514__k141_78340::6::2788::3108::-": [
+            "msp_075",
+            "accessory",
+            "Megamonas_hypermegale",
+            "Megamonas funiformis"
+        ],
+        "cohort_merged__DRR127514__k141_56547::13::13302::14369::-": [
+            "msp_075",
+            "shared_accessory",
+            "Megamonas_hypermegale",
+            "Megamonas funiformis"
+        ],
+        "cohort_merged__DRR127514__k141_78340::14::8455::9198::-": [
+            "msp_075",
+            "shared_core",
+            "Megamonas_hypermegale",
+            "Megamonas funiformis"
+        ]
+    },
+    {},
+    {},
+    {},
+    {
+        "cohort_merged__DRR171961__k141_111154::12::11370::15053::+": [
+            "msp_021",
+            "accessory",
+            "Ruminococcus_torques",
+            "Mediterraneibacter"
+        ],
+        "cohort_merged__DRR171872__k141_23064::10::8929::9495::-": [
+            "msp_076",
+            "shared_accessory",
+            "Ruminococcus_torques",
+            "Mediterraneibacter"
+        ],
+        "cohort_merged__DRR127478__k141_61374::39::46206::46880::-": [
+            "msp_021",
+            "accessory",
+            "Ruminococcus_torques",
+            "Mediterraneibacter"
+        ],
+        "cohort_merged__DRR127478__k141_50706::32::28322::29245::-": [
+            "msp_021",
+            "accessory",
+            "Ruminococcus_torques",
+            "Mediterraneibacter"
+        ],
+        "cohort_merged__DRR171483__k141_149828::6::5002::5367::+": [
+            "msp_076",
+            "shared_accessory",
+            "Ruminococcus_torques",
+            "Mediterraneibacter"
+        ],
+        "cohort_merged__DRR127649__k141_50881::2::334::1173::-": [
+            "msp_076",
+            "shared_accessory",
+            "Ruminococcus_torques",
+            "Mediterraneibacter"
+        ],
+        "cohort_merged__DRR127491__k141_66904::3::1430::2023::+": [
+            "msp_291",
+            "shared_core",
+            "Ruminococcus_torques",
+            "Mediterraneibacter"
+        ],
+        "cohort_merged__DRR127478__k141_61374::42::50516::53359::-": [
+            "msp_021",
+            "accessory",
+            "Ruminococcus_torques",
+            "Mediterraneibacter"
+        ],
+        "cohort_merged__DRR127478__k141_61374::41::49236::50228::-": [
+            "msp_021",
+            "accessory",
+            "Ruminococcus_torques",
+            "Mediterraneibacter"
+        ],
+        "cohort_merged__DRR171492__k141_106394::10::9438::10373::+": [
+            "msp_021",
+            "shared_accessory",
+            "Ruminococcus_torques",
+            "Mediterraneibacter"
+        ],
+        "cohort_merged__DRR171507__k141_74367::1::67::831::-": [
+            "msp_021",
+            "accessory",
+            "Ruminococcus_torques",
+            "Mediterraneibacter"
+        ],
+        "cohort_merged__DRR127625__k141_50784::5::1670::1891::+": [
+            "msp_076",
+            "accessory",
+            "Ruminococcus_torques",
+            "Mediterraneibacter"
+        ],
+        "cohort_merged__DRR127478__k141_50706::29::27136::27360::-": [
+            "msp_021",
+            "accessory",
+            "Ruminococcus_torques",
+            "Mediterraneibacter"
+        ],
+        "cohort_merged__DRR127478__k141_61374::37::44594::45763::-": [
+            "msp_021",
+            "accessory",
+            "Ruminococcus_torques",
+            "Mediterraneibacter"
+        ],
+        "cohort_merged__DRR127478__k141_61374::36::43662::44528::-": [
+            "msp_021",
+            "accessory",
+            "Ruminococcus_torques",
+            "Mediterraneibacter"
+        ],
+        "cohort_merged__DRR127625__k141_50784::6::1853::2800::-": [
+            "msp_076",
+            "shared_accessory",
+            "Ruminococcus_torques",
+            "Mediterraneibacter"
+        ],
+        "cohort_merged__DRR127478__k141_50706::34::30369::31322::-": [
+            "msp_021",
+            "accessory",
+            "Ruminococcus_torques",
+            "Mediterraneibacter"
+        ],
+        "cohort_merged__DRR127507__k141_44381::51::56624::58609::+": [
+            "msp_021",
+            "accessory",
+            "Ruminococcus_torques",
+            "Mediterraneibacter"
+        ],
+        "cohort_merged__DRR127509__k141_89517::5::6593::7000::+": [
+            "msp_021",
+            "accessory",
+            "Ruminococcus_torques",
+            "Mediterraneibacter"
+        ],
+        "cohort_merged__DRR171581__k141_106840::4::1637::2638::-": [
+            "msp_076",
+            "shared_accessory",
+            "Ruminococcus_torques",
+            "Mediterraneibacter"
+        ],
+        "cohort_merged__DRR127478__k141_50706::28::26961::27119::-": [
+            "msp_021",
+            "accessory",
+            "Ruminococcus_torques",
+            "Mediterraneibacter"
+        ],
+        "cohort_merged__DRR127478__k141_61374::40::46886::49096::-": [
+            "msp_021",
+            "accessory",
+            "Ruminococcus_torques",
+            "Mediterraneibacter"
+        ],
+        "cohort_merged__DRR127588__k141_22363::1::80::337::+": [
+            "msp_076",
+            "accessory",
+            "Ruminococcus_torques",
+            "Mediterraneibacter"
+        ]
+    },
+    {
+        "cohort_merged__DRR171667__k141_54071::2::181::1260::+": [
+            "msp_014",
+            "accessory",
+            "Roseburia_inulinivorans",
+            "Roseburia"
+        ],
+        "cohort_merged__DRR127509__k141_23388::6::4214::5476::+": [
+            "msp_014",
+            "accessory",
+            "Roseburia_inulinivorans",
+            "Roseburia"
+        ],
+        "cohort_merged__DRR127476__k141_46096::10::7851::9722::-": [
+            "msp_014",
+            "accessory",
+            "Roseburia_inulinivorans",
+            "Roseburia"
+        ],
+        "cohort_merged__DRR171779__k141_71365::13::12671::14149::-": [
+            "msp_014",
+            "shared_accessory",
+            "Roseburia_inulinivorans",
+            "Roseburia"
+        ],
+        "cohort_merged__DRR171751__k141_50247::81::92022::93050::-": [
+            "msp_014",
+            "shared_core",
+            "Roseburia_inulinivorans",
+            "Roseburia"
+        ],
+        "cohort_merged__DRR127476__k141_46096::8::5340::6731::-": [
+            "msp_014",
+            "shared_accessory",
+            "Roseburia_inulinivorans",
+            "Roseburia"
+        ],
+        "cohort_merged__DRR127507__k141_41668::2::225::1541::+": [
+            "msp_014",
+            "shared_accessory",
+            "Roseburia_inulinivorans",
+            "Roseburia"
+        ],
+        "cohort_merged__DRR127476__k141_175004::1::37::1641::+": [
+            "msp_014",
+            "accessory",
+            "Roseburia_inulinivorans",
+            "Roseburia"
+        ],
+        "cohort_merged__DRR171683__k141_28293::9::8368::9633::+": [
+            "msp_014",
+            "accessory",
+            "Roseburia_inulinivorans",
+            "Roseburia"
+        ],
+        "cohort_merged__DRR127476__k141_146::5::3579::3950::+": [
+            "msp_014",
+            "accessory",
+            "Roseburia_inulinivorans",
+            "Roseburia"
+        ]
+    },
+    {
+        "cohort_merged__DRR171657__k141_64553::2::1170::2372::-": [
+            "msp_198",
+            "accessory",
+            "NA",
+            "ER4"
+        ],
+        "cohort_merged__DRR127580__k141_68243::19::18298::20160::+": [
+            "msp_069",
+            "shared_accessory",
+            "NA",
+            "ER4"
+        ],
+        "cohort_merged__DRR127476__k141_120900::15::15637::16227::-": [
+            "msp_198",
+            "shared_core",
+            "NA",
+            "ER4"
+        ],
+        "cohort_merged__DRR127476__k141_153852::2::213::767::-": [
+            "msp_069",
+            "accessory",
+            "NA",
+            "ER4"
+        ],
+        "cohort_merged__DRR127476__k141_241201::44::47169::48008::-": [
+            "msp_198",
+            "core",
+            "NA",
+            "ER4"
+        ],
+        "cohort_merged__DRR127485__k141_273926::5::3017::3604::-": [
+            "msp_069",
+            "accessory",
+            "NA",
+            "ER4"
+        ],
+        "cohort_merged__DRR127476__k141_229043::14::10812::11201::-": [
+            "msp_198",
+            "accessory",
+            "NA",
+            "ER4"
+        ],
+        "cohort_merged__DRR171785__k141_90461::2::648::2138::+": [
+            "msp_198",
+            "shared_core",
+            "NA",
+            "ER4"
+        ],
+        "cohort_merged__DRR127580__k141_68243::14::13212::14984::-": [
+            "msp_069",
+            "shared_core",
+            "NA",
+            "ER4"
+        ],
+        "cohort_merged__DRR127476__k141_241201::43::45743::46888::-": [
+            "msp_198",
+            "shared_accessory",
+            "NA",
+            "ER4"
+        ],
+        "cohort_merged__DRR127485__k141_61278::3::1171::3285::-": [
+            "msp_069",
+            "accessory",
+            "NA",
+            "ER4"
+        ],
+        "cohort_merged__DRR127476__k141_120900::17::16877::17473::-": [
+            "msp_198",
+            "accessory",
+            "NA",
+            "ER4"
+        ],
+        "cohort_merged__DRR127476__k141_241201::42::44923::45723::-": [
+            "msp_198",
+            "shared_core",
+            "NA",
+            "ER4"
+        ],
+        "cohort_merged__DRR127485__k141_206717::3::1566::2369::-": [
+            "msp_069",
+            "accessory",
+            "NA",
+            "ER4"
+        ],
+        "cohort_merged__DRR127485__k141_206717::2::329::1384::-": [
+            "msp_069",
+            "accessory",
+            "NA",
+            "ER4"
+        ],
+        "cohort_merged__DRR127485__k141_206717::4::2359::3060::-": [
+            "msp_069",
+            "accessory",
+            "NA",
+            "ER4"
+        ],
+        "cohort_merged__DRR127488__k141_124199::2::414::1106::-": [
+            "msp_198",
+            "shared_accessory",
+            "NA",
+            "ER4"
+        ],
+        "cohort_merged__DRR171832__k141_9975::51::32227::33006::+": [
+            "msp_198",
+            "shared_core",
+            "NA",
+            "ER4"
+        ],
+        "cohort_merged__DRR127476__k141_120900::12::12419::13027::-": [
+            "msp_198",
+            "accessory",
+            "NA",
+            "ER4"
+        ],
+        "cohort_merged__DRR127476__k141_120900::18::17470::18489::-": [
+            "msp_198",
+            "shared_accessory",
+            "NA",
+            "ER4"
+        ],
+        "cohort_merged__DRR127596__k141_129119::1::29::568::+": [
+            "msp_198",
+            "accessory",
+            "NA",
+            "ER4"
+        ],
+        "cohort_merged__DRR127476__k141_65343::43::49160::51313::+": [
+            "msp_198",
+            "shared_accessory",
+            "NA",
+            "ER4"
+        ],
+        "cohort_merged__DRR127603__k141_140458::3::1819::2322::-": [
+            "msp_198",
+            "core",
+            "NA",
+            "ER4"
+        ],
+        "cohort_merged__DRR127476__k141_226544::2::309::671::+": [
+            "msp_069",
+            "shared_accessory",
+            "NA",
+            "ER4"
+        ],
+        "cohort_merged__DRR127488__k141_160983::3::2100::3167::-": [
+            "msp_198",
+            "shared_core",
+            "NA",
+            "ER4"
+        ]
+    },
+    {
+        "cohort_merged__DRR127481__k141_15218::4::4767::6134::-": [
+            "msp_002",
+            "shared_accessory",
+            "Bacteroides_cellulosilyticus",
+            "Bacteroides cellulosilyticus"
+        ],
+        "cohort_merged__DRR127692__k141_118084::2::615::1025::+": [
+            "msp_032",
+            "accessory",
+            "Bacteroides_cellulosilyticus",
+            "Bacteroides cellulosilyticus"
+        ],
+        "cohort_merged__DRR127515__k141_60880::36::41735::43459::-": [
+            "msp_002",
+            "shared_accessory",
+            "Bacteroides_cellulosilyticus",
+            "Bacteroides cellulosilyticus"
+        ],
+        "cohort_merged__DRR127481__k141_15218::3::1992::4643::-": [
+            "msp_002",
+            "shared_accessory",
+            "Bacteroides_cellulosilyticus",
+            "Bacteroides cellulosilyticus"
+        ],
+        "cohort_merged__DRR127481__k141_15218::2::1672::1905::+": [
+            "msp_002",
+            "shared_accessory",
+            "Bacteroides_cellulosilyticus",
+            "Bacteroides cellulosilyticus"
+        ],
+        "cohort_merged__DRR127481__k141_91165::36::41570::43072::+": [
+            "msp_002",
+            "shared_accessory",
+            "Bacteroides_cellulosilyticus",
+            "Bacteroides cellulosilyticus"
+        ],
+        "cohort_merged__DRR127692__k141_52040::2::177::575::+": [
+            "msp_032",
+            "shared_accessory",
+            "Bacteroides_cellulosilyticus",
+            "Bacteroides cellulosilyticus"
+        ],
+        "cohort_merged__DRR171848__k141_126811::1::71::841::-": [
+            "msp_032",
+            "shared_accessory",
+            "Bacteroides_cellulosilyticus",
+            "Bacteroides cellulosilyticus"
+        ],
+        "cohort_merged__DRR127481__k141_91165::33::37531::39033::+": [
+            "msp_002",
+            "shared_accessory",
+            "Bacteroides_cellulosilyticus",
+            "Bacteroides cellulosilyticus"
+        ],
+        "cohort_merged__DRR127481__k141_91961::18::20608::22551::-": [
+            "msp_002",
+            "shared_accessory",
+            "Bacteroides_cellulosilyticus",
+            "Bacteroides cellulosilyticus"
+        ],
+        "cohort_merged__DRR127481__k141_91961::14::16447::17004::+": [
+            "msp_002",
+            "shared_accessory",
+            "Bacteroides_cellulosilyticus",
+            "Bacteroides cellulosilyticus"
+        ],
+        "cohort_merged__DRR127789__k141_171427::13::11334::12239::+": [
+            "msp_032",
+            "shared_accessory",
+            "Bacteroides_cellulosilyticus",
+            "Bacteroides cellulosilyticus"
+        ],
+        "cohort_merged__DRR127481__k141_15218::6::6898::7773::-": [
+            "msp_002",
+            "shared_accessory",
+            "Bacteroides_cellulosilyticus",
+            "Bacteroides cellulosilyticus"
+        ],
+        "cohort_merged__DRR127481__k141_91165::35::41140::41532::+": [
+            "msp_032",
+            "shared_accessory",
+            "Bacteroides_cellulosilyticus",
+            "Bacteroides cellulosilyticus"
+        ],
+        "cohort_merged__DRR171768__k141_42983::5::3129::3644::+": [
+            "msp_002",
+            "accessory",
+            "Bacteroides_cellulosilyticus",
+            "Bacteroides cellulosilyticus"
+        ],
+        "cohort_merged__DRR127481__k141_91961::20::23730::24380::-": [
+            "msp_002",
+            "shared_accessory",
+            "Bacteroides_cellulosilyticus",
+            "Bacteroides cellulosilyticus"
+        ],
+        "cohort_merged__DRR127481__k141_15218::7::7800::8426::-": [
+            "msp_002",
+            "shared_accessory",
+            "Bacteroides_cellulosilyticus",
+            "Bacteroides cellulosilyticus"
+        ],
+        "cohort_merged__DRR127515__k141_60880::35::40286::41596::-": [
+            "msp_002",
+            "shared_accessory",
+            "Bacteroides_cellulosilyticus",
+            "Bacteroides cellulosilyticus"
+        ],
+        "cohort_merged__DRR127789__k141_171427::6::5037::6986::-": [
+            "msp_032",
+            "shared_accessory",
+            "Bacteroides_cellulosilyticus",
+            "Bacteroides cellulosilyticus"
+        ],
+        "cohort_merged__DRR127481__k141_91961::19::22954::23604::+": [
+            "msp_002",
+            "shared_accessory",
+            "Bacteroides_cellulosilyticus",
+            "Bacteroides cellulosilyticus"
+        ],
+        "cohort_merged__DRR127692__k141_118084::1::361::618::+": [
+            "msp_032",
+            "accessory",
+            "Bacteroides_cellulosilyticus",
+            "Bacteroides cellulosilyticus"
+        ],
+        "cohort_merged__DRR127481__k141_91961::21::24405::24995::-": [
+            "msp_002",
+            "shared_accessory",
+            "Bacteroides_cellulosilyticus",
+            "Bacteroides cellulosilyticus"
+        ],
+        "cohort_merged__DRR127789__k141_171427::5::4594::5031::-": [
+            "msp_032",
+            "shared_accessory",
+            "Bacteroides_cellulosilyticus",
+            "Bacteroides cellulosilyticus"
+        ],
+        "cohort_merged__DRR127481__k141_15218::1::307::1320::+": [
+            "msp_002",
+            "shared_accessory",
+            "Bacteroides_cellulosilyticus",
+            "Bacteroides cellulosilyticus"
+        ],
+        "cohort_merged__DRR127481__k141_15218::8::8423::9328::-": [
+            "msp_002",
+            "shared_accessory",
+            "Bacteroides_cellulosilyticus",
+            "Bacteroides cellulosilyticus"
+        ],
+        "cohort_merged__DRR127515__k141_60880::47::52198::52929::+": [
+            "msp_002",
+            "shared_accessory",
+            "Bacteroides_cellulosilyticus",
+            "Bacteroides cellulosilyticus"
+        ],
+        "cohort_merged__DRR127789__k141_171427::10::9182::9832::-": [
+            "msp_032",
+            "shared_accessory",
+            "Bacteroides_cellulosilyticus",
+            "Bacteroides cellulosilyticus"
+        ],
+        "cohort_merged__DRR127481__k141_91165::37::43141::43437::-": [
+            "msp_002",
+            "shared_accessory",
+            "Bacteroides_cellulosilyticus",
+            "Bacteroides cellulosilyticus"
+        ],
+        "cohort_merged__DRR171969__k141_154615::18::12636::13397::-": [
+            "msp_002",
+            "shared_accessory",
+            "Bacteroides_cellulosilyticus",
+            "Bacteroides cellulosilyticus"
+        ],
+        "cohort_merged__DRR127481__k141_91961::17::20165::20602::-": [
+            "msp_002",
+            "shared_accessory",
+            "Bacteroides_cellulosilyticus",
+            "Bacteroides cellulosilyticus"
+        ],
+        "cohort_merged__DRR127789__k141_171427::4::2853::4589::-": [
+            "msp_032",
+            "accessory",
+            "Bacteroides_cellulosilyticus",
+            "Bacteroides cellulosilyticus"
+        ]
+    },
+    {
+        "cohort_merged__DRR127583__k141_86249::1::56::433::+": [
+            "msp_038",
+            "shared_accessory",
+            "Eubacterium_sp_CAG_38",
+            "Lachnospira"
+        ],
+        "cohort_merged__DRR171869__k141_96694::85::98651::98929::+": [
+            "msp_038",
+            "accessory",
+            "Eubacterium_sp_CAG_38",
+            "Lachnospira"
+        ],
+        "cohort_merged__DRR127514__k141_46783::2::1137::1679::+": [
+            "msp_036",
+            "accessory",
+            "Eubacterium_sp_CAG_38",
+            "Lachnospira"
+        ],
+        "cohort_merged__DRR162778__k141_90521::10::8304::9458::+": [
+            "msp_008",
+            "shared_accessory",
+            "Eubacterium_sp_CAG_38",
+            "Lachnospira"
+        ],
+        "cohort_merged__DRR127515__k141_17706::4::2694::3506::+": [
+            "msp_016",
+            "accessory",
+            "Eubacterium_sp_CAG_38",
+            "Lachnospira"
+        ],
+        "cohort_merged__DRR127616__k141_182::1::259::588::+": [
+            "msp_133",
+            "shared_accessory",
+            "Eubacterium_sp_CAG_38",
+            "Lachnospira"
+        ],
+        "cohort_merged__DRR127519__k141_22411::3::1712::2044::-": [
+            "msp_126",
+            "shared_accessory",
+            "Eubacterium_sp_CAG_38",
+            "Lachnospira"
+        ],
+        "cohort_merged__DRR127521__k141_34151::2::349::1758::-": [
+            "msp_038",
+            "shared_accessory",
+            "Eubacterium_sp_CAG_38",
+            "Lachnospira"
+        ],
+        "cohort_merged__DRR127674__k141_21773::2::975::1172::+": [
+            "msp_133",
+            "accessory",
+            "Eubacterium_sp_CAG_38",
+            "Lachnospira"
+        ],
+        "cohort_merged__DRR127485__k141_177361::2::440::730::-": [
+            "msp_038",
+            "shared_accessory",
+            "Eubacterium_sp_CAG_38",
+            "Lachnospira"
+        ],
+        "cohort_merged__DRR127515__k141_187111::18::16828::18072::+": [
+            "msp_038",
+            "shared_accessory",
+            "Eubacterium_sp_CAG_38",
+            "Lachnospira"
+        ],
+        "cohort_merged__DRR127524__k141_194963::3::1876::2763::+": [
+            "msp_008",
+            "shared_accessory",
+            "Eubacterium_sp_CAG_38",
+            "Lachnospira"
+        ],
+        "cohort_merged__DRR127597__k141_98233::2::760::2148::+": [
+            "msp_038",
+            "shared_accessory",
+            "Eubacterium_sp_CAG_38",
+            "Lachnospira"
+        ],
+        "cohort_merged__DRR127509__k141_51144::3::1015::1362::+": [
+            "msp_038",
+            "shared_accessory",
+            "Eubacterium_sp_CAG_38",
+            "Lachnospira"
+        ],
+        "cohort_merged__DRR127514__k141_34780::11::10566::11618::+": [
+            "msp_008",
+            "shared_accessory",
+            "Eubacterium_sp_CAG_38",
+            "Lachnospira"
+        ],
+        "cohort_merged__DRR127509__k141_51144::2::591::812::-": [
+            "msp_038",
+            "shared_accessory",
+            "Eubacterium_sp_CAG_38",
+            "Lachnospira"
+        ],
+        "cohort_merged__DRR127488__k141_148568::6::5529::6017::+": [
+            "msp_054",
+            "shared_accessory",
+            "Eubacterium_sp_CAG_38",
+            "Lachnospira"
+        ],
+        "cohort_merged__DRR127515__k141_17706::2::363::2054::-": [
+            "msp_016",
+            "accessory",
+            "Eubacterium_sp_CAG_38",
+            "Lachnospira"
+        ],
+        "cohort_merged__DRR127536__k141_70215::17::13543::15030::+": [
+            "msp_036",
+            "accessory",
+            "Eubacterium_sp_CAG_38",
+            "Lachnospira"
+        ],
+        "cohort_merged__DRR127509__k141_89593::4::2783::2923::-": [
+            "msp_038",
+            "core",
+            "Eubacterium_sp_CAG_38",
+            "Lachnospira"
+        ],
+        "cohort_merged__DRR127674__k141_3261::9::6817::7194::+": [
+            "msp_133",
+            "accessory",
+            "Eubacterium_sp_CAG_38",
+            "Lachnospira"
+        ],
+        "cohort_merged__DRR127488__k141_41625::3::1050::1388::-": [
+            "msp_036",
+            "shared_accessory",
+            "Eubacterium_sp_CAG_38",
+            "Lachnospira"
+        ],
+        "cohort_merged__DRR171808__k141_130457::7::5004::7145::-": [
+            "msp_011",
+            "shared_accessory",
+            "Eubacterium_sp_CAG_38",
+            "Lachnospira"
+        ],
+        "cohort_merged__DRR127597__k141_75434::3::835::1251::-": [
+            "msp_038",
+            "shared_accessory",
+            "Eubacterium_sp_CAG_38",
+            "Lachnospira"
+        ],
+        "cohort_merged__DRR127485__k141_39283::3::3011::3523::-": [
+            "msp_011",
+            "shared_accessory",
+            "Eubacterium_sp_CAG_38",
+            "Lachnospira"
+        ],
+        "cohort_merged__DRR127674__k141_3261::11::9080::9640::+": [
+            "msp_133",
+            "shared_accessory",
+            "Eubacterium_sp_CAG_38",
+            "Lachnospira"
+        ],
+        "cohort_merged__DRR127509__k141_89593::3::1404::2786::-": [
+            "msp_038",
+            "accessory",
+            "Eubacterium_sp_CAG_38",
+            "Lachnospira"
+        ],
+        "cohort_merged__DRR127514__k141_34780::8::9549::9950::+": [
+            "msp_008",
+            "accessory",
+            "Eubacterium_sp_CAG_38",
+            "Lachnospira"
+        ],
+        "cohort_merged__DRR127597__k141_75434::2::624::833::-": [
+            "msp_038",
+            "accessory",
+            "Eubacterium_sp_CAG_38",
+            "Lachnospira"
+        ],
+        "cohort_merged__DRR127517__k141_14001::5::6426::7109::-": [
+            "msp_025",
+            "shared_accessory",
+            "Eubacterium_sp_CAG_38",
+            "Lachnospira"
+        ],
+        "cohort_merged__DRR127485__k141_86353::2::363::1952::+": [
+            "msp_038",
+            "shared_accessory",
+            "Eubacterium_sp_CAG_38",
+            "Lachnospira"
+        ],
+        "cohort_merged__DRR127603__k141_48578::3::1574::2638::+": [
+            "msp_038",
+            "shared_accessory",
+            "Eubacterium_sp_CAG_38",
+            "Lachnospira"
+        ],
+        "cohort_merged__DRR172017__k141_16894::2::343::1428::+": [
+            "msp_038",
+            "shared_accessory",
+            "Eubacterium_sp_CAG_38",
+            "Lachnospira"
+        ],
+        "cohort_merged__DRR127485__k141_56798::3::879::1154::-": [
+            "msp_038",
+            "core",
+            "Eubacterium_sp_CAG_38",
+            "Lachnospira"
+        ],
+        "cohort_merged__DRR171633__k141_14496::2::1750::3279::-": [
+            "msp_036",
+            "accessory",
+            "Eubacterium_sp_CAG_38",
+            "Lachnospira"
+        ],
+        "cohort_merged__DRR127509__k141_18029::6::4272::4610::+": [
+            "msp_036",
+            "shared_accessory",
+            "Eubacterium_sp_CAG_38",
+            "Lachnospira"
+        ],
+        "cohort_merged__DRR171503__k141_4131::2::796::1983::+": [
+            "msp_038",
+            "shared_accessory",
+            "Eubacterium_sp_CAG_38",
+            "Lachnospira"
+        ],
+        "cohort_merged__DRR127515__k141_9213::2::1367::1501::-": [
+            "msp_016",
+            "accessory",
+            "Eubacterium_sp_CAG_38",
+            "Lachnospira"
+        ],
+        "cohort_merged__DRR127515__k141_282322::3::821::1780::-": [
+            "msp_016",
+            "accessory",
+            "Eubacterium_sp_CAG_38",
+            "Lachnospira"
+        ],
+        "cohort_merged__DRR127488__k141_148568::5::4483::5526::+": [
+            "msp_054",
+            "shared_accessory",
+            "Eubacterium_sp_CAG_38",
+            "Lachnospira"
+        ],
+        "cohort_merged__DRR171847__k141_95670::19::15336::17090::+": [
+            "msp_036",
+            "shared_accessory",
+            "Eubacterium_sp_CAG_38",
+            "Lachnospira"
+        ],
+        "cohort_merged__DRR127488__k141_148568::4::1845::4358::+": [
+            "msp_054",
+            "shared_accessory",
+            "Eubacterium_sp_CAG_38",
+            "Lachnospira"
+        ],
+        "cohort_merged__DRR127685__k141_103347::2::410::1666::+": [
+            "msp_008",
+            "shared_accessory",
+            "Eubacterium_sp_CAG_38",
+            "Lachnospira"
+        ],
+        "cohort_merged__DRR171475__k141_70114::2::1152::1592::-": [
+            "msp_029",
+            "shared_accessory",
+            "Eubacterium_sp_CAG_38",
+            "Lachnospira"
+        ],
+        "cohort_merged__DRR127488__k141_148568::7::6027::7328::+": [
+            "msp_054",
+            "shared_accessory",
+            "Eubacterium_sp_CAG_38",
+            "Lachnospira"
+        ],
+        "cohort_merged__DRR127485__k141_96655::2::272::1186::+": [
+            "msp_011",
+            "shared_accessory",
+            "Eubacterium_sp_CAG_38",
+            "Lachnospira"
+        ],
+        "cohort_merged__DRR127488__k141_41625::2::721::1053::-": [
+            "msp_036",
+            "shared_accessory",
+            "Eubacterium_sp_CAG_38",
+            "Lachnospira"
+        ],
+        "cohort_merged__DRR127514__k141_34780::10::10113::10553::+": [
+            "msp_008",
+            "shared_accessory",
+            "Eubacterium_sp_CAG_38",
+            "Lachnospira"
+        ]
+    },
+    {
+        "cohort_merged__DRR127559__k141_50079::2::397::1065::-": [
+            "msp_133",
+            "shared_accessory",
+            "Eubacterium_sp_CAG_180",
+            "Fimenecus sp000432435"
+        ]
+    },
+    {},
+    {
+        "cohort_merged__DRR127514__k141_59017::8::6935::8629::+": [
+            "msp_075",
+            "shared_core",
+            "Megamonas_hypermegale",
+            "Megamonas funiformis"
+        ],
+        "cohort_merged__DRR127514__k141_58047::2::647::1999::-": [
+            "msp_075",
+            "shared_core",
+            "Megamonas_hypermegale",
+            "Megamonas funiformis"
+        ],
+        "cohort_merged__DRR127514__k141_59017::9::8626::9123::+": [
+            "msp_075",
+            "shared_core",
+            "Megamonas_hypermegale",
+            "Megamonas funiformis"
+        ],
+        "cohort_merged__DRR127514__k141_25960::2::429::2339::+": [
+            "msp_075",
+            "accessory",
+            "Megamonas_hypermegale",
+            "Megamonas funiformis"
+        ],
+        "cohort_merged__DRR127514__k141_59017::7::5833::6843::+": [
+            "msp_075",
+            "shared_accessory",
+            "Megamonas_hypermegale",
+            "Megamonas funiformis"
+        ]
+    },
+    {},
+    {},
+    {
+        "cohort_merged__DRR127485__k141_75263::8::6901::7614::-": [
+            "msp_055",
+            "core",
+            "NA",
+            "CAG-127 sp900319515"
+        ],
+        "cohort_merged__DRR127594__k141_59520::4::3908::4663::+": [
+            "msp_055",
+            "shared_core",
+            "NA",
+            "CAG-127 sp900319515"
+        ],
+        "cohort_merged__DRR127580__k141_119764::2::1072::1635::+": [
+            "msp_055",
+            "accessory",
+            "NA",
+            "CAG-127 sp900319515"
+        ],
+        "cohort_merged__DRR127625__k141_2421::2::432::1478::-": [
+            "msp_089",
+            "shared_accessory",
+            "NA",
+            "CAG-127 sp900319515"
+        ],
+        "cohort_merged__DRR127485__k141_75263::10::10061::10714::-": [
+            "msp_055",
+            "accessory",
+            "NA",
+            "CAG-127 sp900319515"
+        ],
+        "cohort_merged__DRR127535__k141_23889::16::13311::14492::-": [
+            "msp_055",
+            "core",
+            "NA",
+            "CAG-127 sp900319515"
+        ],
+        "cohort_merged__DRR127485__k141_75263::11::10923::14822::+": [
+            "msp_055",
+            "shared_accessory",
+            "NA",
+            "CAG-127 sp900319515"
+        ]
+    },
+    {
+        "cohort_merged__DRR171845__k141_26642::1::162::746::+": [
+            "msp_010",
+            "accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127476__k141_90911::2::890::2692::+": [
+            "msp_010",
+            "accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127476__k141_90911::1::306::881::+": [
+            "msp_010",
+            "core",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127476__k141_90911::3::2706::3680::+": [
+            "msp_010",
+            "core",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127481__k141_46770::5::5077::5886::+": [
+            "msp_010",
+            "accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127485__k141_260010::35::46650::47522::-": [
+            "msp_010",
+            "core",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127476__k141_19678::5::9008::10171::+": [
+            "msp_010",
+            "shared_accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127476__k141_142742::2::762::1337::+": [
+            "msp_010",
+            "shared_core",
+            "NA",
+            "Phocaeicola vulgatus"
+        ]
+    },
+    {
+        "cohort_merged__DRR171468__k141_103483::2::759::2081::-": [
+            "msp_006",
+            "accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127476__k141_164536::4::1876::4386::+": [
+            "msp_010",
+            "core",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127485__k141_5828::5::2886::3350::-": [
+            "msp_006",
+            "core",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127509__k141_59847::9::7345::7470::+": [
+            "msp_017",
+            "core",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127509__k141_59847::12::9090::11612::-": [
+            "msp_017",
+            "accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR171793__k141_140351::1::324::2576::+": [
+            "msp_006",
+            "shared_accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127509__k141_59847::5::3414::5243::+": [
+            "msp_017",
+            "shared_accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127485__k141_20347::3::1117::2328::-": [
+            "msp_006",
+            "accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127485__k141_18687::4::2443::3960::-": [
+            "msp_003",
+            "accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR171832__k141_194444::1::106::684::-": [
+            "msp_010",
+            "accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR171460__k141_59646::25::27362::27661::+": [
+            "msp_010",
+            "accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127507__k141_76063::5::4928::6037::+": [
+            "msp_070",
+            "shared_core",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR171497__k141_109436::3::1802::3175::-": [
+            "msp_017",
+            "shared_accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127476__k141_129464::26::28575::29870::-": [
+            "msp_010",
+            "accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127509__k141_59847::11::7725::8933::-": [
+            "msp_017",
+            "accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127509__k141_102557::14::15736::16440::-": [
+            "msp_006",
+            "accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127485__k141_18687::3::1036::2409::-": [
+            "msp_003",
+            "shared_accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127485__k141_18687::2::590::1036::-": [
+            "msp_003",
+            "core",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127485__k141_18687::5::4222::5715::+": [
+            "msp_003",
+            "shared_core",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127509__k141_59847::7::6140::6709::+": [
+            "msp_017",
+            "accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127559__k141_55597::1::294::785::-": [
+            "msp_003",
+            "accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127524__k141_12914::5::3803::4744::-": [
+            "msp_010",
+            "accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127617__k141_4594::42::48892::50712::-": [
+            "msp_070",
+            "shared_core",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127476__k141_227777::20::27932::28645::-": [
+            "msp_010",
+            "accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127478__k141_58107::1::378::1067::-": [
+            "msp_092",
+            "shared_accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127485__k141_18687::8::7309::7692::+": [
+            "msp_003",
+            "core",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127728__k141_29197::20::23077::23640::+": [
+            "msp_006",
+            "shared_core",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127507__k141_76063::4::4317::4901::+": [
+            "msp_070",
+            "core",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR171548__k141_61975::20::18475::19017::+": [
+            "msp_006",
+            "accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR171482__k141_147174::3::2060::3244::-": [
+            "msp_070",
+            "shared_core",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR162777__k141_64653::11::7898::8575::-": [
+            "msp_010",
+            "accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127476__k141_227777::26::33787::34242::+": [
+            "msp_010",
+            "accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127485__k141_18687::6::5718::6632::+": [
+            "msp_003",
+            "accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127476__k141_129464::21::21159::21785::-": [
+            "msp_010",
+            "core",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR171623__k141_34072::1::163::1413::+": [
+            "msp_010",
+            "accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127476__k141_227777::18::26139::27152::+": [
+            "msp_010",
+            "accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127476__k141_227777::21::28694::29614::+": [
+            "msp_010",
+            "core",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127485__k141_178551::2::1552::2193::-": [
+            "msp_003",
+            "core",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127476__k141_227777::25::32896::33567::+": [
+            "msp_010",
+            "core",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127476__k141_227777::24::32097::32783::+": [
+            "msp_010",
+            "core",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR171505__k141_111331::8::7339::8127::+": [
+            "msp_010",
+            "core",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR171659__k141_72268::14::13181::17143::-": [
+            "msp_010",
+            "accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127485__k141_111998::14::18850::19479::-": [
+            "msp_003",
+            "accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127507__k141_76063::7::7785::8465::-": [
+            "msp_070",
+            "core",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127485__k141_5828::2::1049::1726::-": [
+            "msp_006",
+            "accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127485__k141_178551::3::2206::3501::-": [
+            "msp_003",
+            "shared_core",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR171588__k141_156460::1::332::814::-": [
+            "msp_017",
+            "accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127509__k141_102557::17::18523::19248::-": [
+            "msp_006",
+            "shared_accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR171671__k141_69993::1::462::2471::+": [
+            "msp_003",
+            "accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127509__k141_59847::6::5248::5934::+": [
+            "msp_017",
+            "accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127485__k141_111998::13::18257::18853::-": [
+            "msp_003",
+            "accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127507__k141_76063::8::8577::9452::+": [
+            "msp_070",
+            "core",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127485__k141_18687::1::80::580::-": [
+            "msp_003",
+            "accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127488__k141_45930::7::6718::7269::+": [
+            "msp_003",
+            "core",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127509__k141_78550::70::54154::55443::-": [
+            "msp_006",
+            "shared_accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127476__k141_129464::27::30062::32095::-": [
+            "msp_010",
+            "core",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127485__k141_20347::4::2411::4951::-": [
+            "msp_006",
+            "core",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127476__k141_129464::20::20551::21144::-": [
+            "msp_010",
+            "core",
+            "NA",
+            "Phocaeicola vulgatus"
+        ],
+        "cohort_merged__DRR127509__k141_78550::69::53621::54061::-": [
+            "msp_006",
+            "accessory",
+            "NA",
+            "Phocaeicola vulgatus"
+        ]
+    },
+    {
+        "cohort_merged__DRR127476__k141_77535::1::175::336::+": [
+            "msp_070",
+            "shared_accessory",
+            "Prevotella_copri",
+            "Prevotella"
+        ],
+        "cohort_merged__DRR127476__k141_125320::6::6161::6382::-": [
+            "msp_070",
+            "shared_core",
+            "Prevotella_copri",
+            "Prevotella"
+        ],
+        "cohort_merged__DRR172007__k141_42049::10::8706::9380::+": [
+            "msp_070",
+            "shared_accessory",
+            "Prevotella_copri",
+            "Prevotella"
+        ],
+        "cohort_merged__DRR127476__k141_125320::4::3792::4202::+": [
+            "msp_070",
+            "shared_accessory",
+            "Prevotella_copri",
+            "Prevotella"
+        ],
+        "cohort_merged__DRR171675__k141_104951::2::1436::1915::+": [
+            "msp_070",
+            "shared_accessory",
+            "Prevotella_copri",
+            "Prevotella"
+        ]
+    },
+    {
+        "cohort_merged__DRR127537__k141_1240::2::1692::2459::+": [
+            "msp_054",
+            "accessory",
+            "Proteobacteria_bacterium_CAG_139",
+            "Parasutterella gallistercoris"
+        ],
+        "cohort_merged__DRR127537__k141_57700::7::1808::2431::+": [
+            "msp_054",
+            "accessory",
+            "Proteobacteria_bacterium_CAG_139",
+            "Parasutterella gallistercoris"
+        ],
+        "cohort_merged__DRR127616__k141_7795::3::2192::2614::-": [
+            "msp_024",
+            "shared_accessory",
+            "Proteobacteria_bacterium_CAG_139",
+            "Parasutterella gallistercoris"
+        ],
+        "cohort_merged__DRR127485__k141_279363::4::1031::1465::+": [
+            "msp_112",
+            "shared_accessory",
+            "Proteobacteria_bacterium_CAG_139",
+            "Parasutterella gallistercoris"
+        ],
+        "cohort_merged__DRR171514__k141_22876::4::1719::2663::+": [
+            "msp_024",
+            "shared_accessory",
+            "Proteobacteria_bacterium_CAG_139",
+            "Parasutterella gallistercoris"
+        ],
+        "cohort_merged__DRR127597__k141_213930::1::86::1255::-": [
+            "msp_013",
+            "shared_accessory",
+            "Proteobacteria_bacterium_CAG_139",
+            "Parasutterella gallistercoris"
+        ],
+        "cohort_merged__DRR171874__k141_44129::1::113::1006::+": [
+            "msp_001",
+            "shared_accessory",
+            "Proteobacteria_bacterium_CAG_139",
+            "Parasutterella gallistercoris"
+        ],
+        "cohort_merged__DRR127537__k141_62125::47::48945::49961::+": [
+            "msp_140",
+            "shared_core",
+            "Proteobacteria_bacterium_CAG_139",
+            "Parasutterella gallistercoris"
+        ],
+        "cohort_merged__DRR127488__k141_72546::5::3164::3322::+": [
+            "msp_054",
+            "accessory",
+            "Proteobacteria_bacterium_CAG_139",
+            "Parasutterella gallistercoris"
+        ],
+        "cohort_merged__DRR162775__k141_20121::98::109696::109839::+": [
+            "msp_054",
+            "accessory",
+            "Proteobacteria_bacterium_CAG_139",
+            "Parasutterella gallistercoris"
+        ],
+        "cohort_merged__DRR127537__k141_62125::46::48412::48906::+": [
+            "msp_140",
+            "core",
+            "Proteobacteria_bacterium_CAG_139",
+            "Parasutterella gallistercoris"
+        ],
+        "cohort_merged__DRR127524__k141_124533::3::481::765::+": [
+            "msp_054",
+            "accessory",
+            "Proteobacteria_bacterium_CAG_139",
+            "Parasutterella gallistercoris"
+        ],
+        "cohort_merged__DRR171470__k141_87393::8::3715::4209::-": [
+            "msp_054",
+            "accessory",
+            "Proteobacteria_bacterium_CAG_139",
+            "Parasutterella gallistercoris"
+        ],
+        "cohort_merged__DRR127537__k141_62125::41::42228::42827::+": [
+            "msp_140",
+            "shared_core",
+            "Proteobacteria_bacterium_CAG_139",
+            "Parasutterella gallistercoris"
+        ],
+        "cohort_merged__DRR127537__k141_62125::43::43683::44591::+": [
+            "msp_140",
+            "shared_core",
+            "Proteobacteria_bacterium_CAG_139",
+            "Parasutterella gallistercoris"
+        ],
+        "cohort_merged__DRR127537__k141_62125::49::51109::51846::+": [
+            "msp_140",
+            "core",
+            "Proteobacteria_bacterium_CAG_139",
+            "Parasutterella gallistercoris"
+        ],
+        "cohort_merged__DRR127537__k141_31656::2::302::2431::+": [
+            "msp_140",
+            "shared_accessory",
+            "Proteobacteria_bacterium_CAG_139",
+            "Parasutterella gallistercoris"
+        ],
+        "cohort_merged__DRR127509__k141_58893::2::451::1809::+": [
+            "msp_026",
+            "shared_accessory",
+            "Proteobacteria_bacterium_CAG_139",
+            "Parasutterella gallistercoris"
+        ],
+        "cohort_merged__DRR127514__k141_99193::9::5394::6230::+": [
+            "msp_001",
+            "shared_accessory",
+            "Proteobacteria_bacterium_CAG_139",
+            "Parasutterella gallistercoris"
+        ],
+        "cohort_merged__DRR127537__k141_62125::48::50032::50934::-": [
+            "msp_140",
+            "core",
+            "Proteobacteria_bacterium_CAG_139",
+            "Parasutterella gallistercoris"
+        ],
+        "cohort_merged__DRR127488__k141_72546::6::3347::3490::+": [
+            "msp_054",
+            "accessory",
+            "Proteobacteria_bacterium_CAG_139",
+            "Parasutterella gallistercoris"
+        ],
+        "cohort_merged__DRR171548__k141_98361::9::6115::7512::-": [
+            "msp_054",
+            "shared_accessory",
+            "Proteobacteria_bacterium_CAG_139",
+            "Parasutterella gallistercoris"
+        ],
+        "cohort_merged__DRR171476__k141_126381::26::28121::28438::+": [
+            "msp_024",
+            "shared_accessory",
+            "Proteobacteria_bacterium_CAG_139",
+            "Parasutterella gallistercoris"
+        ],
+        "cohort_merged__DRR127485__k141_279363::6::3277::5163::+": [
+            "msp_112",
+            "shared_accessory",
+            "Proteobacteria_bacterium_CAG_139",
+            "Parasutterella gallistercoris"
+        ],
+        "cohort_merged__DRR127537__k141_62125::42::42842::43690::+": [
+            "msp_140",
+            "core",
+            "Proteobacteria_bacterium_CAG_139",
+            "Parasutterella gallistercoris"
+        ],
+        "cohort_merged__DRR171548__k141_70052::2::1728::2441::+": [
+            "msp_026",
+            "shared_accessory",
+            "Proteobacteria_bacterium_CAG_139",
+            "Parasutterella gallistercoris"
+        ],
+        "cohort_merged__DRR127537__k141_62125::44::44588::46474::+": [
+            "msp_140",
+            "core",
+            "Proteobacteria_bacterium_CAG_139",
+            "Parasutterella gallistercoris"
+        ],
+        "cohort_merged__DRR127579__k141_56146::2::439::1116::-": [
+            "msp_001",
+            "shared_accessory",
+            "Proteobacteria_bacterium_CAG_139",
+            "Parasutterella gallistercoris"
+        ],
+        "cohort_merged__DRR127488__k141_72546::8::4631::4828::+": [
+            "msp_054",
+            "accessory",
+            "Proteobacteria_bacterium_CAG_139",
+            "Parasutterella gallistercoris"
+        ],
+        "cohort_merged__DRR171673__k141_158232::4::5814::6152::+": [
+            "msp_024",
+            "accessory",
+            "Proteobacteria_bacterium_CAG_139",
+            "Parasutterella gallistercoris"
+        ],
+        "cohort_merged__DRR127683__k141_24380::3::1537::2811::+": [
+            "msp_001",
+            "shared_accessory",
+            "Proteobacteria_bacterium_CAG_139",
+            "Parasutterella gallistercoris"
+        ],
+        "cohort_merged__DRR127537__k141_62125::45::46670::48412::+": [
+            "msp_140",
+            "shared_accessory",
+            "Proteobacteria_bacterium_CAG_139",
+            "Parasutterella gallistercoris"
+        ],
+        "cohort_merged__DRR127579__k141_16443::2::875::1678::-": [
+            "msp_001",
+            "shared_accessory",
+            "Proteobacteria_bacterium_CAG_139",
+            "Parasutterella gallistercoris"
+        ],
+        "cohort_merged__DRR127514__k141_99193::8::4975::5394::+": [
+            "msp_001",
+            "shared_accessory",
+            "Proteobacteria_bacterium_CAG_139",
+            "Parasutterella gallistercoris"
+        ]
+    }
+]

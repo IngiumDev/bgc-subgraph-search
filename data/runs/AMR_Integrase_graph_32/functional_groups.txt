@@ -1,0 +1,3 @@
+protein_id	ElementSymbol
+cohort_merged__DRR171524__k141_87375::3::1800::2579::+	Integrase core domain
+cohort_merged__DRR171914__k141_79209::6::5618::6514::-	Integrase core domain

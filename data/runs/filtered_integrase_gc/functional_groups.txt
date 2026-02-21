@@ -1,0 +1,124 @@
+protein_id	ElementSymbol
+cohort_merged__DRR127478__k141_61374::44::55692::56984::-	Phage integrase family
+cohort_merged__DRR127476__k141_88675::42::55176::56636::-	Phage int SAM-like domain
+cohort_merged__DRR127478__k141_16960::15::13446::14360::+	Conjugative transposon protein TcpC
+cohort_merged__DRR171483__k141_40180::3::2255::2626::-	Transposon-encoded protein TnpV
+cohort_merged__DRR171545__k141_83181::9::5595::6905::+	Phage integrase family
+cohort_merged__DRR127476__k141_93760::2::609::803::+	Transposon-encoded protein TnpW
+cohort_merged__DRR127476__k141_238152::12::8437::8745::+	Conjugative transposon TraL
+cohort_merged__DRR127514__k141_78340::4::1291::2412::+	Phage integrase family
+cohort_merged__DRR127476__k141_52156::2::415::666::+	Putative transposon-transfer assisting
+cohort_merged__DRR171464__k141_129886::9::4183::5295::+	Phage int, N-term SAM-like domain;Phage integrase family
+cohort_merged__DRR127588__k141_38098::1::102::446::-	Phage integrase family
+cohort_merged__DRR171612__k141_51055::2::324::1166::+	Phage int, N-term SAM-like domain;Phage integrase family
+cohort_merged__DRR127517__k141_120806::2::773::979::+	Putative transposon-transfer assisting
+cohort_merged__DRR171472__k141_4106::2::2600::3595::-	Phage integrase family
+cohort_merged__DRR171906__k141_12006::5::4541::5890::-	Phage int SAM-like domain;Phage integrase family
+cohort_merged__DRR127478__k141_69807::3::1382::2677::-	Phage integrase family
+cohort_merged__DRR127596__k141_35060::4::2685::3038::+	Transposon-encoded protein TnpV
+cohort_merged__DRR127476__k141_196963::10::9529::10671::-	Conjugative transposon, TraM
+cohort_merged__DRR127478__k141_86199::35::50403::51521::+	Phage int SAM-like domain;Phage integrase family
+cohort_merged__DRR171799__k141_9235::31::22885::23901::-	Conjugative transposon TraJ
+cohort_merged__DRR127521__k141_16548::3::2147::3430::+	Phage int SAM-like domain;Phage integrase family
+cohort_merged__DRR171706__k141_104924::2::927::2168::-	DNA binding domain of tn916 int;Phage integrase family
+cohort_merged__DRR171856__k141_84766::2::579::788::+	Putative transposon-transfer assisting
+cohort_merged__DRR127478__k141_78605::2::874::1788::-	Phage int, N-term SAM-like domain;Phage integrase family
+cohort_merged__DRR127649__k141_16826::24::24061::25167::-	Phage int SAM-like domain;Phage integrase family
+cohort_merged__DRR127625__k141_50784::5::1670::1891::+	Transposon-encoded protein TnpV
+cohort_merged__DRR127692__k141_120260::3::1906::2277::-	Transposon-encoded protein TnpV
+cohort_merged__DRR127476__k141_310::3::746::1657::-	Conjugative transposon protein TcpC
+cohort_merged__DRR171528__k141_168634::3::1501::1704::+	Putative transposon-transfer assisting
+cohort_merged__DRR171804__k141_87859::15::15284::16525::+	Phage integrase family
+cohort_merged__DRR127509__k141_51144::2::591::812::-	Transposon-encoded protein TnpV
+cohort_merged__DRR127532__k141_25284::11::7173::8471::+	Phage integrase family
+cohort_merged__DRR171572__k141_40088::3::665::1882::+	Phage integrase family
+cohort_merged__DRR127485__k141_41160::2::158::331::-	Transposon-encoded protein TnpW
+cohort_merged__DRR127546__k141_62850::5::3403::4617::-	Phage int SAM-like domain
+cohort_merged__DRR171480__k141_39904::14::15879::17105::+	Phage int SAM-like domain;Phage integrase family
+cohort_merged__DRR171658__k141_71550::1::56::268::-	Excisionase from transposon Tn916
+cohort_merged__DRR127721__k141_25371::18::15939::17084::-	Phage int SAM-like domain;Phage integrase family
+cohort_merged__DRR127481__k141_27946::24::16823::17974::-	Conjugative transposon, TraM
+cohort_merged__DRR127597__k141_54598::2::460::1704::+	Phage int SAM-like domain;Phage integrase family
+cohort_merged__DRR127625__k141_80758::13::23520::23726::+	Putative transposon-transfer assisting
+cohort_merged__DRR171529__k141_41938::18::16052::16324::-	Transposon-encoded protein TnpW
+cohort_merged__DRR127579__k141_8523::5::3657::4103::-	Integrase core domain
+cohort_merged__DRR171487__k141_63443::11::9335::10567::+	Phage int SAM-like domain;Phage integrase family
+cohort_merged__DRR171496__k141_22054::22::22180::23340::+	Phage int SAM-like domain;Phage integrase family
+cohort_merged__DRR127481__k141_76672::24::17606::18517::-	Conjugative transposon protein TcpC
+cohort_merged__DRR162777__k141_34267::12::8334::8948::+	Phage integrase family
+cohort_merged__DRR127481__k141_21763::1::84::461::-	Transposon-encoded protein TnpV
+cohort_merged__DRR127476__k141_158563::3::1489::2658::-	Phage int SAM-like domain;Phage integrase family
+cohort_merged__DRR127476__k141_103782::2::1322::1525::-	Transposon-encoded protein TnpW
+cohort_merged__DRR127521__k141_46997::7::4925::6154::-	Phage int SAM-like domain;Phage integrase family
+cohort_merged__DRR127685__k141_149989::19::19897::20106::+	Putative transposon-transfer assisting
+cohort_merged__DRR171970__k141_86639::3::1696::3117::+	Phage int SAM-like domain;Phage integrase family
+cohort_merged__DRR127481__k141_15218::1::307::1320::+	Phage int SAM-like domain;Phage integrase family
+cohort_merged__DRR127583__k141_86249::1::56::433::+	Transposon-encoded protein TnpV
+cohort_merged__DRR127476__k141_162137::3::1984::2166::-	Transposon-encoded protein TnpW
+cohort_merged__DRR127476__k141_7936::2::2049::3281::+	Phage int SAM-like domain;Phage integrase family
+cohort_merged__DRR171470__k141_59375::3::958::1245::+	Excisionase from transposon Tn916
+cohort_merged__DRR127485__k141_183481::19::14460::14648::-	Transposon-encoded protein TnpW
+cohort_merged__DRR127628__k141_95490::74::72588::73802::-	Phage integrase family
+cohort_merged__DRR127532__k141_91911::5::3119::3493::-	Transposon-encoded protein TnpV
+cohort_merged__DRR127476__k141_162797::36::37622::38758::+	Phage integrase family
+cohort_merged__DRR127478__k141_59712::2::2576::2821::+	Putative transposon-transfer assisting
+cohort_merged__DRR127476__k141_92433::3::1327::1584::-	Transposon-encoded protein TnpV
+cohort_merged__DRR127704__k141_86406::10::9250::9459::+	Putative transposon-transfer assisting
+cohort_merged__DRR171470__k141_59375::4::1364::2548::+	Phage integrase family
+cohort_merged__DRR127708__k141_138345::2::157::408::-	Putative transposon-transfer assisting
+cohort_merged__DRR171470__k141_120118::3::796::1479::+	Phage integrase family
+cohort_merged__DRR171914__k141_79209::6::5618::6514::-	Integrase core domain
+cohort_merged__DRR171511__k141_49338::10::7169::8338::-	Phage int SAM-like domain;Phage integrase family
+cohort_merged__DRR127603__k141_135413::22::19744::20559::+	Phage integrase family
+cohort_merged__DRR127476__k141_204801::5::2316::2891::-	Conjugative transposon TraO
+cohort_merged__DRR127728__k141_40747::4::3288::4667::+	Phage int SAM-like domain;Phage integrase family
+cohort_merged__DRR127777__k141_154186::64::60291::61154::+	Phage integrase family
+cohort_merged__DRR127481__k141_46652::3::1661::2737::-	Phage integrase family
+cohort_merged__DRR127515__k141_152866::6::2570::2920::+	Transposon-encoded protein TnpV
+cohort_merged__DRR127476__k141_73424::6::4601::5818::+	DNA binding domain of tn916 int;Phage integrase family
+cohort_merged__DRR171637__k141_23781::1::54::434::-	Transposon-encoded protein TnpV
+cohort_merged__DRR127476__k141_198411::1::887::2170::+	Phage int SAM-like domain;Phage integrase family
+cohort_merged__DRR127476__k141_28043::2::377::565::+	Transposon-encoded protein TnpW
+cohort_merged__DRR127476__k141_3455::5::1900::2220::+	Putative transposon-transfer assisting
+cohort_merged__DRR127476__k141_167527::2::1066::1443::-	Transposon-encoded protein TnpV
+cohort_merged__DRR171649__k141_33829::2::878::2089::-	DNA binding domain of tn916 int;Phage integrase family
+cohort_merged__DRR171679__k141_38068::9::18309::19478::+	Phage int SAM-like domain;Phage integrase family
+cohort_merged__DRR127476__k141_196963::3::2314::3522::-	Phage int SAM-like domain;Phage integrase family
+cohort_merged__DRR127532__k141_17293::3::2533::3279::+	Phage int, N-term SAM-like domain;Phage integrase family
+cohort_merged__DRR171507__k141_3541::16::13601::13810::+	Transposon-encoded protein TnpW
+cohort_merged__DRR127476__k141_171072::12::10397::11728::-	Phage int SAM-like domain;Phage integrase family
+cohort_merged__DRR171566__k141_113472::4::3394::4791::+	Phage int SAM-like domain;Phage integrase family
+cohort_merged__DRR127476__k141_52818::3::1822::1995::+	Transposon-encoded protein TnpW
+cohort_merged__DRR127521__k141_18158::14::12185::12343::-	Transposon-encoded protein TnpW
+cohort_merged__DRR127478__k141_26121::38::45102::46331::+	Phage int SAM-like domain;Phage integrase family
+cohort_merged__DRR127476__k141_20520::8::10873::11856::+	Phage integrase family
+cohort_merged__DRR127617__k141_98367::1::257::1087::-	Integrase core domain
+cohort_merged__DRR127476__k141_98145::6::5468::6700::-	Phage int SAM-like domain;Phage integrase family
+cohort_merged__DRR127476__k141_73424::5::4316::4519::+	Excisionase from transposon Tn916
+cohort_merged__DRR127724__k141_12261::9::4794::5072::-	Transposon-encoded protein TnpV
+cohort_merged__DRR127521__k141_16548::2::881::2134::+	Phage int SAM-like domain;Phage integrase family
+cohort_merged__DRR172018__k141_91786::8::4440::4847::+	Transposon-encoded protein TnpV
+cohort_merged__DRR171701__k141_85804::8::3932::5299::-	Conjugative transposon, TraM
+cohort_merged__DRR127478__k141_43333::2::338::526::-	Transposon-encoded protein TnpW
+cohort_merged__DRR127514__k141_21221::2::439::666::-	Putative transposon-transfer assisting
+cohort_merged__DRR171908__k141_115444::23::27680::28063::-	Integrase core domain
+cohort_merged__DRR127634__k141_19441::17::21336::22037::+	Phage int SAM-like domain;Phage integrase family
+cohort_merged__DRR127521__k141_86765::31::30667::32058::+	Phage int SAM-like domain;Phage integrase family
+cohort_merged__DRR127514__k141_16134::5::1647::1814::-	Transposon-encoded protein TnpW
+cohort_merged__DRR127708__k141_31418::2::538::789::+	Putative transposon-transfer assisting
+cohort_merged__DRR127616__k141_120020::2::1915::2220::+	Transposon-encoded protein TnpV
+cohort_merged__DRR171547__k141_15375::3::852::1775::-	Conjugative transposon protein TcpC
+cohort_merged__DRR171465__k141_71402::4::13664::13894::+	Putative transposon-transfer assisting
+cohort_merged__DRR127707__k141_108264::2::416::1219::-	Phage integrase family
+cohort_merged__DRR127580__k141_28887::2::876::2108::-	Phage int SAM-like domain;Phage integrase family
+cohort_merged__DRR127756__k141_17005::16::22529::23818::-	Phage integrase family
+cohort_merged__DRR127724__k141_10315::1::123::329::-	Excisionase from transposon Tn916
+cohort_merged__DRR127507__k141_19534::2::323::697::+	Transposon-encoded protein TnpV
+cohort_merged__DRR127579__k141_13902::12::10096::11031::-	Conjugative transposon protein TcpC
+cohort_merged__DRR171575__k141_80342::1::48::260::-	Excisionase from transposon Tn916
+cohort_merged__DRR127488__k141_105670::9::6439::7671::+	DNA binding domain of tn916 int;Phage integrase family
+cohort_merged__DRR127476__k141_20520::9::11837::12850::+	Phage integrase family
+cohort_merged__DRR171521__k141_115477::6::3326::4087::+	Phage int, N-term SAM-like domain;Phage integrase family
+cohort_merged__DRR127646__k141_60604::2::631::873::+	Transposon-encoded protein TnpV
+cohort_merged__DRR171524__k141_87375::3::1800::2579::+	Integrase core domain
+cohort_merged__DRR127721__k141_25371::19::17053::18273::-	Phage int SAM-like domain;Phage integrase family

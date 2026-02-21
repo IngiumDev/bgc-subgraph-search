@@ -1,0 +1,82 @@
+[
+    {
+        "cohort_merged__DRR127546__k141_40645::69::78521::79249::-": [
+            "msp_035",
+            "shared_accessory",
+            "Alistipes_putredinis",
+            "Alistipes"
+        ],
+        "cohort_merged__DRR171480__k141_39904::14::15879::17105::+": [
+            "msp_035",
+            "accessory",
+            "Alistipes_putredinis",
+            "Alistipes"
+        ],
+        "cohort_merged__DRR127485__k141_7646::156::186319::186891::+": [
+            "msp_035",
+            "accessory",
+            "Alistipes_putredinis",
+            "Alistipes"
+        ],
+        "cohort_merged__DRR127485__k141_7646::146::173241::173498::+": [
+            "msp_035",
+            "accessory",
+            "Alistipes_putredinis",
+            "Alistipes"
+        ],
+        "cohort_merged__DRR127481__k141_15396::1::439::1644::-": [
+            "msp_035",
+            "shared_core",
+            "Alistipes_putredinis",
+            "Alistipes"
+        ],
+        "cohort_merged__DRR171479__k141_58510::12::15182::16576::-": [
+            "msp_035",
+            "shared_accessory",
+            "Alistipes_putredinis",
+            "Alistipes"
+        ],
+        "cohort_merged__DRR171480__k141_39904::16::17694::19337::-": [
+            "msp_035",
+            "accessory",
+            "Alistipes_putredinis",
+            "Alistipes"
+        ],
+        "cohort_merged__DRR127476__k141_62283::5::4381::5613::+": [
+            "msp_035",
+            "shared_accessory",
+            "Alistipes_putredinis",
+            "Alistipes"
+        ],
+        "cohort_merged__DRR171885__k141_153563::17::21276::22313::+": [
+            "msp_035",
+            "shared_accessory",
+            "Alistipes_putredinis",
+            "Alistipes"
+        ],
+        "cohort_merged__DRR171480__k141_39904::20::23320::23937::+": [
+            "msp_035",
+            "shared_core",
+            "Alistipes_putredinis",
+            "Alistipes"
+        ],
+        "cohort_merged__DRR127476__k141_62283::4::3341::4222::+": [
+            "msp_035",
+            "accessory",
+            "Alistipes_putredinis",
+            "Alistipes"
+        ],
+        "cohort_merged__DRR171969__k141_160193::11::9793::11106::+": [
+            "msp_035",
+            "shared_accessory",
+            "Alistipes_putredinis",
+            "Alistipes"
+        ],
+        "cohort_merged__DRR127476__k141_211558::4::5576::5731::+": [
+            "msp_035",
+            "accessory",
+            "Alistipes_putredinis",
+            "Alistipes"
+        ]
+    }
+]
