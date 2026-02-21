@@ -1,0 +1,618 @@
+[
+    {
+        "cohort_merged__DRR127708__k141_128467::7::13359::18155::+": [
+            "msp_001",
+            "shared_accessory",
+            "Escherichia_coli",
+            "Escherichia"
+        ],
+        "cohort_merged__DRR127521__k141_96221::2::704::952::-": [
+            "msp_001",
+            "shared_accessory",
+            "Escherichia_coli",
+            "Escherichia"
+        ],
+        "cohort_merged__DRR127524__k141_98854::2::410::1276::+": [
+            "msp_001",
+            "shared_accessory",
+            "Escherichia_coli",
+            "Escherichia"
+        ],
+        "cohort_merged__DRR127521__k141_16415::1::19::285::-": [
+            "msp_001",
+            "shared_accessory",
+            "Escherichia_coli",
+            "Escherichia"
+        ],
+        "cohort_merged__DRR127708__k141_128467::2::7155::9755::+": [
+            "msp_001",
+            "shared_accessory",
+            "Escherichia_coli",
+            "Escherichia"
+        ],
+        "cohort_merged__DRR171459__k141_74205::48::48401::58021::+": [
+            "msp_039",
+            "shared_accessory",
+            "Escherichia_coli",
+            "Escherichia"
+        ],
+        "cohort_merged__DRR127708__k141_128467::6::12043::13311::+": [
+            "msp_001",
+            "shared_accessory",
+            "Escherichia_coli",
+            "Escherichia"
+        ],
+        "cohort_merged__DRR127708__k141_128467::8::18205::21237::+": [
+            "msp_001",
+            "shared_accessory",
+            "Escherichia_coli",
+            "Escherichia"
+        ],
+        "cohort_merged__DRR127524__k141_98854::4::1558::2688::+": [
+            "msp_001",
+            "shared_accessory",
+            "Escherichia_coli",
+            "Escherichia"
+        ],
+        "cohort_merged__DRR127521__k141_16415::2::431::1165::-": [
+            "msp_001",
+            "shared_accessory",
+            "Escherichia_coli",
+            "Escherichia"
+        ]
+    },
+    {
+        "cohort_merged__DRR127649__k141_7350::18::18324::20120::+": [
+            "msp_155",
+            "shared_core",
+            "NA",
+            "UBA1394 sp900538575"
+        ],
+        "cohort_merged__DRR127649__k141_7350::8::9087::9782::+": [
+            "msp_155",
+            "shared_accessory",
+            "NA",
+            "UBA1394 sp900538575"
+        ],
+        "cohort_merged__DRR127649__k141_7350::16::15946::17058::+": [
+            "msp_155",
+            "shared_core",
+            "NA",
+            "UBA1394 sp900538575"
+        ],
+        "cohort_merged__DRR127649__k141_7350::9::9809::11185::+": [
+            "msp_155",
+            "shared_accessory",
+            "NA",
+            "UBA1394 sp900538575"
+        ],
+        "cohort_merged__DRR127649__k141_7350::20::21946::23163::+": [
+            "msp_155",
+            "core",
+            "NA",
+            "UBA1394 sp900538575"
+        ],
+        "cohort_merged__DRR127649__k141_7350::13::13568::14644::+": [
+            "msp_155",
+            "accessory",
+            "NA",
+            "UBA1394 sp900538575"
+        ],
+        "cohort_merged__DRR127649__k141_7350::17::17093::18112::+": [
+            "msp_155",
+            "core",
+            "NA",
+            "UBA1394 sp900538575"
+        ],
+        "cohort_merged__DRR127649__k141_7350::5::3677::4951::+": [
+            "msp_155",
+            "core",
+            "NA",
+            "UBA1394 sp900538575"
+        ],
+        "cohort_merged__DRR127481__k141_75829::1::14::271::-": [
+            "msp_155",
+            "accessory",
+            "NA",
+            "UBA1394 sp900538575"
+        ],
+        "cohort_merged__DRR127649__k141_7350::19::20107::21885::+": [
+            "msp_155",
+            "core",
+            "NA",
+            "UBA1394 sp900538575"
+        ],
+        "cohort_merged__DRR127649__k141_7350::6::4952::8602::+": [
+            "msp_155",
+            "shared_core",
+            "NA",
+            "UBA1394 sp900538575"
+        ],
+        "cohort_merged__DRR171545__k141_102907::2::913::1614::+": [
+            "msp_155",
+            "core",
+            "NA",
+            "UBA1394 sp900538575"
+        ],
+        "cohort_merged__DRR127649__k141_7350::4::2635::3588::+": [
+            "msp_155",
+            "accessory",
+            "NA",
+            "UBA1394 sp900538575"
+        ],
+        "cohort_merged__DRR127649__k141_7350::7::8603::9097::+": [
+            "msp_155",
+            "shared_core",
+            "NA",
+            "UBA1394 sp900538575"
+        ],
+        "cohort_merged__DRR127649__k141_7350::3::1820::2638::+": [
+            "msp_155",
+            "shared_core",
+            "NA",
+            "UBA1394 sp900538575"
+        ],
+        "cohort_merged__DRR127649__k141_7350::11::12487::13308::+": [
+            "msp_155",
+            "core",
+            "NA",
+            "UBA1394 sp900538575"
+        ],
+        "cohort_merged__DRR127649__k141_7350::2::671::1813::+": [
+            "msp_155",
+            "shared_core",
+            "NA",
+            "UBA1394 sp900538575"
+        ],
+        "cohort_merged__DRR127649__k141_7350::10::11189::12367::+": [
+            "msp_155",
+            "shared_accessory",
+            "NA",
+            "UBA1394 sp900538575"
+        ],
+        "cohort_merged__DRR127649__k141_7350::14::14657::15502::+": [
+            "msp_155",
+            "core",
+            "NA",
+            "UBA1394 sp900538575"
+        ]
+    },
+    {
+        "cohort_merged__DRR171588__k141_136979::2::623::1423::+": [
+            "msp_227",
+            "core",
+            "NA",
+            "Phil1 sp001940855"
+        ],
+        "cohort_merged__DRR171604__k141_42445::76::72639::73745::+": [
+            "msp_227",
+            "core",
+            "NA",
+            "Phil1 sp001940855"
+        ],
+        "cohort_merged__DRR171588__k141_148183::8::8497::9774::+": [
+            "msp_227",
+            "accessory",
+            "NA",
+            "Phil1 sp001940855"
+        ],
+        "cohort_merged__DRR171604__k141_42445::74::70637::71809::+": [
+            "msp_227",
+            "core",
+            "NA",
+            "Phil1 sp001940855"
+        ],
+        "cohort_merged__DRR171588__k141_148183::12::12982::13836::+": [
+            "msp_227",
+            "core",
+            "NA",
+            "Phil1 sp001940855"
+        ],
+        "cohort_merged__DRR171588__k141_148183::5::6002::6397::+": [
+            "msp_227",
+            "core",
+            "NA",
+            "Phil1 sp001940855"
+        ],
+        "cohort_merged__DRR171588__k141_148183::7::7346::8386::+": [
+            "msp_227",
+            "accessory",
+            "NA",
+            "Phil1 sp001940855"
+        ],
+        "cohort_merged__DRR171750__k141_181406::24::27878::28708::+": [
+            "msp_227",
+            "accessory",
+            "NA",
+            "Phil1 sp001940855"
+        ],
+        "cohort_merged__DRR171588__k141_82930::2::435::812::-": [
+            "msp_227",
+            "accessory",
+            "NA",
+            "Phil1 sp001940855"
+        ],
+        "cohort_merged__DRR171588__k141_148183::4::4869::5549::+": [
+            "msp_227",
+            "core",
+            "NA",
+            "Phil1 sp001940855"
+        ],
+        "cohort_merged__DRR171604__k141_42445::79::74744::75199::+": [
+            "msp_227",
+            "accessory",
+            "NA",
+            "Phil1 sp001940855"
+        ],
+        "cohort_merged__DRR171588__k141_148183::2::1452::2468::+": [
+            "msp_227",
+            "core",
+            "NA",
+            "Phil1 sp001940855"
+        ],
+        "cohort_merged__DRR171588__k141_148183::11::12199::12975::+": [
+            "msp_227",
+            "core",
+            "NA",
+            "Phil1 sp001940855"
+        ],
+        "cohort_merged__DRR171588__k141_148183::9::9849::11408::+": [
+            "msp_227",
+            "core",
+            "NA",
+            "Phil1 sp001940855"
+        ],
+        "cohort_merged__DRR171588__k141_141977::2::1424::2062::+": [
+            "msp_227",
+            "core",
+            "NA",
+            "Phil1 sp001940855"
+        ],
+        "cohort_merged__DRR171588__k141_148183::3::2529::4493::-": [
+            "msp_227",
+            "shared_core",
+            "NA",
+            "Phil1 sp001940855"
+        ],
+        "cohort_merged__DRR171604__k141_42445::60::55196::56557::+": [
+            "msp_227",
+            "accessory",
+            "NA",
+            "Phil1 sp001940855"
+        ],
+        "cohort_merged__DRR171588__k141_148183::10::11405::12196::+": [
+            "msp_227",
+            "core",
+            "NA",
+            "Phil1 sp001940855"
+        ],
+        "cohort_merged__DRR171588__k141_148183::1::41::1234::+": [
+            "msp_227",
+            "accessory",
+            "NA",
+            "Phil1 sp001940855"
+        ],
+        "cohort_merged__DRR171604__k141_42445::57::49885::52848::-": [
+            "msp_227",
+            "accessory",
+            "NA",
+            "Phil1 sp001940855"
+        ],
+        "cohort_merged__DRR171604__k141_42445::58::52872::54203::-": [
+            "msp_227",
+            "core",
+            "NA",
+            "Phil1 sp001940855"
+        ]
+    },
+    {
+        "cohort_merged__DRR127708__k141_134047::2::2726::4189::+": [
+            "msp_001",
+            "shared_accessory",
+            "Escherichia_coli",
+            "Escherichia"
+        ],
+        "cohort_merged__DRR127476__k141_104274::448::486498::487448::+": [
+            "msp_001",
+            "shared_accessory",
+            "Escherichia_coli",
+            "Escherichia"
+        ],
+        "cohort_merged__DRR127559__k141_101385::3::2230::6597::+": [
+            "msp_039",
+            "shared_accessory",
+            "Escherichia_coli",
+            "Escherichia"
+        ],
+        "cohort_merged__DRR171459__k141_76161::5::8939::11398::+": [
+            "msp_039",
+            "shared_accessory",
+            "Escherichia_coli",
+            "Escherichia"
+        ],
+        "cohort_merged__DRR127708__k141_4706::2::929::2443::+": [
+            "msp_001",
+            "shared_accessory",
+            "Escherichia_coli",
+            "Escherichia"
+        ],
+        "cohort_merged__DRR127524__k141_39322::2::360::1082::-": [
+            "msp_001",
+            "shared_accessory",
+            "Escherichia_coli",
+            "Escherichia"
+        ],
+        "cohort_merged__DRR127521__k141_82442::2::570::1082::+": [
+            "msp_001",
+            "shared_accessory",
+            "Escherichia_coli",
+            "Escherichia"
+        ],
+        "cohort_merged__DRR171459__k141_76161::10::16230::17969::-": [
+            "msp_039",
+            "shared_accessory",
+            "Escherichia_coli",
+            "Escherichia"
+        ],
+        "cohort_merged__DRR127537__k141_9593::51::45928::47415::+": [
+            "msp_001",
+            "shared_accessory",
+            "Escherichia_coli",
+            "Escherichia"
+        ],
+        "cohort_merged__DRR127559__k141_89026::3::708::1979::-": [
+            "msp_001",
+            "shared_accessory",
+            "Escherichia_coli",
+            "Escherichia"
+        ],
+        "cohort_merged__DRR127559__k141_101385::2::794::2233::+": [
+            "msp_001",
+            "shared_accessory",
+            "Escherichia_coli",
+            "Escherichia"
+        ],
+        "cohort_merged__DRR127476__k141_104274::450::489838::490554::-": [
+            "msp_001",
+            "shared_accessory",
+            "Escherichia_coli",
+            "Escherichia"
+        ]
+    },
+    {
+        "cohort_merged__DRR127478__k141_39181::3::1597::2034::-": [
+            "msp_036",
+            "shared_core",
+            "NA",
+            "Mediterraneibacter"
+        ],
+        "cohort_merged__DRR171460__k141_27123::6::2284::2724::+": [
+            "msp_014",
+            "shared_accessory",
+            "NA",
+            "Mediterraneibacter"
+        ],
+        "cohort_merged__DRR127509__k141_99110::6::3121::4470::+": [
+            "msp_036",
+            "shared_accessory",
+            "NA",
+            "Mediterraneibacter"
+        ],
+        "cohort_merged__DRR127485__k141_198976::2::188::580::-": [
+            "msp_011",
+            "accessory",
+            "NA",
+            "Mediterraneibacter"
+        ],
+        "cohort_merged__DRR127488__k141_54833::3::998::1684::-": [
+            "msp_014",
+            "accessory",
+            "NA",
+            "Mediterraneibacter"
+        ],
+        "cohort_merged__DRR127603__k141_41137::2::284::772::+": [
+            "msp_014",
+            "accessory",
+            "NA",
+            "Mediterraneibacter"
+        ],
+        "cohort_merged__DRR127488__k141_62208::2::164::736::-": [
+            "msp_014",
+            "accessory",
+            "NA",
+            "Mediterraneibacter"
+        ],
+        "cohort_merged__DRR171588__k141_57110::13::9454::9681::-": [
+            "msp_023",
+            "shared_accessory",
+            "NA",
+            "Mediterraneibacter"
+        ],
+        "cohort_merged__DRR171701__k141_34969::2::534::872::+": [
+            "msp_036",
+            "shared_accessory",
+            "NA",
+            "Mediterraneibacter"
+        ],
+        "cohort_merged__DRR172008__k141_57445::4::5811::6092::-": [
+            "msp_011",
+            "shared_accessory",
+            "NA",
+            "Mediterraneibacter"
+        ],
+        "cohort_merged__DRR127481__k141_13938::2::999::1394::-": [
+            "msp_133",
+            "shared_accessory",
+            "NA",
+            "Mediterraneibacter"
+        ],
+        "cohort_merged__DRR127478__k141_39181::6::4085::5005::-": [
+            "msp_036",
+            "shared_core",
+            "NA",
+            "Mediterraneibacter"
+        ],
+        "cohort_merged__DRR127491__k141_98524::43::45351::46796::-": [
+            "msp_016",
+            "shared_accessory",
+            "NA",
+            "Mediterraneibacter"
+        ],
+        "cohort_merged__DRR171952__k141_10988::2::300::719::+": [
+            "msp_023",
+            "shared_accessory",
+            "NA",
+            "Mediterraneibacter"
+        ],
+        "cohort_merged__DRR127762__k141_167789::1::109::894::-": [
+            "msp_081",
+            "shared_accessory",
+            "NA",
+            "Mediterraneibacter"
+        ],
+        "cohort_merged__DRR127583__k141_43463::2::483::1298::+": [
+            "msp_036",
+            "accessory",
+            "NA",
+            "Mediterraneibacter"
+        ],
+        "cohort_merged__DRR127488__k141_142482::3::1217::2227::-": [
+            "msp_102",
+            "shared_core",
+            "NA",
+            "Mediterraneibacter"
+        ],
+        "cohort_merged__DRR127481__k141_11647::5::2649::3065::-": [
+            "msp_133",
+            "shared_accessory",
+            "NA",
+            "Mediterraneibacter"
+        ],
+        "cohort_merged__DRR171586__k141_38831::6::5743::7149::+": [
+            "msp_016",
+            "shared_accessory",
+            "NA",
+            "Mediterraneibacter"
+        ],
+        "cohort_merged__DRR171466__k141_1533::2::200::652::-": [
+            "msp_036",
+            "shared_accessory",
+            "NA",
+            "Mediterraneibacter"
+        ],
+        "cohort_merged__DRR171696__k141_55127::2::148::495::-": [
+            "msp_036",
+            "shared_accessory",
+            "NA",
+            "Mediterraneibacter"
+        ],
+        "cohort_merged__DRR127509__k141_111749::1::244::471::-": [
+            "msp_036",
+            "accessory",
+            "NA",
+            "Mediterraneibacter"
+        ],
+        "cohort_merged__DRR127488__k141_54833::4::1718::2266::-": [
+            "msp_014",
+            "accessory",
+            "NA",
+            "Mediterraneibacter"
+        ],
+        "cohort_merged__DRR127478__k141_39181::7::4998::6002::-": [
+            "msp_036",
+            "core",
+            "NA",
+            "Mediterraneibacter"
+        ],
+        "cohort_merged__DRR127559__k141_50079::2::397::1065::-": [
+            "msp_133",
+            "shared_accessory",
+            "NA",
+            "Mediterraneibacter"
+        ],
+        "cohort_merged__DRR127488__k141_51489::2::1139::2740::-": [
+            "msp_016",
+            "accessory",
+            "NA",
+            "Mediterraneibacter"
+        ],
+        "cohort_merged__DRR127774__k141_90260::4::2225::3256::+": [
+            "msp_011",
+            "shared_accessory",
+            "NA",
+            "Mediterraneibacter"
+        ],
+        "cohort_merged__DRR127619__k141_32344::1::108::1382::+": [
+            "msp_036",
+            "core",
+            "NA",
+            "Mediterraneibacter"
+        ],
+        "cohort_merged__DRR171552__k141_11821::2::276::791::+": [
+            "msp_023",
+            "shared_accessory",
+            "NA",
+            "Mediterraneibacter"
+        ],
+        "cohort_merged__DRR127478__k141_39181::9::6332::7387::-": [
+            "msp_036",
+            "shared_accessory",
+            "NA",
+            "Mediterraneibacter"
+        ],
+        "cohort_merged__DRR127478__k141_61854::5::2743::3126::+": [
+            "msp_036",
+            "accessory",
+            "NA",
+            "Mediterraneibacter"
+        ],
+        "cohort_merged__DRR127507__k141_23157::4::2798::4267::+": [
+            "msp_276",
+            "shared_accessory",
+            "NA",
+            "Mediterraneibacter"
+        ],
+        "cohort_merged__DRR127485__k141_213568::4::1535::1684::-": [
+            "msp_023",
+            "accessory",
+            "NA",
+            "Mediterraneibacter"
+        ],
+        "cohort_merged__DRR127603__k141_41137::3::862::1092::+": [
+            "msp_014",
+            "accessory",
+            "NA",
+            "Mediterraneibacter"
+        ],
+        "cohort_merged__DRR171495__k141_79826::52::54415::54666::+": [
+            "msp_133",
+            "accessory",
+            "NA",
+            "Mediterraneibacter"
+        ],
+        "cohort_merged__DRR171540__k141_23421::3::863::1948::+": [
+            "msp_054",
+            "shared_accessory",
+            "NA",
+            "Mediterraneibacter"
+        ],
+        "cohort_merged__DRR171519__k141_64112::2::1399::2685::-": [
+            "msp_016",
+            "shared_accessory",
+            "NA",
+            "Mediterraneibacter"
+        ],
+        "cohort_merged__DRR171755__k141_86881::12::10206::10571::+": [
+            "msp_133",
+            "shared_accessory",
+            "NA",
+            "Mediterraneibacter"
+        ],
+        "cohort_merged__DRR127478__k141_56430::4::1475::2293::-": [
+            "msp_043",
+            "shared_accessory",
+            "NA",
+            "Mediterraneibacter"
+        ]
+    }
+]
