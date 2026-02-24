@@ -50,7 +50,7 @@ def compare_fg_to_gc():
     ax.set_yscale("log")
     plt.tight_layout()
     plt.xticks(rotation=45)
-    plt.savefig("./plots/comp_search.png", dpi=300)
+    plt.savefig("./colibactin_plots/comp_search.png", dpi=300)
 
 
 def plot_gc_gain_vs_domain_complexity():
@@ -130,7 +130,7 @@ def plot_gc_gain_vs_domain_complexity():
 
 
     plt.tight_layout()
-    plt.savefig("./plots/sum_gain.png", dpi=300)
+    plt.savefig("./colibactin_plots/sum_gain.png", dpi=300)
     plt.close()
 
 
@@ -168,7 +168,7 @@ def analyze_graphs():
             frameon=False
         )
         plt.tight_layout()
-        plt.savefig(f"./plots/{search_type}_numdomains_per_graph.png", dpi=300)
+        plt.savefig(f"./colibactin_plots/{search_type}_numdomains_per_graph.png", dpi=300)
         plt.close()
 
     for search_type, sub in df.groupby("SearchType"):
@@ -191,7 +191,7 @@ def analyze_graphs():
             frameon=False
         )
         plt.tight_layout()
-        plt.savefig(f"./plots/{search_type}_numuniqdomains_per_graph.png", dpi=300)
+        plt.savefig(f"./colibactin_plots/{search_type}_numuniqdomains_per_graph.png", dpi=300)
         plt.close()
 
     graph_counts = (
@@ -214,7 +214,7 @@ def analyze_graphs():
     ax.yaxis.grid(True, linestyle="--", linewidth=0.5)
 
     plt.tight_layout()
-    plt.savefig("./plots/graphs_per_search_type.png", dpi=300)
+    plt.savefig("./colibactin_plots/graphs_per_search_type.png", dpi=300)
     plt.close()
 
 def analyze_graphs_from_json_names(base_dir="./data/comparisons/graphs_json"):
@@ -303,7 +303,7 @@ def analyze_graphs_from_json_names(base_dir="./data/comparisons/graphs_json"):
         ax.set_ylabel("Species")
         ax.xaxis.grid(True, linestyle="--", linewidth=0.5)
         plt.tight_layout()
-        plt.savefig(f"./plots/stacked_queries_labeled_{search_type.lower()}.png", dpi=300)
+        plt.savefig(f"./colibactin_plots/stacked_queries_labeled_{search_type.lower()}.png", dpi=300)
         plt.close()
 
 
@@ -348,7 +348,7 @@ def analyze_graphs_from_json_names(base_dir="./data/comparisons/graphs_json"):
         ax.set_ylabel("Species")
         ax.xaxis.grid(True, linestyle="--", linewidth=0.5)
         plt.tight_layout()
-        plt.savefig(f"./plots/stacked_queries_unique_{search_type.lower()}.png", dpi=300)
+        plt.savefig(f"./colibactin_plots/stacked_queries_unique_{search_type.lower()}.png", dpi=300)
         plt.close()
 
 def analyze_graphs_from_json(base_dir="./data/comparisons/graphs_json"):
@@ -427,7 +427,7 @@ def analyze_graphs_from_json(base_dir="./data/comparisons/graphs_json"):
     ax.legend(title="Search Type", loc="center left", bbox_to_anchor=(1.02, 0.5), frameon=False)
     ax.xaxis.grid(True, linestyle="--", linewidth=0.5)
     plt.tight_layout()
-    plt.savefig("./plots/uniq_matched_queries_per_species.png", dpi=300)
+    plt.savefig("./colibactin_plots/uniq_matched_queries_per_species.png", dpi=300)
     plt.close()
 
 
@@ -485,7 +485,7 @@ def plot_abundance_boxplots(
         ax.xaxis.grid(True, linestyle="--", linewidth=0.5)
 
         plt.tight_layout()
-        plt.savefig(f"./plots/{search_label}_abundance_boxplots.png", dpi=300)
+        plt.savefig(f"./colibactin_plots/{search_label}_abundance_boxplots.png", dpi=300)
         plt.close()
 
 
@@ -544,7 +544,7 @@ def plot_prevalence_boxplots(
         ax.xaxis.grid(True, linestyle="--", linewidth=0.5)
 
         plt.tight_layout()
-        plt.savefig(f"./plots/{search_label}_prevalence_boxplots.png", dpi=300)
+        plt.savefig(f"./colibactin_plots/{search_label}_prevalence_boxplots.png", dpi=300)
         plt.close()
 
 
@@ -668,7 +668,7 @@ def plot_abundance_boxplots_per_d_group(
 
         plt.tight_layout()
         plt.savefig(
-            f"./plots/{search_label}_abundance_boxplots_by_disease_group.png",
+            f"./colibactin_plots/{search_label}_abundance_boxplots_by_disease_group.png",
             dpi=300
         )
         plt.close()
@@ -734,7 +734,7 @@ def analyze_contig_break():
     ax.set_ylabel('Gene order', fontsize=12)
 
     plt.tight_layout()
-    plt.savefig('./plots/contig_break/gene_contig_heatmap.png', dpi=300, bbox_inches='tight')
+    plt.savefig('./colibactin_plots/contig_break/gene_contig_heatmap.png', dpi=300, bbox_inches='tight')
     plt.show()
 
 # ==============================================================================
@@ -789,7 +789,7 @@ def analyze_contig_break():
         ax.set_xlabel('Contig position (bp)', fontsize=10)
 
     plt.tight_layout()
-    plt.savefig('./plots/contig_break/gene_coverage_tiling.png', dpi=300, bbox_inches='tight')
+    plt.savefig('./colibactin_plots/contig_break/gene_coverage_tiling.png', dpi=300, bbox_inches='tight')
     plt.show()
 
 if __name__ == "__main__":
