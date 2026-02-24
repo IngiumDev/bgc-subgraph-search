@@ -217,6 +217,139 @@ def analyze_graphs():
     plt.savefig("./plots/graphs_per_search_type.png", dpi=300)
     plt.close()
 
+def analyze_graphs_from_json_names(base_dir="./data/comparisons/graphs_json"):
+
+    search_types = {
+        "colibactin_ecoli_default": "Default",
+        "colibactin_ecoli_regex": "Regex",
+        "colibactin_ecoli_perm": "Permutation"
+    }
+
+    rows = []
+
+    # -------- Collect per-graph FG hits --------
+    for search_key, search_label in search_types.items():
+        search_dir = Path(base_dir) / search_key / "meta"
+
+        for json_file in search_dir.glob("*.json"):
+            graph_name = json_file.stem
+            species = graph_name.split("_", 1)[1]
+
+            with open(json_file) as f:
+                node_map = json.load(f)["label_info"]
+
+            # Count each FG occurrence
+            for fg in node_map.values():
+                rows.append({
+                    "SearchType": search_label,
+                    "Species": species,
+                    "FG": fg
+                })
+
+    df = pd.DataFrame(rows)
+
+    # -------- Aggregate per species + search type + FG --------
+    agg = (
+        df.groupby(["SearchType", "Species", "FG"])
+        .size()
+        .reset_index(name="Count")
+    )
+
+    # Order species by total matches
+    species_order = (
+        agg.groupby("Species")["Count"]
+        .sum()
+        .sort_values(ascending=False)
+        .index
+        .tolist()
+    )
+
+
+    import numpy as np
+    for search_type in agg["SearchType"].unique():
+        subset = agg[agg["SearchType"] == search_type]
+
+        pivot = (
+            subset.pivot(index="Species", columns="FG", values="Count")
+            .fillna(0)
+            .reindex(species_order, fill_value=0)
+        )
+
+        fig, ax = plt.subplots(figsize=(12, 6))
+
+        left = np.zeros(len(pivot))  # track stacking position
+
+        for fg in pivot.columns:
+            values = pivot[fg].values
+            bars = ax.barh(pivot.index, values, left=left, edgecolor="black", label=fg)
+
+            # ---- Add FG name text inside each segment ----
+            for i, (bar, val) in enumerate(zip(bars, values)):
+                if val > 0:  # only label non-zero segments
+                    ax.text(
+                        left[i] + val / 2,
+                        bar.get_y() + bar.get_height() / 2,
+                        fg,
+                        ha='center',
+                        va='center',
+                        fontsize=7,
+                        color='black'
+                    )
+
+            left += values  # update stacking position
+
+        ax.set_title(f"Matched Query Composition per Species ({search_type})")
+        ax.set_xlabel("Number of Matches")
+        ax.set_ylabel("Species")
+        ax.xaxis.grid(True, linestyle="--", linewidth=0.5)
+        plt.tight_layout()
+        plt.savefig(f"./plots/stacked_queries_labeled_{search_type.lower()}.png", dpi=300)
+        plt.close()
+
+
+        df_unique = df.drop_duplicates(["SearchType", "Species", "FG"])
+
+        agg_unique = (
+            df_unique.groupby(["SearchType", "Species", "FG"])
+            .size()
+            .reset_index(name="Count")
+        )
+    for search_type in agg_unique["SearchType"].unique():
+        subset = agg_unique[agg_unique["SearchType"] == search_type]
+
+        pivot = (
+            subset.pivot(index="Species", columns="FG", values="Count")
+            .fillna(0)
+            .reindex(species_order, fill_value=0)
+        )
+
+        fig, ax = plt.subplots(figsize=(12, 6))
+        left = np.zeros(len(pivot))
+
+        for fg in pivot.columns:
+            values = pivot[fg].values
+            bars = ax.barh(pivot.index, values, left=left, edgecolor="black", label=fg)
+
+            for i, (bar, val) in enumerate(zip(bars, values)):
+                if val > 0:
+                    ax.text(
+                        left[i] + val / 2,
+                        bar.get_y() + bar.get_height() / 2,
+                        fg,
+                        ha='center',
+                        va='center',
+                        fontsize=7
+                    )
+
+            left += values
+
+        ax.set_title(f"Unique Query Presence per Species ({search_type})")
+        ax.set_xlabel("Number of Unique Queries")
+        ax.set_ylabel("Species")
+        ax.xaxis.grid(True, linestyle="--", linewidth=0.5)
+        plt.tight_layout()
+        plt.savefig(f"./plots/stacked_queries_unique_{search_type.lower()}.png", dpi=300)
+        plt.close()
 
 def analyze_graphs_from_json(base_dir="./data/comparisons/graphs_json"):
     """
@@ -455,8 +588,8 @@ def plot_abundance_boxplots_per_d_group(
             node_labels = data["label_info"]
 
             for node_id, node_data in node_info.items():
-                # if node_id not in node_labels.keys():
-                #     continue
+                if node_id not in node_labels.keys():
+                    continue
 
                 abundance_annot = node_data.get("abundance_annotation", {})
 
@@ -548,6 +681,7 @@ from matplotlib.patches import Rectangle, FancyBboxPatch
 from matplotlib.collections import PatchCollection
 
 def analyze_contig_break():
+    from matplotlib.colors import ListedColormap, BoundaryNorm
 # Read the BLAST data
 
     
@@ -567,11 +701,37 @@ def analyze_contig_break():
 
     presence_matrix = (hit_matrix > 0).astype(int)
 
-    ax = sns.heatmap(hit_matrix, annot=True, fmt='d', cmap='YlOrRd', 
-                cbar_kws={'label': 'Number of BLAST hits'})
+    ## ORI
+    # ax = sns.heatmap(hit_matrix, annot=True, fmt='d', cmap='YlOrRd', 
+    #             cbar_kws={'label': 'Number of BLAST hits'})
+    # ax.set_title('Number of BLAST Hits per Gene-Contig Pair', fontsize=14, fontweight='bold')
+    # ax.set_xlabel('Contig', fontsize=12)
+    # ax.set_ylabel('Gene (operon order)', fontsize=12)
+    # ORI
+
+
+
+    grey = sns.color_palette("muted")[7]  # or use "light:#808080" for custom grey
+    green = sns.color_palette("muted")[2]  # seaborn's green
+    red = sns.color_palette("muted")[3]    # seaborn's red
+    cmap = ListedColormap([grey, green, red])
+    # cmap = ListedColormap(['lightgrey', 'green', 'red'])
+
+# Define boundaries so each integer gets its own color
+    norm = BoundaryNorm([-0.5, 0.5, 1.5, 2.5], cmap.N)
+
+    ax = sns.heatmap(
+        hit_matrix,
+        annot=True,
+        fmt='d',
+        cmap=cmap,
+        norm=norm,
+        cbar_kws={'label': 'Number of BLAST hits', 'ticks': [0, 1, 2]}
+    )
+
     ax.set_title('Number of BLAST Hits per Gene-Contig Pair', fontsize=14, fontweight='bold')
     ax.set_xlabel('Contig', fontsize=12)
-    ax.set_ylabel('Gene (operon order)', fontsize=12)
+    ax.set_ylabel('Gene order', fontsize=12)
 
     plt.tight_layout()
     plt.savefig('./plots/contig_break/gene_contig_heatmap.png', dpi=300, bbox_inches='tight')
@@ -634,11 +794,12 @@ def analyze_contig_break():
 
 if __name__ == "__main__":
     # compare_fg_to_gc()
-    #
+
     # analyze_graphs_from_json(base_dir="./data/comparisons/graphs/")
+    # analyze_graphs_from_json_names(base_dir="./data/comparisons/graphs/")
     # plot_abundance_boxplots(base_dir="./data/comparisons/graphs/")
     # plot_prevalence_boxplots(base_dir="./data/comparisons/graphs/")
 
-    plot_abundance_boxplots_per_d_group(base_dir="./data/comparisons/graphs/")
-    # analyze_contig_break()
+    # plot_abundance_boxplots_per_d_group(base_dir="./data/comparisons/graphs/")
+    analyze_contig_break()
 
