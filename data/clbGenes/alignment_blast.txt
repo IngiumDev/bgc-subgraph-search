@@ -1,0 +1,164 @@
+BLASTN 2.12.0+
+
+
+Reference: Zheng Zhang, Scott Schwartz, Lukas Wagner, and Webb
+Miller (2000), "A greedy algorithm for aligning DNA sequences", J
+Comput Biol 2000; 7(1-2):203-14.
+
+
+
+Database: User specified sequence set (Input: clbSeparateGenes/clbK.fa).
+           1 sequences; 6,501 total letters
+
+
+
+Query= clbJ
+
+Length=6644
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+clbK                                                                  2396    0.0  
+
+
+> clbK
+Length=6501
+
+ Score = 2396 bits (1297),  Expect = 0.0
+ Identities = 1428/1489 (96%), Gaps = 18/1489 (1%)
+ Strand=Plus/Plus
+
+Query  684   GACTTCCCCCAGTTCGATACGGTAACCATTCACCTTCACTTGGGTATCGTTGCGCCCCAA  743
+             || |||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1461  GATTTCCCCCAGTTCGATACGGTAACCATTCACCTTCACTTGGGTATCGTTGCGCCCCAA  1520
+
+Query  744   AAAGGCGACTTGCCCGTCAGCAAAGTAGCGCCCGCGATCCCCAGTGCGGTAAATTCGCTC  803
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1521  AAAGGCGACTTGCCCGTCAGCAAAGTAGCGCCCGCGATCCCCAGTGCGGTAAATTCGCTC  1580
+
+Query  804   ACCACTCGCTTCGCGCCAGACAAAGCTCGCCGCCGTTTTCTCTGCGTCGTTCAGGTAGCC  863
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1581  ACCACTCGCTTCGCGCCAGACAAAGCTCGCCGCCGTTTTCTCTGCGTCGTTCAGGTAGCC  1640
+
+Query  864   TTGTGCCAGCCCCATCCCGCCAATGCAAATCTCTCCTTCCACCCCGACCGGACATTCCTC  923
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1641  TTGTGCCAGCCCCATCCCGCCAATGCAAATCTCTCCTTCCACCCCGACCGGACATTCCTC  1700
+
+Query  924   CAGTTGCGCATTTAGCACGTATACTGGCTGGTTGCGCAGGCCCCGACCGTAGGGAATACT  983
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1701  CAGTTGCGCATTTAGCACGTATACTGGCTGGTTGCGCAGGCCCCGACCGTAGGGAATACT  1760
+
+Query  984   GGTCCACGTCGATTCCACCTCACCTATCGGGTAGTAGACCGACCAGATGGCGCACTCGGT  1043
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1761  GGTCCACGTCGATTCCACCTCACCTATCGGGTAGTAGACCGACCAGATGGCGCACTCGGT  1820
+
+Query  1044  CGCTCCACCCAGACTGATGATGTCCATCGTTTCATTGAGCCGCTCGCGCATCTGCTCCGG  1103
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1821  CGCTCCACCCAGACTGATGATGTCCATCGTTTCATTGAGCCGCTCGCGCATCTGCTCCGG  1880
+
+Query  1104  TAACGTTAGCGGGATCCAGTCGCCGCTCAACAGTGCCAGACGCAACGTCGGATAACTCAT  1163
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1881  TAACGTTAGCGGGATCCAGTCGCCGCTCAACAGTGCCAGACGCAACGTCGGATAACTCAT  1940
+
+Query  1164  CCGATCGCCGCTGTGGTATTCGCACAGCATCTGCATCAGTGCGGGCACTGCATTCCAGAC  1223
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1941  CCGATCGCCGCTGTGGTATTCGCACAGCATCTGCATCAGTGCGGGCACTGCATTCCAGAC  2000
+
+Query  1224  GCTTACATGACCGTGTGCCATAACTGTCTGCCAATGACGCGGATCTTTTTCCCGTCCTGC  1283
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2001  GCTTACATGACCGTGTGCCATAACTGTCTGCCAATGACGCGGATCTTTTTCCCGTCCTGC  2060
+
+Query  1284  TTCCGGCAGTACCAGCGCTGCACCCACCATAAAAGGCGCAAAGGCATCGTAAACCGACAG  1343
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2061  TTCCGGCAGTACCAGCGCTGCACCCACCATAAAAGGCGCAAAGGCATCGTAAACCGACAG  2120
+
+Query  1344  GTCAAAGCTCAATGATGACAGCCCGAACACCCTATCCTGCGCATTGAGGCCAAAGCGTTC  1403
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2121  GTCAAAGCTCAATGATGACAGCCCGAACACCCTATCCTGCGCATTGAGGCCAAAGCGTTC  2180
+
+Query  1404  GTTGATGTCTTCCAGCGTGTTCATGGCCGCACGGTGGTCGATCATCACTCCTTTCGGGGT  1463
+             ||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2181  GTTGATGTCTTCCAGTGTGTTCATGGCCGCACGGTGGTCGATCATCACTCCTTTCGGGGT  2240
+
+Query  1464  ACCGGTGGAGCCGGAAGTGAAAATGATATAGGCCAGATCCGTGACATCCCCAGCCACTTC  1523
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2241  ACCGGTGGAGCCGGAAGTGAAAATGATATAGGCCAGATCCGTGACATCCCCAGCCACTTC  2300
+
+Query  1524  AGGCAACGGCGCAGCAGGCGTGTCCAGCATTCCGTCGTCGATGATCAGCACGGGCAGCGA  1583
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2301  AGGCAACGGCGCAGCAGGCGTGTCCAGCATTCCGTCGTCGATGATCAGCACGGGCAGCGA  2360
+
+Query  1584  CGGCTCCAATTGCGTGAGACCCGGCTGCGTTACTTGTACCCGCACCTCGCCCACCGTCAG  1643
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2361  CGGCTCCAATTGCGTGAGACCCGGCTGCGTTACTTGTACCCGCACCTCGCCCACCGTCAG  2420
+
+Query  1644  CAAAAGCTGGCGACGCTGTGGCGGTAGCACCGGATCCACTGGCAGATAGACCGCACCCAG  1703
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2421  CAAAAGCTGGCGACGCTGTGGCGGTAGCACCGGATCCACTGGCAGATAGACCGCACCCAG  2480
+
+Query  1704  TCGTAAAATGCCGTGTACGGCGGCAATCTGCTGCCAGCCTTTTTCCATCACCACCGCCAC  1763
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2481  TCGTAAAATGCCGTGTACGGCGGCAATCTGCTGCCAGCCTTTTTCCATCACCACCGCCAC  2540
+
+Query  1764  GCGGTCGCCATGCTGCACGCCCAGCGCTAACAGGGCGCGGGCCACATGATCCGCCGCCGT  1823
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2541  GCGGTCGCCATGCTGCACGCCCAGCGCTAACAGGGCGCGGGCCACATGATCCGCCGCCGT  2600
+
+Query  1824  CGACAGTTGGCGATAGGTCAATTCACGGATAGGACTGATCAGCGCAGTTTCCTGTGGCGT  1883
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2601  CGACAGTTGGCGATAGGTCAATTCACGGATAGGACTGATCAGCGCAGTTTCCTGTGGCGT  2660
+
+Query  1884  CAGTGCTGCCTGACGCAGTAATCCATGGTGCAACAAGGCCGTAGGTGCAGGAGCCTGCGT  1943
+             ||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||
+Sbjct  2661  CAGTGCTGCCTGACGCAGTAACCCATGGTGCAACAAGGCCGTAGGTGCAGGAGCCTGCGT  2720
+
+Query  1944  GACCGGTGCACTAACGGTGGGCAGCGCCAG-AGAACTATTTACCCCCCA-CCA-A-CTTT  1999
+             |||||||||||||||||||||||||||||| | | || |  |  | |   ||| | || |
+Sbjct  2721  GACCGGTGCACTAACGGTGGGCAGCGCCAGCACATCT-TG-AGTCTCATGCCAGAGCTGT  2778
+
+Query  2000  G-CGGCATGGCAACCAGCGCCTGCAGCGCAT-GACAATAAGCACCA-AACATCTGATCCA  2056
+             |   || |||   | || || ||||| |  | | |||||| |||   |||||||||||||
+Sbjct  2779  GGTCGC-TGGG--CTAGGGCGTGCAG-GAGTTGGCAATAA-CACTGGAACATCTGATCCA  2833
+
+Query  2057  GCAGCGT-GGTATCAAACAGTTGCTCGACCGCGTCCCAGTTGAAATGCAACTCCCCAGCC  2115
+               ||||  ||| ||||||| ||| || ||| ||||||| || || ||||| ||||| |  
+Sbjct  2834  TTAGCGCCGGT-TCAAACAATTGTTCCACCACGTCCCAATTAAAGTGCAATTCCCC-GTT  2891
+
+Query  2116  AA-CTCGATCACCTGGTGATCGAGCCACACCTGCGGTGTTTGGGTAATA  2163
+             |  ||| || ||||| ||||||||||||||||||||||| || | ||||
+Sbjct  2892  ACGCTCCATTACCTGATGATCGAGCCACACCTGCGGTGTCTGTGAAATA  2940
+
+
+ Score = 132 bits (71),  Expect = 7e-33
+ Identities = 71/71 (100%), Gaps = 0/71 (0%)
+ Strand=Plus/Plus
+
+Query  1     GGTACCGGCAGTTCATGCCAACAATGGCAATATCGCTTTCACTGTAAGTCATTAGTTTTT  60
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6431  GGTACCGGCAGTTCATGCCAACAATGGCAATATCGCTTTCACTGTAAGTCATTAGTTTTT  6490
+
+Query  61    CCTTAACGCTG  71
+             |||||||||||
+Sbjct  6491  CCTTAACGCTG  6501
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 42969468
+
+
+  Database: User specified sequence set (Input: clbSeparateGenes/clbK.fa).
+    Posted date:  Unknown
+  Number of letters in database: 6,501
+  Number of sequences in database:  1
+
+
+
+Matrix: blastn matrix 1 -2
+Gap Penalties: Existence: 0, Extension: 2.5
